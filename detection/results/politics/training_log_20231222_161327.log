@@ -1,0 +1,19 @@
+2023-12-22 16:13:27,271 - 
+Starting detection model - naMOppX9Mn
+2023-12-22 16:13:51,123 - Epoch 1 average train loss: 0.0
+2023-12-22 16:13:52,573 - Evaluation Results
+2023-12-22 16:13:52,573 - Training time: 19.635106086730957 seconds
+2023-12-22 16:13:52,574 - Inference time: 1.340334415435791 seconds
+2023-12-22 16:13:52,574 - Precision: 0.5699658703071673
+2023-12-22 16:13:52,574 - Recall: 0.5859649122807018
+2023-12-22 16:13:52,574 - F-score: 0.5778546712802769
+2023-12-22 16:13:52,574 - Accuracy: 0.8101167315175097
+2023-12-22 16:13:52,575 - G-mean: 0.6889847454920801
+2023-12-22 16:13:52,575 - Additional Info
+2023-12-22 16:13:52,575 - Model name: albert-base-v2
+2023-12-22 16:13:52,575 - Datasets list: politics
+2023-12-22 16:13:52,576 - Dataset size: 6424
+2023-12-22 16:13:52,576 - Layers frozen: 0
+2023-12-22 16:13:52,576 - Learning rate: 1e-05
+2023-12-22 16:13:52,576 - Class weights: Auto weights - [0.20781444582814446, 0.7921855541718555]
+2023-12-22 16:13:52,576 - Model not saved, didn't meet minimum accuracy threshold

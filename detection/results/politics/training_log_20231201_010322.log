@@ -1,0 +1,17 @@
+2023-12-01 01:03:22,711 - 
+Starting detection model - mWge2YMgTW
+2023-12-01 01:03:54,113 - Evaluation Results
+2023-12-01 01:03:54,114 - Training time: 24.52733564376831 seconds
+2023-12-01 01:03:54,114 - Inference time: 1.2599453926086426 seconds
+2023-12-01 01:03:54,114 - Precision: 0.8206521739130435
+2023-12-01 01:03:54,115 - Recall: 0.5298245614035088
+2023-12-01 01:03:54,115 - F-score: 0.6439232409381663
+2023-12-01 01:03:54,115 - Accuracy: 0.8700389105058366
+2023-12-01 01:03:54,115 - G-mean: 0.6789462306860106
+2023-12-01 01:03:54,115 - Additional Info
+2023-12-01 01:03:54,115 - Model name: distilbert-base-uncased
+2023-12-01 01:03:54,115 - Datasets list: politics
+2023-12-01 01:03:54,115 - Layers frozen: 0
+2023-12-01 01:03:54,115 - Learning rate: 1e-05
+2023-12-01 01:03:54,115 - Class weights: [0.45, 0.55]
+2023-12-01 01:03:54,115 - Model saved to: ./models/bert_model_mWge2YMgTW.pt

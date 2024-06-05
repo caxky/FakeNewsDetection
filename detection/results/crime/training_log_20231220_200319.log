@@ -1,0 +1,18 @@
+2023-12-20 20:03:19,114 - 
+Starting detection model - BDuN6l4UC2
+2023-12-20 20:03:46,943 - Evaluation Results
+2023-12-20 20:03:46,943 - Training time: 21.59782576560974 seconds
+2023-12-20 20:03:46,943 - Inference time: 1.8442308902740479 seconds
+2023-12-20 20:03:46,944 - Precision: 0.7352941176470589
+2023-12-20 20:03:46,944 - Recall: 0.4065040650406504
+2023-12-20 20:03:46,944 - F-score: 0.5235602094240838
+2023-12-20 20:03:46,944 - Accuracy: 0.59375
+2023-12-20 20:03:46,944 - G-mean: 0.491285852246822
+2023-12-20 20:03:46,944 - Additional Info
+2023-12-20 20:03:46,944 - Model name: distilbert-base-uncased
+2023-12-20 20:03:46,944 - Datasets list: crime
+2023-12-20 20:03:46,944 - Dataset size: 1119
+2023-12-20 20:03:46,944 - Layers frozen: 0
+2023-12-20 20:03:46,944 - Learning rate: 1e-05
+2023-12-20 20:03:46,944 - Class weights: Default weights - [0.4879356568364611, 0.5120643431635389]
+2023-12-20 20:03:46,944 - Model not saved, didn't meet minimum accuracy threshold

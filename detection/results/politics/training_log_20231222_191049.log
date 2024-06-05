@@ -1,0 +1,19 @@
+2023-12-22 19:10:49,231 - 
+Starting detection model - nfFZXb5Zeb
+2023-12-22 19:11:23,081 - Epoch 1 average train loss: 0.0
+2023-12-22 19:11:24,503 - Evaluation Results
+2023-12-22 19:11:24,504 - Training time: 22.169273853302002 seconds
+2023-12-22 19:11:24,504 - Inference time: 1.158667802810669 seconds
+2023-12-22 19:11:24,504 - Precision: 0.5084337349397591
+2023-12-22 19:11:24,504 - Recall: 0.7403508771929824
+2023-12-22 19:11:24,504 - F-score: 0.6028571428571429
+2023-12-22 19:11:24,504 - Accuracy: 0.7836575875486381
+2023-12-22 19:11:24,504 - G-mean: 0.7616965159173111
+2023-12-22 19:11:24,504 - Additional Info
+2023-12-22 19:11:24,504 - Model name: albert-base-v2
+2023-12-22 19:11:24,505 - Datasets list: politics
+2023-12-22 19:11:24,505 - Dataset size: 6424
+2023-12-22 19:11:24,505 - Layers frozen: 0
+2023-12-22 19:11:24,505 - Learning rate: 1e-05
+2023-12-22 19:11:24,505 - Class weights: Auto weights - [0.20781444582814446, 0.7921855541718555]
+2023-12-22 19:11:24,505 - Model saved to: ./models/bert_model_nfFZXb5Zeb.pt

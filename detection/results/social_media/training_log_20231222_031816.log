@@ -1,0 +1,19 @@
+2023-12-22 03:18:16,687 - 
+Starting detection model - TUINIqj4ZO
+2023-12-22 04:00:36,912 - Epoch 1 average train loss: 0.0
+2023-12-22 04:03:56,089 - Evaluation Results
+2023-12-22 04:03:56,090 - Training time: 2464.4899911880493 seconds
+2023-12-22 04:03:56,090 - Inference time: 198.1321883201599 seconds
+2023-12-22 04:03:56,090 - Precision: 0.9727804165144318
+2023-12-22 04:03:56,090 - Recall: 0.9215991692627207
+2023-12-22 04:03:56,090 - F-score: 0.9464984002843939
+2023-12-22 04:03:56,091 - Accuracy: 0.9551014319809069
+2023-12-22 04:03:56,091 - G-mean: 0.9382007707709682
+2023-12-22 04:03:56,091 - Additional Info
+2023-12-22 04:03:56,091 - Model name: roberta-base
+2023-12-22 04:03:56,091 - Datasets list: social_media
+2023-12-22 04:03:56,091 - Dataset size: 67038
+2023-12-22 04:03:56,091 - Layers frozen: 0
+2023-12-22 04:03:56,091 - Learning rate: 1e-05
+2023-12-22 04:03:56,091 - Class weights: Auto weights - [0.4296667561681434, 0.5703332438318566]
+2023-12-22 04:03:56,091 - Model saved to: ./models/bert_model_TUINIqj4ZO.pt

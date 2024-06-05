@@ -1,0 +1,17 @@
+2023-12-01 01:06:57,494 - 
+Starting detection model - EPSL2vDQDa
+2023-12-01 01:07:05,089 - Evaluation Results
+2023-12-01 01:07:05,089 - Training time: 5.959760904312134 seconds
+2023-12-01 01:07:05,089 - Inference time: 0.5200541019439697 seconds
+2023-12-01 01:07:05,089 - Precision: 0.0
+2023-12-01 01:07:05,090 - Recall: 0.0
+2023-12-01 01:07:05,090 - F-score: 0.0
+2023-12-01 01:07:05,090 - Accuracy: 0.7582417582417582
+2023-12-01 01:07:05,090 - G-mean: 0.0
+2023-12-01 01:07:05,090 - Additional Info
+2023-12-01 01:07:05,090 - Model name: albert-base-v2
+2023-12-01 01:07:05,090 - Datasets list: science
+2023-12-01 01:07:05,090 - Layers frozen: 0
+2023-12-01 01:07:05,090 - Learning rate: 1e-05
+2023-12-01 01:07:05,090 - Class weights: [0.45, 0.55]
+2023-12-01 01:07:05,090 - Model not saved, didn't meet minimum accuracy threshold

@@ -1,0 +1,19 @@
+2023-12-22 08:41:45,586 - 
+Starting detection model - as3Z0hSOab
+2023-12-22 08:42:14,010 - Epoch 1 average train loss: 0.0
+2023-12-22 08:42:15,670 - Evaluation Results
+2023-12-22 08:42:15,670 - Training time: 23.30060338973999 seconds
+2023-12-22 08:42:15,670 - Inference time: 1.195582389831543 seconds
+2023-12-22 08:42:15,670 - Precision: 0.9680851063829787
+2023-12-22 08:42:15,670 - Recall: 0.3192982456140351
+2023-12-22 08:42:15,671 - F-score: 0.48021108179419525
+2023-12-22 08:42:15,671 - Accuracy: 0.846692607003891
+2023-12-22 08:42:15,671 - G-mean: 0.5199494821525608
+2023-12-22 08:42:15,671 - Additional Info
+2023-12-22 08:42:15,671 - Model name: bert-base-cased
+2023-12-22 08:42:15,671 - Datasets list: politics
+2023-12-22 08:42:15,671 - Dataset size: 6424
+2023-12-22 08:42:15,671 - Layers frozen: 0
+2023-12-22 08:42:15,671 - Learning rate: 1e-05
+2023-12-22 08:42:15,671 - Class weights: Default weights - [0.7921855541718555, 0.20781444582814446]
+2023-12-22 08:42:15,671 - Model saved to: ./models/bert_model_as3Z0hSOab.pt

@@ -1,0 +1,17 @@
+2023-12-01 00:36:03,147 - 
+Starting detection model - PPhHuC5pp1
+2023-12-01 00:36:52,827 - Evaluation Results
+2023-12-01 00:36:52,828 - Training time: 42.67426371574402 seconds
+2023-12-01 00:36:52,828 - Inference time: 3.722161054611206 seconds
+2023-12-01 00:36:52,828 - Precision: 0.5454545454545454
+2023-12-01 00:36:52,828 - Recall: 0.975609756097561
+2023-12-01 00:36:52,828 - F-score: 0.6997084548104956
+2023-12-01 00:36:52,828 - Accuracy: 0.5401785714285714
+2023-12-01 00:36:52,828 - G-mean: 0.7259500563541251
+2023-12-01 00:36:52,829 - Additional Info
+2023-12-01 00:36:52,829 - Model name: roberta-base
+2023-12-01 00:36:52,829 - Datasets list: crime
+2023-12-01 00:36:52,829 - Layers frozen: 0
+2023-12-01 00:36:52,829 - Learning rate: 1e-05
+2023-12-01 00:36:52,829 - Class weights: [0.45, 0.55]
+2023-12-01 00:36:52,829 - Model not saved, didn't meet minimum accuracy threshold

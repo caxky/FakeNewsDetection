@@ -1,0 +1,22 @@
+2023-12-16 16:56:05,903 - 
+Starting detection model - IOhpyqj68a
+2023-12-16 16:57:32,106 - Epoch 1 average train loss: 0.6318789720535278
+2023-12-16 16:58:55,424 - Epoch 2 average train loss: 0.4924449622631073
+2023-12-16 17:00:18,830 - Epoch 3 average train loss: 0.20525622367858887
+2023-12-16 17:01:42,140 - Epoch 4 average train loss: 0.1754392832517624
+2023-12-16 17:01:50,500 - Evaluation Results
+2023-12-16 17:01:50,500 - Training time: 333.4266278743744 seconds
+2023-12-16 17:01:50,500 - Inference time: 7.887842655181885 seconds
+2023-12-16 17:01:50,500 - Precision: 1.0
+2023-12-16 17:01:50,500 - Recall: 0.25
+2023-12-16 17:01:50,500 - F-score: 0.4
+2023-12-16 17:01:50,500 - Accuracy: 0.8186813186813187
+2023-12-16 17:01:50,500 - G-mean: 0.4524050504474167
+2023-12-16 17:01:50,500 - Additional Info
+2023-12-16 17:01:50,500 - Model name: bert-base-uncased
+2023-12-16 17:01:50,501 - Datasets list: science
+2023-12-16 17:01:50,501 - Layers frozen: 0
+2023-12-16 17:01:50,501 - Learning rate: 5e-05
+2023-12-16 17:01:50,501 - Batch size: 32
+2023-12-16 17:01:50,501 - Class weights: [0.45, 0.55]
+2023-12-16 17:01:50,501 - Model saved to: ./models\bert_model_IOhpyqj68a.pt

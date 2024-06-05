@@ -1,0 +1,19 @@
+2023-12-22 15:24:26,284 - 
+Starting detection model - FbBSoHTsWV
+2023-12-22 15:37:12,573 - Epoch 1 average train loss: 0.0
+2023-12-22 15:37:41,376 - Evaluation Results
+2023-12-22 15:37:41,376 - Training time: 379.92473125457764 seconds
+2023-12-22 15:37:41,376 - Inference time: 28.646024227142334 seconds
+2023-12-22 15:37:41,376 - Precision: 0.9649091236278567
+2023-12-22 15:37:41,377 - Recall: 0.9280027691242645
+2023-12-22 15:37:41,377 - F-score: 0.9460961623290691
+2023-12-22 15:37:41,377 - Accuracy: 0.9544301909307876
+2023-12-22 15:37:41,377 - G-mean: 0.941123722004483
+2023-12-22 15:37:41,377 - Additional Info
+2023-12-22 15:37:41,377 - Model name: distilbert-base-uncased
+2023-12-22 15:37:41,378 - Datasets list: social_media
+2023-12-22 15:37:41,378 - Dataset size: 67038
+2023-12-22 15:37:41,378 - Layers frozen: 0
+2023-12-22 15:37:41,378 - Learning rate: 1e-05
+2023-12-22 15:37:41,378 - Class weights: Auto weights - [0.4296667561681434, 0.5703332438318566]
+2023-12-22 15:37:41,378 - Model not saved, didn't meet minimum accuracy threshold

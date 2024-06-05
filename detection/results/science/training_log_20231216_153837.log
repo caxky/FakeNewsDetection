@@ -1,0 +1,22 @@
+2023-12-16 15:38:37,518 - 
+Starting detection model - nopaKYVC4k
+2023-12-16 15:39:25,579 - Epoch 1 average train loss: 0.6213898062705994
+2023-12-16 15:40:08,225 - Epoch 2 average train loss: 0.4331483542919159
+2023-12-16 15:40:51,494 - Epoch 3 average train loss: 0.21679921448230743
+2023-12-16 15:41:33,753 - Epoch 4 average train loss: 0.12671147286891937
+2023-12-16 15:41:34,252 - Evaluation Results
+2023-12-16 15:41:34,252 - Training time: 173.63011598587036 seconds
+2023-12-16 15:41:34,252 - Inference time: 0.42931222915649414 seconds
+2023-12-16 15:41:34,252 - Precision: 0.4857142857142857
+2023-12-16 15:41:34,252 - Recall: 0.38636363636363635
+2023-12-16 15:41:34,252 - F-score: 0.4303797468354431
+2023-12-16 15:41:34,252 - Accuracy: 0.7527472527472527
+2023-12-16 15:41:34,252 - G-mean: 0.5392904280943301
+2023-12-16 15:41:34,252 - Additional Info
+2023-12-16 15:41:34,252 - Model name: bert-base-uncased
+2023-12-16 15:41:34,252 - Datasets list: science
+2023-12-16 15:41:34,252 - Layers frozen: 0
+2023-12-16 15:41:34,252 - Learning rate: 5e-05
+2023-12-16 15:41:34,252 - Batch size: 16
+2023-12-16 15:41:34,252 - Class weights: [0.45, 0.55]
+2023-12-16 15:41:34,252 - Model not saved, didn't meet minimum accuracy threshold

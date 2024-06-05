@@ -1,0 +1,25 @@
+2023-12-22 18:52:34,744 - 
+Starting detection model - 08yWikprb4
+2023-12-22 18:53:03,450 - Epoch 1 average train loss: 0.0
+2023-12-22 18:53:27,110 - Epoch 2 average train loss: 0.0
+2023-12-22 18:53:51,056 - Epoch 3 average train loss: 0.0
+2023-12-22 18:54:14,767 - Epoch 4 average train loss: 0.0
+2023-12-22 18:54:39,069 - Epoch 5 average train loss: 0.0
+2023-12-22 18:55:02,345 - Epoch 6 average train loss: 0.0
+2023-12-22 18:55:26,279 - Epoch 7 average train loss: 0.0
+2023-12-22 18:55:28,044 - Evaluation Results
+2023-12-22 18:55:28,045 - Training time: 166.42944431304932 seconds
+2023-12-22 18:55:28,045 - Inference time: 1.0551176071166992 seconds
+2023-12-22 18:55:28,045 - Precision: 0.8781512605042017
+2023-12-22 18:55:28,045 - Recall: 0.7333333333333333
+2023-12-22 18:55:28,045 - F-score: 0.7992351816443594
+2023-12-22 18:55:28,045 - Accuracy: 0.9182879377431906
+2023-12-22 18:55:28,045 - G-mean: 0.8206163259069408
+2023-12-22 18:55:28,045 - Additional Info
+2023-12-22 18:55:28,045 - Model name: bert-base-uncased
+2023-12-22 18:55:28,045 - Datasets list: politics
+2023-12-22 18:55:28,045 - Dataset size: 6424
+2023-12-22 18:55:28,045 - Layers frozen: 0
+2023-12-22 18:55:28,045 - Learning rate: 1e-05
+2023-12-22 18:55:28,045 - Class weights: Manual weights - [0.45, 0.55]
+2023-12-22 18:55:28,045 - Model saved to: ./models/bert_model_08yWikprb4.pt

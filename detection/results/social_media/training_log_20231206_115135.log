@@ -1,0 +1,17 @@
+2023-12-06 11:51:35,690 - 
+Starting detection model - PCC4KyB9yX
+2023-12-06 13:09:58,238 - Evaluation Results
+2023-12-06 13:09:58,238 - Training time: 4275.406414747238 seconds
+2023-12-06 13:09:58,238 - Inference time: 192.8256618976593 seconds
+2023-12-06 13:09:58,238 - Precision: 0.9529929577464789
+2023-12-06 13:09:58,238 - Recall: 0.9368293527172031
+2023-12-06 13:09:58,239 - F-score: 0.9448420317681969
+2023-12-06 13:09:58,239 - Accuracy: 0.9528639618138425
+2023-12-06 13:09:58,239 - G-mean: 0.9448126420479416
+2023-12-06 13:09:58,239 - Additional Info
+2023-12-06 13:09:58,239 - Model name: bert-base-uncased
+2023-12-06 13:09:58,239 - Datasets list: social_media
+2023-12-06 13:09:58,239 - Layers frozen: 0
+2023-12-06 13:09:58,239 - Learning rate: 1e-05
+2023-12-06 13:09:58,239 - Class weights: [0.45, 0.55]
+2023-12-06 13:09:58,239 - Model saved to: ./models/bert_model_PCC4KyB9yX.pt

@@ -1,0 +1,19 @@
+2023-12-22 08:43:21,773 - 
+Starting detection model - oUJVREQP5C
+2023-12-22 08:43:50,156 - Epoch 1 average train loss: 0.0
+2023-12-22 08:43:52,034 - Evaluation Results
+2023-12-22 08:43:52,034 - Training time: 23.802690982818604 seconds
+2023-12-22 08:43:52,034 - Inference time: 1.215773582458496 seconds
+2023-12-22 08:43:52,034 - Precision: 0.9375
+2023-12-22 08:43:52,034 - Recall: 0.3684210526315789
+2023-12-22 08:43:52,034 - F-score: 0.5289672544080605
+2023-12-22 08:43:52,034 - Accuracy: 0.8544747081712062
+2023-12-22 08:43:52,034 - G-mean: 0.5610761725750765
+2023-12-22 08:43:52,034 - Additional Info
+2023-12-22 08:43:52,034 - Model name: roberta-base
+2023-12-22 08:43:52,034 - Datasets list: politics
+2023-12-22 08:43:52,034 - Dataset size: 6424
+2023-12-22 08:43:52,034 - Layers frozen: 0
+2023-12-22 08:43:52,035 - Learning rate: 1e-05
+2023-12-22 08:43:52,035 - Class weights: Default weights - [0.7921855541718555, 0.20781444582814446]
+2023-12-22 08:43:52,035 - Model saved to: ./models/bert_model_oUJVREQP5C.pt

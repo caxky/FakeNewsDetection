@@ -1,0 +1,19 @@
+2023-12-22 07:03:40,545 - 
+Starting detection model - aIxGbaeiPd
+2023-12-22 07:22:10,528 - Epoch 1 average train loss: 0.0
+2023-12-22 07:23:07,794 - Evaluation Results
+2023-12-22 07:23:07,794 - Training time: 722.0022549629211 seconds
+2023-12-22 07:23:07,794 - Inference time: 56.67246866226196 seconds
+2023-12-22 07:23:07,794 - Precision: 0.9707166242269917
+2023-12-22 07:23:07,794 - Recall: 0.9236760124610592
+2023-12-22 07:23:07,795 - F-score: 0.9466122738559773
+2023-12-22 07:23:07,795 - Accuracy: 0.9551014319809069
+2023-12-22 07:23:07,795 - G-mean: 0.9392573035052597
+2023-12-22 07:23:07,795 - Additional Info
+2023-12-22 07:23:07,795 - Model name: bert-base-uncased
+2023-12-22 07:23:07,795 - Datasets list: social_media
+2023-12-22 07:23:07,795 - Dataset size: 67038
+2023-12-22 07:23:07,795 - Layers frozen: 0
+2023-12-22 07:23:07,795 - Learning rate: 1e-05
+2023-12-22 07:23:07,795 - Class weights: Default weights - [0.5703332438318566, 0.4296667561681434]
+2023-12-22 07:23:07,796 - Model saved to: ./models/bert_model_aIxGbaeiPd.pt

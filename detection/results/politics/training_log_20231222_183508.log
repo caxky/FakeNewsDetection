@@ -1,0 +1,23 @@
+2023-12-22 18:35:08,919 - 
+Starting detection model - inm33cyLoE
+2023-12-22 18:35:37,310 - Epoch 1 average train loss: 0.0
+2023-12-22 18:36:00,620 - Epoch 2 average train loss: 0.0
+2023-12-22 18:36:24,517 - Epoch 3 average train loss: 0.0
+2023-12-22 18:36:48,107 - Epoch 4 average train loss: 0.0
+2023-12-22 18:37:11,849 - Epoch 5 average train loss: 0.0
+2023-12-22 18:37:13,599 - Evaluation Results
+2023-12-22 18:37:13,599 - Training time: 118.31765580177307 seconds
+2023-12-22 18:37:13,599 - Inference time: 1.0586295127868652 seconds
+2023-12-22 18:37:13,599 - Precision: 0.7484076433121019
+2023-12-22 18:37:13,599 - Recall: 0.8245614035087719
+2023-12-22 18:37:13,599 - F-score: 0.7846410684474123
+2023-12-22 18:37:13,599 - Accuracy: 0.8996108949416343
+2023-12-22 18:37:13,600 - G-mean: 0.8612690765056275
+2023-12-22 18:37:13,600 - Additional Info
+2023-12-22 18:37:13,600 - Model name: bert-base-uncased
+2023-12-22 18:37:13,600 - Datasets list: politics
+2023-12-22 18:37:13,600 - Dataset size: 6424
+2023-12-22 18:37:13,600 - Layers frozen: 0
+2023-12-22 18:37:13,601 - Learning rate: 1e-05
+2023-12-22 18:37:13,601 - Class weights: Manual weights - [0.45, 0.55]
+2023-12-22 18:37:13,601 - Model saved to: ./models/bert_model_inm33cyLoE.pt

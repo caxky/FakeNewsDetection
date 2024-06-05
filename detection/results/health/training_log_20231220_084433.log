@@ -1,0 +1,18 @@
+2023-12-20 08:44:33,417 - 
+Starting detection model - CHSWBT9ISn
+2023-12-20 08:50:08,119 - Evaluation Results
+2023-12-20 08:50:08,119 - Training time: 271.7051739692688 seconds
+2023-12-20 08:50:08,120 - Inference time: 30.35560417175293 seconds
+2023-12-20 08:50:08,120 - Precision: 0.0
+2023-12-20 08:50:08,120 - Recall: 0.0
+2023-12-20 08:50:08,120 - F-score: 0.0
+2023-12-20 08:50:08,120 - Accuracy: 0.376
+2023-12-20 08:50:08,120 - G-mean: 0.0
+2023-12-20 08:50:08,120 - Additional Info
+2023-12-20 08:50:08,121 - Model name: bert-base-cased
+2023-12-20 08:50:08,121 - Datasets list: health Train: ['covid_claims', 'covid_fake_news', 'covid_FNIR'], Test: ['isot_multipurpose']
+2023-12-20 08:50:08,121 - Dataset size: Train: 5932, Test: 2000
+2023-12-20 08:50:08,121 - Layers frozen: 0
+2023-12-20 08:50:08,121 - Learning rate: 1e-05
+2023-12-20 08:50:08,121 - Class weights: [0.4463924477410654, 0.5536075522589345]
+2023-12-20 08:50:08,121 - Model not saved, didn't meet minimum accuracy threshold

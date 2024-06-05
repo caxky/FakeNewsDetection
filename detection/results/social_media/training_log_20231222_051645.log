@@ -1,0 +1,25 @@
+2023-12-22 05:16:45,745 - 
+Starting detection model - fo5SXXFdoJ
+2023-12-22 05:32:42,003 - Epoch 1 average train loss: 0.0
+2023-12-22 05:45:38,996 - Epoch 2 average train loss: 0.0
+2023-12-22 05:58:35,889 - Epoch 3 average train loss: 0.0
+2023-12-22 06:11:32,986 - Epoch 4 average train loss: 0.0
+2023-12-22 06:24:29,999 - Epoch 5 average train loss: 0.0
+2023-12-22 06:37:27,032 - Epoch 6 average train loss: 0.0
+2023-12-22 06:50:24,035 - Epoch 7 average train loss: 0.0
+2023-12-22 06:51:35,106 - Evaluation Results
+2023-12-22 06:51:35,106 - Training time: 5439.2657861709595 seconds
+2023-12-22 06:51:35,107 - Inference time: 70.84261345863342 seconds
+2023-12-22 06:51:35,107 - Precision: 0.9700511322132944
+2023-12-22 06:51:35,107 - Recall: 0.919349255797854
+2023-12-22 06:51:35,107 - F-score: 0.9440199040341213
+2023-12-22 06:51:35,107 - Accuracy: 0.9530131264916468
+2023-12-22 06:51:35,107 - G-mean: 0.9360298652317038
+2023-12-22 06:51:35,107 - Additional Info
+2023-12-22 06:51:35,107 - Model name: albert-base-v2
+2023-12-22 06:51:35,107 - Datasets list: social_media
+2023-12-22 06:51:35,107 - Dataset size: 67038
+2023-12-22 06:51:35,108 - Layers frozen: 0
+2023-12-22 06:51:35,108 - Learning rate: 1e-05
+2023-12-22 06:51:35,108 - Class weights: Auto weights - [0.4296667561681434, 0.5703332438318566]
+2023-12-22 06:51:35,108 - Model saved to: ./models/bert_model_fo5SXXFdoJ.pt

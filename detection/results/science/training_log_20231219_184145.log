@@ -1,0 +1,17 @@
+2023-12-19 18:41:45,561 - 
+Starting detection model - 8srFuGxdaY
+2023-12-19 18:41:57,782 - Evaluation Results
+2023-12-19 18:41:57,782 - Training time: 9.040270566940308 seconds
+2023-12-19 18:41:57,783 - Inference time: 0.5925359725952148 seconds
+2023-12-19 18:41:57,783 - Precision: 0.43243243243243246
+2023-12-19 18:41:57,783 - Recall: 0.36363636363636365
+2023-12-19 18:41:57,784 - F-score: 0.39506172839506176
+2023-12-19 18:41:57,784 - Accuracy: 0.7307692307692307
+2023-12-19 18:41:57,784 - G-mean: 0.5154941956358633
+2023-12-19 18:41:57,784 - Additional Info
+2023-12-19 18:41:57,784 - Model name: bert-base-uncased
+2023-12-19 18:41:57,784 - Datasets list: science
+2023-12-19 18:41:57,784 - Layers frozen: 0
+2023-12-19 18:41:57,784 - Learning rate: 1e-05
+2023-12-19 18:41:57,785 - Class weights: tensor([0.2789, 0.7211])
+2023-12-19 18:41:57,785 - Model saved to: ./models/bert_model_8srFuGxdaY.pt

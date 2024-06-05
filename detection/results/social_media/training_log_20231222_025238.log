@@ -1,0 +1,19 @@
+2023-12-22 02:52:38,740 - 
+Starting detection model - 2pOlUnTYjj
+2023-12-22 03:16:32,750 - Epoch 1 average train loss: 0.0
+2023-12-22 03:18:11,387 - Evaluation Results
+2023-12-22 03:18:11,387 - Training time: 1222.7138254642487 seconds
+2023-12-22 03:18:11,387 - Inference time: 98.34118008613586 seconds
+2023-12-22 03:18:11,387 - Precision: 0.9686366932559826
+2023-12-22 03:18:11,388 - Recall: 0.9247144340602285
+2023-12-22 03:18:11,388 - F-score: 0.9461661058969365
+2023-12-22 03:18:11,388 - Accuracy: 0.954653937947494
+2023-12-22 03:18:11,388 - G-mean: 0.9395649397207653
+2023-12-22 03:18:11,388 - Additional Info
+2023-12-22 03:18:11,388 - Model name: distilbert-base-uncased
+2023-12-22 03:18:11,388 - Datasets list: social_media
+2023-12-22 03:18:11,388 - Dataset size: 67038
+2023-12-22 03:18:11,388 - Layers frozen: 0
+2023-12-22 03:18:11,388 - Learning rate: 1e-05
+2023-12-22 03:18:11,388 - Class weights: Auto weights - [0.4296667561681434, 0.5703332438318566]
+2023-12-22 03:18:11,388 - Model saved to: ./models/bert_model_2pOlUnTYjj.pt

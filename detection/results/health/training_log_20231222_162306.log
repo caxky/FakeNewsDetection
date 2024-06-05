@@ -1,0 +1,19 @@
+2023-12-22 16:23:06,560 - 
+Starting detection model - lNmjIim8zm
+2023-12-22 16:24:39,717 - Epoch 1 average train loss: 0.0
+2023-12-22 16:24:46,074 - Evaluation Results
+2023-12-22 16:24:46,074 - Training time: 69.17838382720947 seconds
+2023-12-22 16:24:46,074 - Inference time: 6.241719484329224 seconds
+2023-12-22 16:24:46,075 - Precision: 0.9148936170212766
+2023-12-22 16:24:46,075 - Recall: 0.6811881188118812
+2023-12-22 16:24:46,075 - F-score: 0.7809307604994326
+2023-12-22 16:24:46,075 - Accuracy: 0.8374052232518955
+2023-12-22 16:24:46,075 - G-mean: 0.7552684878307859
+2023-12-22 16:24:46,075 - Additional Info
+2023-12-22 16:24:46,076 - Model name: albert-base-v2
+2023-12-22 16:24:46,076 - Datasets list: health
+2023-12-22 16:24:46,076 - Dataset size: 5932
+2023-12-22 16:24:46,076 - Layers frozen: 0
+2023-12-22 16:24:46,076 - Learning rate: 1e-05
+2023-12-22 16:24:46,076 - Class weights: Auto weights - [0.4463924477410654, 0.5536075522589345]
+2023-12-22 16:24:46,076 - Model not saved, didn't meet minimum accuracy threshold

@@ -1,0 +1,19 @@
+2023-12-22 19:08:09,467 - 
+Starting detection model - PMY0iWTcdR
+2023-12-22 19:08:44,111 - Epoch 1 average train loss: 0.0
+2023-12-22 19:08:46,089 - Evaluation Results
+2023-12-22 19:08:46,090 - Training time: 23.88157057762146 seconds
+2023-12-22 19:08:46,090 - Inference time: 1.355881929397583 seconds
+2023-12-22 19:08:46,090 - Precision: 0.6885813148788927
+2023-12-22 19:08:46,090 - Recall: 0.6982456140350877
+2023-12-22 19:08:46,090 - F-score: 0.6933797909407665
+2023-12-22 19:08:46,090 - Accuracy: 0.863035019455253
+2023-12-22 19:08:46,090 - G-mean: 0.7762798574569078
+2023-12-22 19:08:46,090 - Additional Info
+2023-12-22 19:08:46,090 - Model name: bert-base-cased
+2023-12-22 19:08:46,090 - Datasets list: politics
+2023-12-22 19:08:46,091 - Dataset size: 6424
+2023-12-22 19:08:46,091 - Layers frozen: 0
+2023-12-22 19:08:46,091 - Learning rate: 1e-05
+2023-12-22 19:08:46,091 - Class weights: Auto weights - [0.20781444582814446, 0.7921855541718555]
+2023-12-22 19:08:46,091 - Model saved to: ./models/bert_model_PMY0iWTcdR.pt

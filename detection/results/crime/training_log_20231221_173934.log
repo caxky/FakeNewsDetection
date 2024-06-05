@@ -1,0 +1,23 @@
+2023-12-21 17:39:34,634 - 
+Starting detection model - 78uORfKwrE
+2023-12-21 17:40:43,442 - Epoch 1 average train loss: 0.0
+2023-12-21 17:41:45,535 - Epoch 2 average train loss: 0.0
+2023-12-21 17:42:36,470 - Epoch 3 average train loss: 0.0
+2023-12-21 17:43:16,133 - Epoch 4 average train loss: 0.0
+2023-12-21 17:43:55,942 - Epoch 5 average train loss: 0.0
+2023-12-21 17:43:56,692 - Evaluation Results
+2023-12-21 17:43:56,692 - Training time: 255.52919483184814 seconds
+2023-12-21 17:43:56,693 - Inference time: 0.6660070419311523 seconds
+2023-12-21 17:43:56,693 - Precision: 0.6190476190476191
+2023-12-21 17:43:56,693 - Recall: 1.0
+2023-12-21 17:43:56,693 - F-score: 0.7647058823529412
+2023-12-21 17:43:56,693 - Accuracy: 0.6190476190476191
+2023-12-21 17:43:56,693 - G-mean: 0.7867957924694432
+2023-12-21 17:43:56,693 - Additional Info
+2023-12-21 17:43:56,693 - Model name: bert-base-cased
+2023-12-21 17:43:56,693 - Datasets list: crime Train: ['fa-kes'], Test: ['snope']
+2023-12-21 17:43:56,693 - Dataset size: Train: 804, Test: 315
+2023-12-21 17:43:56,694 - Layers frozen: 0
+2023-12-21 17:43:56,694 - Learning rate: 1e-05
+2023-12-21 17:43:56,694 - Class weights: Auto weights - [0.4701492537313433, 0.5298507462686567]
+2023-12-21 17:43:56,694 - Model not saved, didn't meet minimum accuracy threshold

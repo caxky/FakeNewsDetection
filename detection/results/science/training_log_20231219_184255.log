@@ -1,0 +1,17 @@
+2023-12-19 18:42:55,728 - 
+Starting detection model - iaANXUj2B4
+2023-12-19 18:43:08,217 - Evaluation Results
+2023-12-19 18:43:08,218 - Training time: 9.260583639144897 seconds
+2023-12-19 18:43:08,218 - Inference time: 0.5718605518341064 seconds
+2023-12-19 18:43:08,219 - Precision: 0.0
+2023-12-19 18:43:08,219 - Recall: 0.0
+2023-12-19 18:43:08,219 - F-score: 0.0
+2023-12-19 18:43:08,219 - Accuracy: 0.7582417582417582
+2023-12-19 18:43:08,219 - G-mean: 0.0
+2023-12-19 18:43:08,219 - Additional Info
+2023-12-19 18:43:08,220 - Model name: roberta-base
+2023-12-19 18:43:08,220 - Datasets list: science
+2023-12-19 18:43:08,220 - Layers frozen: 0
+2023-12-19 18:43:08,220 - Learning rate: 1e-05
+2023-12-19 18:43:08,222 - Class weights: tensor([0.2789, 0.7211])
+2023-12-19 18:43:08,222 - Model saved to: ./models/bert_model_iaANXUj2B4.pt

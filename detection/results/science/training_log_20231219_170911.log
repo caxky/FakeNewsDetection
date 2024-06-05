@@ -1,0 +1,22 @@
+2023-12-19 17:09:11,528 - 
+Starting detection model - GkEuEgrC81
+2023-12-19 17:09:19,580 - Epoch 1 average train loss: 0.6247400045394897
+2023-12-19 17:09:24,005 - Epoch 2 average train loss: 0.5253852605819702
+2023-12-19 17:09:28,446 - Epoch 3 average train loss: 0.35757455229759216
+2023-12-19 17:09:32,876 - Epoch 4 average train loss: 0.18716177344322205
+2023-12-19 17:09:37,323 - Epoch 5 average train loss: 0.15613019466400146
+2023-12-19 17:09:37,760 - Evaluation Results
+2023-12-19 17:09:37,760 - Training time: 23.23482656478882 seconds
+2023-12-19 17:09:37,760 - Inference time: 0.373859167098999 seconds
+2023-12-19 17:09:37,760 - Precision: 0.6875
+2023-12-19 17:09:37,761 - Recall: 0.25
+2023-12-19 17:09:37,761 - F-score: 0.36666666666666664
+2023-12-19 17:09:37,761 - Accuracy: 0.7912087912087912
+2023-12-19 17:09:37,761 - G-mean: 0.4447495899966607
+2023-12-19 17:09:37,761 - Additional Info
+2023-12-19 17:09:37,761 - Model name: bert-base-uncased
+2023-12-19 17:09:37,761 - Datasets list: science
+2023-12-19 17:09:37,761 - Layers frozen: 0
+2023-12-19 17:09:37,761 - Learning rate: 3e-05
+2023-12-19 17:09:37,761 - Class weights: [0.45, 0.55]
+2023-12-19 17:09:37,761 - Model not saved, didn't meet minimum accuracy threshold

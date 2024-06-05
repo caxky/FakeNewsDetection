@@ -1,0 +1,17 @@
+2023-12-01 00:51:54,734 - 
+Starting detection model - loDSLd4UbE
+2023-12-01 00:56:15,336 - Evaluation Results
+2023-12-01 00:56:15,337 - Training time: 228.83692479133606 seconds
+2023-12-01 00:56:15,337 - Inference time: 18.4261736869812 seconds
+2023-12-01 00:56:15,337 - Precision: 0.9531615925058547
+2023-12-01 00:56:15,337 - Recall: 0.7636022514071295
+2023-12-01 00:56:15,337 - F-score: 0.8479166666666667
+2023-12-01 00:56:15,337 - Accuracy: 0.8770008424599831
+2023-12-01 00:56:15,337 - G-mean: 0.8183396714008141
+2023-12-01 00:56:15,337 - Additional Info
+2023-12-01 00:56:15,337 - Model name: roberta-base
+2023-12-01 00:56:15,337 - Datasets list: health
+2023-12-01 00:56:15,337 - Layers frozen: 0
+2023-12-01 00:56:15,337 - Learning rate: 1e-05
+2023-12-01 00:56:15,337 - Class weights: [0.45, 0.55]
+2023-12-01 00:56:15,337 - Model saved to: ./models/bert_model_loDSLd4UbE.pt

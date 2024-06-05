@@ -1,0 +1,17 @@
+2023-12-13 01:32:24,270 - 
+Starting detection model - ieKwa3kn6q
+2023-12-13 01:37:44,414 - Evaluation Results
+2023-12-13 01:37:44,414 - Training time: 308.041836977005 seconds
+2023-12-13 01:37:44,414 - Inference time: 6.5777907371521 seconds
+2023-12-13 01:37:44,414 - Precision: 0.4017857142857143
+2023-12-13 01:37:44,414 - Recall: 1.0
+2023-12-13 01:37:44,414 - F-score: 0.5732484076433121
+2023-12-13 01:37:44,414 - Accuracy: 0.4017857142857143
+2023-12-13 01:37:44,415 - G-mean: 0.6338656910463875
+2023-12-13 01:37:44,415 - Additional Info
+2023-12-13 01:37:44,415 - Model name: roberta-base
+2023-12-13 01:37:44,415 - Datasets list: crime
+2023-12-13 01:37:44,415 - Layers frozen: 0
+2023-12-13 01:37:44,415 - Learning rate: 1e-05
+2023-12-13 01:37:44,415 - Class weights: [0.45, 0.55]
+2023-12-13 01:37:44,415 - Model not saved, didn't meet minimum accuracy threshold

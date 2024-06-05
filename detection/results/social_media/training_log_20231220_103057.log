@@ -1,0 +1,18 @@
+2023-12-20 10:30:57,699 - 
+Starting detection model - TD5OTddkXC
+2023-12-20 10:47:54,288 - Evaluation Results
+2023-12-20 10:47:54,288 - Training time: 197.06423044204712 seconds
+2023-12-20 10:47:54,288 - Inference time: 651.9465277194977 seconds
+2023-12-20 10:47:54,289 - Precision: 0.5229854336496058
+2023-12-20 10:47:54,289 - Recall: 1.0
+2023-12-20 10:47:54,289 - F-score: 0.6867898038871584
+2023-12-20 10:47:54,289 - Accuracy: 0.5229854336496058
+2023-12-20 10:47:54,289 - G-mean: 0.7231773182626829
+2023-12-20 10:47:54,289 - Additional Info
+2023-12-20 10:47:54,289 - Model name: bert-base-cased
+2023-12-20 10:47:54,289 - Datasets list: social_media Train: ['gossipcop'], Test: ['isot_social']
+2023-12-20 10:47:54,289 - Dataset size: Train: 22140, Test: 44898
+2023-12-20 10:47:54,289 - Layers frozen: 0
+2023-12-20 10:47:54,289 - Learning rate: 1e-05
+2023-12-20 10:47:54,289 - Class weights: [0.2404245709123758, 0.7595754290876242]
+2023-12-20 10:47:54,289 - Model not saved, didn't meet minimum accuracy threshold

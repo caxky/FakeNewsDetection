@@ -1,0 +1,19 @@
+2023-12-21 18:41:15,461 - 
+Starting detection model - nGOxgpqkIC
+2023-12-21 18:41:45,237 - Epoch 1 average train loss: 0.0
+2023-12-21 18:41:47,357 - Evaluation Results
+2023-12-21 18:41:47,358 - Training time: 24.369436740875244 seconds
+2023-12-21 18:41:47,358 - Inference time: 2.0524022579193115 seconds
+2023-12-21 18:41:47,358 - Precision: 0.8333333333333334
+2023-12-21 18:41:47,358 - Recall: 0.4065040650406504
+2023-12-21 18:41:47,358 - F-score: 0.546448087431694
+2023-12-21 18:41:47,359 - Accuracy: 0.6294642857142857
+2023-12-21 18:41:47,359 - G-mean: 0.5058456196714236
+2023-12-21 18:41:47,359 - Additional Info
+2023-12-21 18:41:47,359 - Model name: distilbert-base-uncased
+2023-12-21 18:41:47,359 - Datasets list: crime
+2023-12-21 18:41:47,359 - Dataset size: 1119
+2023-12-21 18:41:47,359 - Layers frozen: 0
+2023-12-21 18:41:47,359 - Learning rate: 1e-05
+2023-12-21 18:41:47,359 - Class weights: Auto weights - [0.5120643431635389, 0.4879356568364611]
+2023-12-21 18:41:47,359 - Model not saved, didn't meet minimum accuracy threshold

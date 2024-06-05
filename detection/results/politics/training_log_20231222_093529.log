@@ -1,0 +1,19 @@
+2023-12-22 09:35:29,633 - 
+Starting detection model - sMkdpClOuO
+2023-12-22 09:35:57,895 - Epoch 1 average train loss: 0.0
+2023-12-22 09:35:59,553 - Evaluation Results
+2023-12-22 09:35:59,554 - Training time: 24.80260133743286 seconds
+2023-12-22 09:35:59,554 - Inference time: 1.3597583770751953 seconds
+2023-12-22 09:35:59,554 - Precision: 0.5692695214105793
+2023-12-22 09:35:59,554 - Recall: 0.7929824561403509
+2023-12-22 09:35:59,554 - F-score: 0.6627565982404692
+2023-12-22 09:35:59,554 - Accuracy: 0.8210116731517509
+2023-12-22 09:35:59,554 - G-mean: 0.8068753640406766
+2023-12-22 09:35:59,554 - Additional Info
+2023-12-22 09:35:59,554 - Model name: distilbert-base-uncased
+2023-12-22 09:35:59,554 - Datasets list: politics
+2023-12-22 09:35:59,554 - Dataset size: 6424
+2023-12-22 09:35:59,554 - Layers frozen: 0
+2023-12-22 09:35:59,554 - Learning rate: 1e-05
+2023-12-22 09:35:59,554 - Class weights: Auto weights - [0.20781444582814446, 0.7921855541718555]
+2023-12-22 09:35:59,554 - Model saved to: ./models/bert_model_sMkdpClOuO.pt

@@ -1,0 +1,19 @@
+2023-12-22 04:04:01,734 - 
+Starting detection model - UeS5UDTkng
+2023-12-22 04:47:58,714 - Epoch 1 average train loss: 0.0
+2023-12-22 04:51:50,239 - Evaluation Results
+2023-12-22 04:51:50,239 - Training time: 2532.726053714752 seconds
+2023-12-22 04:51:50,240 - Inference time: 231.40824437141418 seconds
+2023-12-22 04:51:50,240 - Precision: 0.953475935828877
+2023-12-22 04:51:50,240 - Recall: 0.9257528556593977
+2023-12-22 04:51:50,240 - F-score: 0.9394099051633298
+2023-12-22 04:51:50,240 - Accuracy: 0.948538186157518
+2023-12-22 04:51:50,240 - G-mean: 0.9370762693278001
+2023-12-22 04:51:50,240 - Additional Info
+2023-12-22 04:51:50,240 - Model name: albert-base-v2
+2023-12-22 04:51:50,240 - Datasets list: social_media
+2023-12-22 04:51:50,240 - Dataset size: 67038
+2023-12-22 04:51:50,241 - Layers frozen: 0
+2023-12-22 04:51:50,241 - Learning rate: 1e-05
+2023-12-22 04:51:50,241 - Class weights: Auto weights - [0.4296667561681434, 0.5703332438318566]
+2023-12-22 04:51:50,241 - Model saved to: ./models/bert_model_UeS5UDTkng.pt

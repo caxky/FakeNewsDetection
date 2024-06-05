@@ -1,0 +1,557 @@
+2023-12-17 14:23:23,162 - ====================================================
+2023-12-17 14:23:23,736 - Model: distilbert-base-uncased 2023-12-17_14-23-23 with 13 epochs
+2023-12-17 14:24:45,262 - Epoch 1 average train loss: 0.571345
+2023-12-17 14:26:05,814 - Epoch 2 average train loss: 0.110666
+2023-12-17 14:27:23,650 - Epoch 3 average train loss: 0.053328
+2023-12-17 14:28:41,736 - Epoch 4 average train loss: 0.029024
+2023-12-17 14:29:59,717 - Epoch 5 average train loss: 0.019980
+2023-12-17 14:31:17,646 - Epoch 6 average train loss: 0.009408
+2023-12-17 14:32:35,607 - Epoch 7 average train loss: 0.006035
+2023-12-17 14:33:53,620 - Epoch 8 average train loss: 0.002863
+2023-12-17 14:35:11,606 - Epoch 9 average train loss: 0.004209
+2023-12-17 14:36:29,581 - Epoch 10 average train loss: 0.006382
+2023-12-17 14:37:47,598 - Epoch 11 average train loss: 0.004280
+2023-12-17 14:39:05,577 - Epoch 12 average train loss: 0.001189
+2023-12-17 14:40:23,697 - Epoch 13 average train loss: 0.002036
+2023-12-17 14:40:30,147 - 2023-12-17_14-23-23 with 13 epochs: Evaluation Results:
+2023-12-17 14:40:30,147 - Training time: 1019.9149787425995 seconds
+2023-12-17 14:40:30,147 - Inference time: 6.4305360317230225 seconds
+2023-12-17 14:40:30,147 - Precision: 0.9370648407893578
+2023-12-17 14:40:30,147 - Recall: 0.9331697965008295
+2023-12-17 14:40:30,147 - F-score: 0.9331192592416271
+2023-12-17 14:40:30,147 - Accuracy: 0.9341176470588235
+2023-12-17 14:40:30,147 - G-mean: 0.9336436014956221
+2023-12-17 14:40:38,747 - distilbert-base-uncased 2023-12-17_14-23-23 with 13 epochs: Evaluation Results (completely new data):
+2023-12-17 14:40:38,747 - Training time: 1019.9149787425995 seconds
+2023-12-17 14:40:38,747 - Inference time: 6.464756965637207 seconds
+2023-12-17 14:40:38,747 - Precision: 0.9321996753246753
+2023-12-17 14:40:38,747 - Recall: 0.9290721471745224
+2023-12-17 14:40:38,747 - F-score: 0.9283502758833564
+2023-12-17 14:40:38,747 - Accuracy: 0.9294117647058824
+2023-12-17 14:40:38,747 - G-mean: 0.9292419404248584
+2023-12-17 14:40:39,008 - ====================================================
+2023-12-17 14:40:39,579 - Model: distilbert-base-uncased 2023-12-17_14-40-39 with 13 epochs
+2023-12-17 14:41:57,509 - Epoch 1 average train loss: 0.591200
+2023-12-17 14:43:15,590 - Epoch 2 average train loss: 0.111725
+2023-12-17 14:44:33,597 - Epoch 3 average train loss: 0.054293
+2023-12-17 14:45:51,803 - Epoch 4 average train loss: 0.033368
+2023-12-17 14:47:09,822 - Epoch 5 average train loss: 0.020143
+2023-12-17 14:48:27,897 - Epoch 6 average train loss: 0.009049
+2023-12-17 14:49:46,145 - Epoch 7 average train loss: 0.004298
+2023-12-17 14:51:04,216 - Epoch 8 average train loss: 0.005245
+2023-12-17 14:52:22,220 - Epoch 9 average train loss: 0.005395
+2023-12-17 14:53:40,364 - Epoch 10 average train loss: 0.003446
+2023-12-17 14:54:58,367 - Epoch 11 average train loss: 0.003089
+2023-12-17 14:56:18,782 - Epoch 12 average train loss: 0.004902
+2023-12-17 14:57:38,466 - Epoch 13 average train loss: 0.011238
+2023-12-17 14:57:44,899 - 2023-12-17_14-40-39 with 13 epochs: Evaluation Results:
+2023-12-17 14:57:44,899 - Training time: 1018.85404920578 seconds
+2023-12-17 14:57:44,899 - Inference time: 6.4287333488464355 seconds
+2023-12-17 14:57:44,899 - Precision: 0.9658447244918513
+2023-12-17 14:57:44,899 - Recall: 0.9660760780891066
+2023-12-17 14:57:44,899 - F-score: 0.9657458861021666
+2023-12-17 14:57:44,899 - Accuracy: 0.9658823529411765
+2023-12-17 14:57:44,899 - G-mean: 0.9659792106587439
+2023-12-17 14:57:53,380 - distilbert-base-uncased 2023-12-17_14-40-39 with 13 epochs: Evaluation Results (completely new data):
+2023-12-17 14:57:53,380 - Training time: 1018.85404920578 seconds
+2023-12-17 14:57:53,380 - Inference time: 6.463101387023926 seconds
+2023-12-17 14:57:53,380 - Precision: 0.968991804231574
+2023-12-17 14:57:53,380 - Recall: 0.970212110079359
+2023-12-17 14:57:53,380 - F-score: 0.969367452247327
+2023-12-17 14:57:53,380 - Accuracy: 0.9694117647058823
+2023-12-17 14:57:53,380 - G-mean: 0.9698118548311571
+2023-12-17 14:57:53,627 - ====================================================
+2023-12-17 14:57:54,199 - Model: distilbert-base-uncased 2023-12-17_14-57-54 with 14 epochs
+2023-12-17 14:59:14,108 - Epoch 1 average train loss: 0.566891
+2023-12-17 15:00:34,447 - Epoch 2 average train loss: 0.108590
+2023-12-17 15:01:54,073 - Epoch 3 average train loss: 0.057673
+2023-12-17 15:03:13,817 - Epoch 4 average train loss: 0.033752
+2023-12-17 15:04:34,579 - Epoch 5 average train loss: 0.016797
+2023-12-17 15:05:55,240 - Epoch 6 average train loss: 0.012009
+2023-12-17 15:07:17,104 - Epoch 7 average train loss: 0.010583
+2023-12-17 15:08:38,391 - Epoch 8 average train loss: 0.000678
+2023-12-17 15:10:01,837 - Epoch 9 average train loss: 0.006166
+2023-12-17 15:11:22,791 - Epoch 10 average train loss: 0.004637
+2023-12-17 15:12:44,606 - Epoch 11 average train loss: 0.007494
+2023-12-17 15:14:05,335 - Epoch 12 average train loss: 0.002279
+2023-12-17 15:15:25,377 - Epoch 13 average train loss: 0.005614
+2023-12-17 15:16:44,997 - Epoch 14 average train loss: 0.005590
+2023-12-17 15:16:51,446 - 2023-12-17_14-57-54 with 14 epochs: Evaluation Results:
+2023-12-17 15:16:51,446 - Training time: 1130.7662403583527 seconds
+2023-12-17 15:16:51,446 - Inference time: 6.445437669754028 seconds
+2023-12-17 15:16:51,446 - Precision: 0.9661494050414886
+2023-12-17 15:16:51,446 - Recall: 0.9661103379909806
+2023-12-17 15:16:51,446 - F-score: 0.9656215140819459
+2023-12-17 15:16:51,446 - Accuracy: 0.9658823529411765
+2023-12-17 15:16:51,446 - G-mean: 0.9659963387402272
+2023-12-17 15:17:00,184 - distilbert-base-uncased 2023-12-17_14-57-54 with 14 epochs: Evaluation Results (completely new data):
+2023-12-17 15:17:00,184 - Training time: 1130.7662403583527 seconds
+2023-12-17 15:17:00,184 - Inference time: 6.669955492019653 seconds
+2023-12-17 15:17:00,184 - Precision: 0.9605516589071662
+2023-12-17 15:17:00,184 - Recall: 0.9616292185640193
+2023-12-17 15:17:00,184 - F-score: 0.960682123526866
+2023-12-17 15:17:00,184 - Accuracy: 0.9611764705882353
+2023-12-17 15:17:00,184 - G-mean: 0.9614028179248731
+2023-12-17 15:17:00,442 - ====================================================
+2023-12-17 15:17:01,079 - Model: distilbert-base-uncased 2023-12-17_15-17-01 with 14 epochs
+2023-12-17 15:18:21,643 - Epoch 1 average train loss: 0.592708
+2023-12-17 15:19:44,413 - Epoch 2 average train loss: 0.111723
+2023-12-17 15:21:06,855 - Epoch 3 average train loss: 0.056618
+2023-12-17 15:22:28,648 - Epoch 4 average train loss: 0.031204
+2023-12-17 15:23:51,396 - Epoch 5 average train loss: 0.021813
+2023-12-17 15:25:13,988 - Epoch 6 average train loss: 0.008648
+2023-12-17 15:26:37,548 - Epoch 7 average train loss: 0.003357
+2023-12-17 15:27:56,025 - Epoch 8 average train loss: 0.006411
+2023-12-17 15:29:14,262 - Epoch 9 average train loss: 0.000716
+2023-12-17 15:30:32,384 - Epoch 10 average train loss: 0.006054
+2023-12-17 15:31:54,094 - Epoch 11 average train loss: 0.009149
+2023-12-17 15:33:16,909 - Epoch 12 average train loss: 0.000778
+2023-12-17 15:34:38,644 - Epoch 13 average train loss: 0.003742
+2023-12-17 15:36:06,639 - Epoch 14 average train loss: 0.018101
+2023-12-17 15:36:13,915 - 2023-12-17_15-17-01 with 14 epochs: Evaluation Results:
+2023-12-17 15:36:13,915 - Training time: 1145.5253367424011 seconds
+2023-12-17 15:36:13,915 - Inference time: 7.2645440101623535 seconds
+2023-12-17 15:36:13,915 - Precision: 0.9664600873456202
+2023-12-17 15:36:13,915 - Recall: 0.9657867544212912
+2023-12-17 15:36:13,915 - F-score: 0.9660653777857748
+2023-12-17 15:36:13,915 - Accuracy: 0.9658823529411765
+2023-12-17 15:36:13,915 - G-mean: 0.9658345524984385
+2023-12-17 15:36:24,364 - distilbert-base-uncased 2023-12-17_15-17-01 with 14 epochs: Evaluation Results (completely new data):
+2023-12-17 15:36:24,365 - Training time: 1145.5253367424011 seconds
+2023-12-17 15:36:24,365 - Inference time: 7.8223490715026855 seconds
+2023-12-17 15:36:24,365 - Precision: 0.9700730578570417
+2023-12-17 15:36:24,365 - Recall: 0.9710265650299951
+2023-12-17 15:36:24,365 - F-score: 0.9704340449163565
+2023-12-17 15:36:24,365 - Accuracy: 0.9705882352941176
+2023-12-17 15:36:24,365 - G-mean: 0.9708073754232462
+2023-12-17 15:36:24,639 - ====================================================
+2023-12-17 15:36:25,260 - Model: distilbert-base-uncased 2023-12-17_15-36-25 with 15 epochs
+2023-12-17 15:37:49,880 - Epoch 1 average train loss: 0.578932
+2023-12-17 15:39:19,689 - Epoch 2 average train loss: 0.113313
+2023-12-17 15:40:44,692 - Epoch 3 average train loss: 0.050125
+2023-12-17 15:42:06,286 - Epoch 4 average train loss: 0.030653
+2023-12-17 15:43:28,123 - Epoch 5 average train loss: 0.017130
+2023-12-17 15:44:49,563 - Epoch 6 average train loss: 0.008515
+2023-12-17 15:46:12,635 - Epoch 7 average train loss: 0.010335
+2023-12-17 15:47:33,217 - Epoch 8 average train loss: 0.009779
+2023-12-17 15:48:57,794 - Epoch 9 average train loss: 0.008025
+2023-12-17 15:50:18,819 - Epoch 10 average train loss: 0.005944
+2023-12-17 15:51:40,362 - Epoch 11 average train loss: 0.006506
+2023-12-17 15:53:01,334 - Epoch 12 average train loss: 0.010015
+2023-12-17 15:54:22,123 - Epoch 13 average train loss: 0.001312
+2023-12-17 15:55:44,368 - Epoch 14 average train loss: 0.002010
+2023-12-17 15:57:04,019 - Epoch 15 average train loss: 0.000012
+2023-12-17 15:57:10,538 - 2023-12-17_15-36-25 with 15 epochs: Evaluation Results:
+2023-12-17 15:57:10,538 - Training time: 1238.7230110168457 seconds
+2023-12-17 15:57:10,538 - Inference time: 6.51215934753418 seconds
+2023-12-17 15:57:10,538 - Precision: 0.9639933145774957
+2023-12-17 15:57:10,538 - Recall: 0.9637162367918839
+2023-12-17 15:57:10,538 - F-score: 0.9636993347834786
+2023-12-17 15:57:10,538 - Accuracy: 0.9635294117647059
+2023-12-17 15:57:10,538 - G-mean: 0.9636228197506428
+2023-12-17 15:57:19,308 - distilbert-base-uncased 2023-12-17_15-36-25 with 15 epochs: Evaluation Results (completely new data):
+2023-12-17 15:57:19,308 - Training time: 1238.7230110168457 seconds
+2023-12-17 15:57:19,308 - Inference time: 6.634498119354248 seconds
+2023-12-17 15:57:19,308 - Precision: 0.9750271658393279
+2023-12-17 15:57:19,308 - Recall: 0.9759969947539904
+2023-12-17 15:57:19,308 - F-score: 0.9753661856993162
+2023-12-17 15:57:19,308 - Accuracy: 0.9752941176470589
+2023-12-17 15:57:19,308 - G-mean: 0.9756454929044536
+2023-12-17 15:57:19,559 - ====================================================
+2023-12-17 15:57:20,382 - Model: distilbert-base-uncased 2023-12-17_15-57-20 with 15 epochs
+2023-12-17 15:58:42,416 - Epoch 1 average train loss: 0.579433
+2023-12-17 16:00:04,053 - Epoch 2 average train loss: 0.112994
+2023-12-17 16:01:25,999 - Epoch 3 average train loss: 0.055232
+2023-12-17 16:02:49,338 - Epoch 4 average train loss: 0.028755
+2023-12-17 16:04:10,350 - Epoch 5 average train loss: 0.020215
+2023-12-17 16:05:33,567 - Epoch 6 average train loss: 0.012718
+2023-12-17 16:06:55,925 - Epoch 7 average train loss: 0.005146
+2023-12-17 16:08:14,495 - Epoch 8 average train loss: 0.003705
+2023-12-17 16:09:36,587 - Epoch 9 average train loss: 0.006458
+2023-12-17 16:10:56,053 - Epoch 10 average train loss: 0.000109
+2023-12-17 16:12:18,376 - Epoch 11 average train loss: 0.000063
+2023-12-17 16:13:40,428 - Epoch 12 average train loss: 0.004925
+2023-12-17 16:15:02,448 - Epoch 13 average train loss: 0.000732
+2023-12-17 16:16:27,727 - Epoch 14 average train loss: 0.002723
+2023-12-17 16:17:50,230 - Epoch 15 average train loss: 0.003963
+2023-12-17 16:17:57,000 - 2023-12-17_15-57-20 with 15 epochs: Evaluation Results:
+2023-12-17 16:17:57,000 - Training time: 1229.8095405101776 seconds
+2023-12-17 16:17:57,000 - Inference time: 6.766069173812866 seconds
+2023-12-17 16:17:57,000 - Precision: 0.9674010988515789
+2023-12-17 16:17:57,000 - Recall: 0.9671404057175508
+2023-12-17 16:17:57,000 - F-score: 0.9671541029498893
+2023-12-17 16:17:57,000 - Accuracy: 0.9670588235294117
+2023-12-17 16:17:57,000 - G-mean: 0.9670996137632217
+2023-12-17 16:18:06,192 - distilbert-base-uncased 2023-12-17_15-57-20 with 15 epochs: Evaluation Results (completely new data):
+2023-12-17 16:18:06,192 - Training time: 1229.8095405101776 seconds
+2023-12-17 16:18:06,192 - Inference time: 6.929443597793579 seconds
+2023-12-17 16:18:06,192 - Precision: 0.9717714936880167
+2023-12-17 16:18:06,192 - Recall: 0.9722518099915423
+2023-12-17 16:18:06,192 - F-score: 0.9719159452267985
+2023-12-17 16:18:06,193 - Accuracy: 0.971764705882353
+2023-12-17 16:18:06,193 - G-mean: 0.9720082274240359
+2023-12-17 16:18:06,243 - Model distilbert-base-uncased 2023-12-17_15-57-20 not saved
+2023-12-17 16:18:06,244 - ====================================================
+2023-12-17 16:18:06,867 - Model: distilbert-base-uncased 2023-12-17_16-18-06 with 16 epochs
+2023-12-17 16:19:28,583 - Epoch 1 average train loss: 0.595068
+2023-12-17 16:20:52,962 - Epoch 2 average train loss: 0.112780
+2023-12-17 16:22:19,266 - Epoch 3 average train loss: 0.053583
+2023-12-17 16:23:42,813 - Epoch 4 average train loss: 0.029136
+2023-12-17 16:25:08,945 - Epoch 5 average train loss: 0.019346
+2023-12-17 16:26:32,196 - Epoch 6 average train loss: 0.020085
+2023-12-17 16:27:52,946 - Epoch 7 average train loss: 0.008644
+2023-12-17 16:29:13,943 - Epoch 8 average train loss: 0.008140
+2023-12-17 16:30:37,909 - Epoch 9 average train loss: 0.013706
+2023-12-17 16:31:59,507 - Epoch 10 average train loss: 0.008682
+2023-12-17 16:33:21,325 - Epoch 11 average train loss: 0.009003
+2023-12-17 16:34:41,681 - Epoch 12 average train loss: 0.006079
+2023-12-17 16:36:04,432 - Epoch 13 average train loss: 0.004281
+2023-12-17 16:37:25,267 - Epoch 14 average train loss: 0.002256
+2023-12-17 16:38:46,484 - Epoch 15 average train loss: 0.005606
+2023-12-17 16:40:10,539 - Epoch 16 average train loss: 0.004490
+2023-12-17 16:40:17,853 - 2023-12-17_16-18-06 with 16 epochs: Evaluation Results:
+2023-12-17 16:40:17,854 - Training time: 1323.6354970932007 seconds
+2023-12-17 16:40:17,854 - Inference time: 7.307130575180054 seconds
+2023-12-17 16:40:17,854 - Precision: 0.9631230706683181
+2023-12-17 16:40:17,854 - Recall: 0.962450666388588
+2023-12-17 16:40:17,854 - F-score: 0.9627511302640869
+2023-12-17 16:40:17,854 - Accuracy: 0.9623529411764706
+2023-12-17 16:40:17,854 - G-mean: 0.9624018025421148
+2023-12-17 16:40:27,445 - distilbert-base-uncased 2023-12-17_16-18-06 with 16 epochs: Evaluation Results (completely new data):
+2023-12-17 16:40:27,445 - Training time: 1323.6354970932007 seconds
+2023-12-17 16:40:27,446 - Inference time: 7.228862524032593 seconds
+2023-12-17 16:40:27,446 - Precision: 0.9716356758264411
+2023-12-17 16:40:27,446 - Recall: 0.9723184178560194
+2023-12-17 16:40:27,446 - F-score: 0.9718657105149953
+2023-12-17 16:40:27,446 - Accuracy: 0.971764705882353
+2023-12-17 16:40:27,446 - G-mean: 0.9720415224422512
+2023-12-17 16:40:28,072 - ====================================================
+2023-12-17 16:40:28,757 - Model: distilbert-base-uncased 2023-12-17_16-40-28 with 16 epochs
+2023-12-17 16:41:52,937 - Epoch 1 average train loss: 0.572004
+2023-12-17 16:43:19,661 - Epoch 2 average train loss: 0.105517
+2023-12-17 16:44:42,708 - Epoch 3 average train loss: 0.050686
+2023-12-17 16:46:06,056 - Epoch 4 average train loss: 0.030823
+2023-12-17 16:47:29,335 - Epoch 5 average train loss: 0.018032
+2023-12-17 16:48:52,392 - Epoch 6 average train loss: 0.007508
+2023-12-17 16:50:13,559 - Epoch 7 average train loss: 0.006336
+2023-12-17 16:51:34,074 - Epoch 8 average train loss: 0.009276
+2023-12-17 16:52:55,035 - Epoch 9 average train loss: 0.000220
+2023-12-17 16:54:18,438 - Epoch 10 average train loss: 0.001320
+2023-12-17 16:55:39,195 - Epoch 11 average train loss: 0.009185
+2023-12-17 16:56:59,534 - Epoch 12 average train loss: 0.008069
+2023-12-17 16:58:20,725 - Epoch 13 average train loss: 0.005071
+2023-12-17 16:59:44,240 - Epoch 14 average train loss: 0.004746
+2023-12-17 17:01:02,630 - Epoch 15 average train loss: 0.003578
+2023-12-17 17:02:21,029 - Epoch 16 average train loss: 0.000011
+2023-12-17 17:02:27,479 - 2023-12-17_16-40-28 with 16 epochs: Evaluation Results:
+2023-12-17 17:02:27,479 - Training time: 1312.2333583831787 seconds
+2023-12-17 17:02:27,479 - Inference time: 6.445767641067505 seconds
+2023-12-17 17:02:27,479 - Precision: 0.9671939018002844
+2023-12-17 17:02:27,479 - Recall: 0.967238868786781
+2023-12-17 17:02:27,479 - F-score: 0.9669825168911086
+2023-12-17 17:02:27,479 - Accuracy: 0.9670588235294117
+2023-12-17 17:02:27,479 - G-mean: 0.967148841968424
+2023-12-17 17:02:36,215 - distilbert-base-uncased 2023-12-17_16-40-28 with 16 epochs: Evaluation Results (completely new data):
+2023-12-17 17:02:36,215 - Training time: 1312.2333583831787 seconds
+2023-12-17 17:02:36,215 - Inference time: 6.566381931304932 seconds
+2023-12-17 17:02:36,215 - Precision: 0.9748489580252995
+2023-12-17 17:02:36,215 - Recall: 0.9760902667350873
+2023-12-17 17:02:36,215 - F-score: 0.9753143471048542
+2023-12-17 17:02:36,215 - Accuracy: 0.9752941176470589
+2023-12-17 17:02:36,215 - G-mean: 0.9756921109854683
+2023-12-17 17:02:36,475 - ====================================================
+2023-12-17 17:02:37,027 - Model: distilbert-base-uncased 2023-12-17_17-02-37 with 17 epochs
+2023-12-17 17:03:55,166 - Epoch 1 average train loss: 0.594509
+2023-12-17 17:05:13,364 - Epoch 2 average train loss: 0.112191
+2023-12-17 17:06:31,630 - Epoch 3 average train loss: 0.059918
+2023-12-17 17:07:50,366 - Epoch 4 average train loss: 0.032372
+2023-12-17 17:09:09,453 - Epoch 5 average train loss: 0.018938
+2023-12-17 17:10:27,553 - Epoch 6 average train loss: 0.020742
+2023-12-17 17:11:45,660 - Epoch 7 average train loss: 0.011011
+2023-12-17 17:13:03,639 - Epoch 8 average train loss: 0.008207
+2023-12-17 17:14:22,514 - Epoch 9 average train loss: 0.005873
+2023-12-17 17:15:41,975 - Epoch 10 average train loss: 0.003606
+2023-12-17 17:17:02,186 - Epoch 11 average train loss: 0.006590
+2023-12-17 17:18:22,281 - Epoch 12 average train loss: 0.002337
+2023-12-17 17:19:41,332 - Epoch 13 average train loss: 0.000030
+2023-12-17 17:21:02,329 - Epoch 14 average train loss: 0.000009
+2023-12-17 17:22:26,691 - Epoch 15 average train loss: 0.000004
+2023-12-17 17:23:50,097 - Epoch 16 average train loss: 0.006374
+2023-12-17 17:25:14,397 - Epoch 17 average train loss: 0.009124
+2023-12-17 17:25:21,512 - 2023-12-17_17-02-37 with 17 epochs: Evaluation Results:
+2023-12-17 17:25:21,512 - Training time: 1357.3368828296661 seconds
+2023-12-17 17:25:21,512 - Inference time: 7.110172510147095 seconds
+2023-12-17 17:25:21,512 - Precision: 0.9675979830009644
+2023-12-17 17:25:21,512 - Recall: 0.9668562731378687
+2023-12-17 17:25:21,512 - F-score: 0.9671674494810663
+2023-12-17 17:25:21,512 - Accuracy: 0.9670588235294117
+2023-12-17 17:25:21,512 - G-mean: 0.9669575430300644
+2023-12-17 17:25:31,322 - distilbert-base-uncased 2023-12-17_17-02-37 with 17 epochs: Evaluation Results (completely new data):
+2023-12-17 17:25:31,322 - Training time: 1357.3368828296661 seconds
+2023-12-17 17:25:31,322 - Inference time: 7.469013690948486 seconds
+2023-12-17 17:25:31,322 - Precision: 0.9726318252129875
+2023-12-17 17:25:31,322 - Recall: 0.9733812152390845
+2023-12-17 17:25:31,322 - F-score: 0.9729420263503927
+2023-12-17 17:25:31,322 - Accuracy: 0.9729411764705882
+2023-12-17 17:25:31,322 - G-mean: 0.9731611709830421
+2023-12-17 17:25:31,622 - ====================================================
+2023-12-17 17:25:32,215 - Model: distilbert-base-uncased 2023-12-17_17-25-32 with 17 epochs
+2023-12-17 17:26:55,493 - Epoch 1 average train loss: 0.574920
+2023-12-17 17:28:15,968 - Epoch 2 average train loss: 0.107804
+2023-12-17 17:29:38,854 - Epoch 3 average train loss: 0.050454
+2023-12-17 17:31:02,044 - Epoch 4 average train loss: 0.029890
+2023-12-17 17:32:27,187 - Epoch 5 average train loss: 0.019416
+2023-12-17 17:33:49,145 - Epoch 6 average train loss: 0.008915
+2023-12-17 17:35:11,874 - Epoch 7 average train loss: 0.008208
+2023-12-17 17:36:32,303 - Epoch 8 average train loss: 0.008777
+2023-12-17 17:37:52,080 - Epoch 9 average train loss: 0.010810
+2023-12-17 17:39:11,869 - Epoch 10 average train loss: 0.005339
+2023-12-17 17:40:37,422 - Epoch 11 average train loss: 0.000407
+2023-12-17 17:42:00,585 - Epoch 12 average train loss: 0.000020
+2023-12-17 17:43:23,768 - Epoch 13 average train loss: 0.000007
+2023-12-17 17:44:45,781 - Epoch 14 average train loss: 0.008858
+2023-12-17 17:46:04,368 - Epoch 15 average train loss: 0.003420
+2023-12-17 17:47:22,474 - Epoch 16 average train loss: 0.000004
+2023-12-17 17:48:42,409 - Epoch 17 average train loss: 0.000002
+2023-12-17 17:48:49,180 - 2023-12-17_17-25-32 with 17 epochs: Evaluation Results:
+2023-12-17 17:48:49,180 - Training time: 1390.1588077545166 seconds
+2023-12-17 17:48:49,181 - Inference time: 6.762309312820435 seconds
+2023-12-17 17:48:49,181 - Precision: 0.9673637180720513
+2023-12-17 17:48:49,181 - Recall: 0.9671113369038101
+2023-12-17 17:48:49,181 - F-score: 0.9671135518935692
+2023-12-17 17:48:49,181 - Accuracy: 0.9670588235294117
+2023-12-17 17:48:49,181 - G-mean: 0.967085079860172
+2023-12-17 17:48:59,290 - distilbert-base-uncased 2023-12-17_17-25-32 with 17 epochs: Evaluation Results (completely new data):
+2023-12-17 17:48:59,290 - Training time: 1390.1588077545166 seconds
+2023-12-17 17:48:59,290 - Inference time: 7.0073676109313965 seconds
+2023-12-17 17:48:59,290 - Precision: 0.9713957855595197
+2023-12-17 17:48:59,290 - Recall: 0.9725667602884485
+2023-12-17 17:48:59,290 - F-score: 0.9718715959140422
+2023-12-17 17:48:59,290 - Accuracy: 0.971764705882353
+2023-12-17 17:48:59,290 - G-mean: 0.9721656503717137
+2023-12-17 17:48:59,346 - Model distilbert-base-uncased 2023-12-17_17-25-32 not saved
+2023-12-17 17:48:59,347 - ====================================================
+2023-12-17 17:49:00,329 - Model: distilbert-base-uncased 2023-12-17_17-49-00 with 18 epochs
+2023-12-17 17:50:21,019 - Epoch 1 average train loss: 0.604275
+2023-12-17 17:51:43,674 - Epoch 2 average train loss: 0.106365
+2023-12-17 17:53:10,297 - Epoch 3 average train loss: 0.052661
+2023-12-17 17:54:34,423 - Epoch 4 average train loss: 0.030383
+2023-12-17 17:55:54,359 - Epoch 5 average train loss: 0.019216
+2023-12-17 17:57:16,454 - Epoch 6 average train loss: 0.011286
+2023-12-17 17:58:38,597 - Epoch 7 average train loss: 0.004666
+2023-12-17 18:00:01,307 - Epoch 8 average train loss: 0.007720
+2023-12-17 18:01:24,552 - Epoch 9 average train loss: 0.023438
+2023-12-17 18:02:45,458 - Epoch 10 average train loss: 0.009742
+2023-12-17 18:04:05,701 - Epoch 11 average train loss: 0.001134
+2023-12-17 18:05:27,427 - Epoch 12 average train loss: 0.002617
+2023-12-17 18:06:56,506 - Epoch 13 average train loss: 0.001254
+2023-12-17 18:08:30,160 - Epoch 14 average train loss: 0.007298
+2023-12-17 18:10:23,250 - Epoch 15 average train loss: 0.017677
+2023-12-17 18:12:18,605 - Epoch 16 average train loss: 0.003626
+2023-12-17 18:14:11,136 - Epoch 17 average train loss: 0.000037
+2023-12-17 18:15:58,048 - Epoch 18 average train loss: 0.000086
+2023-12-17 18:16:07,210 - 2023-12-17_17-49-00 with 18 epochs: Evaluation Results:
+2023-12-17 18:16:07,210 - Training time: 1617.6713514328003 seconds
+2023-12-17 18:16:07,210 - Inference time: 9.15228271484375 seconds
+2023-12-17 18:16:07,211 - Precision: 0.9698215771771247
+2023-12-17 18:16:07,211 - Recall: 0.9695644501821297
+2023-12-17 18:16:07,211 - F-score: 0.9695447748973052
+2023-12-17 18:16:07,211 - Accuracy: 0.9694117647058823
+2023-12-17 18:16:07,211 - G-mean: 0.9694881044381859
+2023-12-17 18:16:19,809 - distilbert-base-uncased 2023-12-17_17-49-00 with 18 epochs: Evaluation Results (completely new data):
+2023-12-17 18:16:19,809 - Training time: 1617.6713514328003 seconds
+2023-12-17 18:16:19,809 - Inference time: 9.374780178070068 seconds
+2023-12-17 18:16:19,810 - Precision: 0.9724233553306062
+2023-12-17 18:16:19,810 - Recall: 0.9733230776116034
+2023-12-17 18:16:19,810 - F-score: 0.9727251910754016
+2023-12-17 18:16:19,810 - Accuracy: 0.9729411764705882
+2023-12-17 18:16:19,810 - G-mean: 0.9731321083066816
+2023-12-17 18:16:20,201 - ====================================================
+2023-12-17 18:16:21,254 - Model: distilbert-base-uncased 2023-12-17_18-16-21 with 18 epochs
+2023-12-17 18:22:01,407 - Epoch 1 average train loss: 0.578625
+2023-12-17 18:27:45,286 - Epoch 2 average train loss: 0.113792
+2023-12-17 18:33:37,884 - Epoch 3 average train loss: 0.057100
+2023-12-17 18:36:19,670 - Epoch 4 average train loss: 0.040101
+2023-12-17 18:37:37,990 - Epoch 5 average train loss: 0.021648
+2023-12-17 18:38:56,440 - Epoch 6 average train loss: 0.013941
+2023-12-17 18:40:14,908 - Epoch 7 average train loss: 0.006912
+2023-12-17 18:41:33,322 - Epoch 8 average train loss: 0.004226
+2023-12-17 18:42:51,681 - Epoch 9 average train loss: 0.006273
+2023-12-17 18:44:10,044 - Epoch 10 average train loss: 0.000866
+2023-12-17 18:45:28,387 - Epoch 11 average train loss: 0.015038
+2023-12-17 18:46:46,741 - Epoch 12 average train loss: 0.000079
+2023-12-17 18:48:05,230 - Epoch 13 average train loss: 0.012223
+2023-12-17 18:49:23,546 - Epoch 14 average train loss: 0.007031
+2023-12-17 18:50:41,989 - Epoch 15 average train loss: 0.006010
+2023-12-17 18:52:00,551 - Epoch 16 average train loss: 0.003667
+2023-12-17 18:53:18,999 - Epoch 17 average train loss: 0.005906
+2023-12-17 18:54:37,367 - Epoch 18 average train loss: 0.002274
+2023-12-17 18:54:43,814 - 2023-12-17_18-16-21 with 18 epochs: Evaluation Results:
+2023-12-17 18:54:43,814 - Training time: 2296.059195995331 seconds
+2023-12-17 18:54:43,815 - Inference time: 6.4427595138549805 seconds
+2023-12-17 18:54:43,815 - Precision: 0.9688939172983735
+2023-12-17 18:54:43,815 - Recall: 0.9681123358166401
+2023-12-17 18:54:43,815 - F-score: 0.9684575696645421
+2023-12-17 18:54:43,815 - Accuracy: 0.9682352941176471
+2023-12-17 18:54:43,815 - G-mean: 0.968173813015177
+2023-12-17 18:54:52,510 - distilbert-base-uncased 2023-12-17_18-16-21 with 18 epochs: Evaluation Results (completely new data):
+2023-12-17 18:54:52,510 - Training time: 2296.059195995331 seconds
+2023-12-17 18:54:52,510 - Inference time: 6.579456806182861 seconds
+2023-12-17 18:54:52,510 - Precision: 0.9680657540369433
+2023-12-17 18:54:52,510 - Recall: 0.9689517307641964
+2023-12-17 18:54:52,510 - F-score: 0.9683435856229329
+2023-12-17 18:54:52,510 - Accuracy: 0.9682352941176471
+2023-12-17 18:54:52,510 - G-mean: 0.9685934462003524
+2023-12-17 18:54:52,563 - Model distilbert-base-uncased 2023-12-17_18-16-21 not saved
+2023-12-17 18:54:52,563 - ====================================================
+2023-12-17 18:54:53,155 - Model: distilbert-base-uncased 2023-12-17_18-54-53 with 19 epochs
+2023-12-17 18:56:11,339 - Epoch 1 average train loss: 0.591308
+2023-12-17 18:57:29,685 - Epoch 2 average train loss: 0.113163
+2023-12-17 18:58:47,992 - Epoch 3 average train loss: 0.052771
+2023-12-17 19:00:06,279 - Epoch 4 average train loss: 0.029248
+2023-12-17 19:01:24,572 - Epoch 5 average train loss: 0.014064
+2023-12-17 19:02:42,996 - Epoch 6 average train loss: 0.005630
+2023-12-17 19:04:01,326 - Epoch 7 average train loss: 0.010524
+2023-12-17 19:05:19,604 - Epoch 8 average train loss: 0.006170
+2023-12-17 19:06:37,963 - Epoch 9 average train loss: 0.004774
+2023-12-17 19:07:56,257 - Epoch 10 average train loss: 0.005244
+2023-12-17 19:09:14,557 - Epoch 11 average train loss: 0.006429
+2023-12-17 19:10:32,803 - Epoch 12 average train loss: 0.008548
+2023-12-17 19:11:51,071 - Epoch 13 average train loss: 0.006879
+2023-12-17 19:13:09,358 - Epoch 14 average train loss: 0.006631
+2023-12-17 19:14:27,680 - Epoch 15 average train loss: 0.003773
+2023-12-17 19:15:45,911 - Epoch 16 average train loss: 0.008832
+2023-12-17 19:17:04,211 - Epoch 17 average train loss: 0.000067
+2023-12-17 19:18:22,623 - Epoch 18 average train loss: 0.000016
+2023-12-17 19:19:40,997 - Epoch 19 average train loss: 0.000183
+2023-12-17 19:19:47,450 - 2023-12-17_18-54-53 with 19 epochs: Evaluation Results:
+2023-12-17 19:19:47,450 - Training time: 1487.8106021881104 seconds
+2023-12-17 19:19:47,450 - Inference time: 6.450085401535034 seconds
+2023-12-17 19:19:47,450 - Precision: 0.9672420767378156
+2023-12-17 19:19:47,450 - Recall: 0.9674254127489746
+2023-12-17 19:19:47,450 - F-score: 0.967259319940274
+2023-12-17 19:19:47,450 - Accuracy: 0.9670588235294117
+2023-12-17 19:19:47,451 - G-mean: 0.9672421007718176
+2023-12-17 19:19:56,025 - distilbert-base-uncased 2023-12-17_18-54-53 with 19 epochs: Evaluation Results (completely new data):
+2023-12-17 19:19:56,025 - Training time: 1487.8106021881104 seconds
+2023-12-17 19:19:56,025 - Inference time: 6.522067070007324 seconds
+2023-12-17 19:19:56,025 - Precision: 0.9689794845298474
+2023-12-17 19:19:56,025 - Recall: 0.9700212494807736
+2023-12-17 19:19:56,026 - F-score: 0.969358193395214
+2023-12-17 19:19:56,026 - Accuracy: 0.9694117647058823
+2023-12-17 19:19:56,026 - G-mean: 0.9697164592092689
+2023-12-17 19:19:56,283 - ====================================================
+2023-12-17 19:19:57,064 - Model: distilbert-base-uncased 2023-12-17_19-19-57 with 19 epochs
+2023-12-17 19:21:15,357 - Epoch 1 average train loss: 0.569396
+2023-12-17 19:22:33,681 - Epoch 2 average train loss: 0.108926
+2023-12-17 19:23:51,945 - Epoch 3 average train loss: 0.051609
+2023-12-17 19:25:10,260 - Epoch 4 average train loss: 0.028260
+2023-12-17 19:26:28,538 - Epoch 5 average train loss: 0.019555
+2023-12-17 19:27:46,808 - Epoch 6 average train loss: 0.013838
+2023-12-17 19:29:05,171 - Epoch 7 average train loss: 0.012211
+2023-12-17 19:30:23,469 - Epoch 8 average train loss: 0.006214
+2023-12-17 19:31:41,733 - Epoch 9 average train loss: 0.009929
+2023-12-17 19:32:59,978 - Epoch 10 average train loss: 0.007805
+2023-12-17 19:34:18,284 - Epoch 11 average train loss: 0.005978
+2023-12-17 19:35:36,597 - Epoch 12 average train loss: 0.001291
+2023-12-17 19:36:55,035 - Epoch 13 average train loss: 0.005135
+2023-12-17 19:38:13,274 - Epoch 14 average train loss: 0.000377
+2023-12-17 19:39:32,485 - Epoch 15 average train loss: 0.005660
+2023-12-17 19:40:50,822 - Epoch 16 average train loss: 0.005276
+2023-12-17 19:42:09,137 - Epoch 17 average train loss: 0.003384
+2023-12-17 19:43:27,518 - Epoch 18 average train loss: 0.002032
+2023-12-17 19:44:45,778 - Epoch 19 average train loss: 0.000042
+2023-12-17 19:44:52,225 - 2023-12-17_19-19-57 with 19 epochs: Evaluation Results:
+2023-12-17 19:44:52,225 - Training time: 1488.6775317192078 seconds
+2023-12-17 19:44:52,225 - Inference time: 6.4431471824646 seconds
+2023-12-17 19:44:52,225 - Precision: 0.9674242577381058
+2023-12-17 19:44:52,225 - Recall: 0.9671113369038101
+2023-12-17 19:44:52,225 - F-score: 0.9671476840819837
+2023-12-17 19:44:52,225 - Accuracy: 0.9670588235294117
+2023-12-17 19:44:52,225 - G-mean: 0.967085079860172
+2023-12-17 19:45:00,798 - distilbert-base-uncased 2023-12-17_19-19-57 with 19 epochs: Evaluation Results (completely new data):
+2023-12-17 19:45:00,798 - Training time: 1488.6775317192078 seconds
+2023-12-17 19:45:00,799 - Inference time: 6.527851581573486 seconds
+2023-12-17 19:45:00,799 - Precision: 0.9751851911440579
+2023-12-17 19:45:00,799 - Recall: 0.9760902667350873
+2023-12-17 19:45:00,799 - F-score: 0.9755209759730455
+2023-12-17 19:45:00,799 - Accuracy: 0.9752941176470589
+2023-12-17 19:45:00,799 - G-mean: 0.9756921109854683
+2023-12-17 19:45:01,196 - ====================================================
+2023-12-17 19:45:02,061 - Model: distilbert-base-uncased 2023-12-17_19-45-02 with 20 epochs
+2023-12-17 19:46:20,237 - Epoch 1 average train loss: 0.598534
+2023-12-17 19:47:38,504 - Epoch 2 average train loss: 0.108287
+2023-12-17 19:48:56,816 - Epoch 3 average train loss: 0.053810
+2023-12-17 19:50:15,194 - Epoch 4 average train loss: 0.034229
+2023-12-17 19:51:33,556 - Epoch 5 average train loss: 0.024702
+2023-12-17 19:52:51,865 - Epoch 6 average train loss: 0.015666
+2023-12-17 19:54:10,218 - Epoch 7 average train loss: 0.007311
+2023-12-17 19:55:28,541 - Epoch 8 average train loss: 0.004915
+2023-12-17 19:56:46,935 - Epoch 9 average train loss: 0.007482
+2023-12-17 19:58:05,387 - Epoch 10 average train loss: 0.008866
+2023-12-17 19:59:23,806 - Epoch 11 average train loss: 0.001392
+2023-12-17 20:00:42,156 - Epoch 12 average train loss: 0.000413
+2023-12-17 20:02:00,581 - Epoch 13 average train loss: 0.001411
+2023-12-17 20:03:18,885 - Epoch 14 average train loss: 0.013430
+2023-12-17 20:04:37,173 - Epoch 15 average train loss: 0.006966
+2023-12-17 20:05:55,604 - Epoch 16 average train loss: 0.004504
+2023-12-17 20:07:13,933 - Epoch 17 average train loss: 0.004623
+2023-12-17 20:08:32,355 - Epoch 18 average train loss: 0.002448
+2023-12-17 20:09:50,751 - Epoch 19 average train loss: 0.000005
+2023-12-17 20:11:09,099 - Epoch 20 average train loss: 0.002610
+2023-12-17 20:11:15,543 - 2023-12-17_19-45-02 with 20 epochs: Evaluation Results:
+2023-12-17 20:11:15,543 - Training time: 1567.0006759166718 seconds
+2023-12-17 20:11:15,543 - Inference time: 6.440099477767944 seconds
+2023-12-17 20:11:15,543 - Precision: 0.9746787533632881
+2023-12-17 20:11:15,543 - Recall: 0.9741522842572129
+2023-12-17 20:11:15,543 - F-score: 0.9743868028670672
+2023-12-17 20:11:15,543 - Accuracy: 0.9741176470588235
+2023-12-17 20:11:15,543 - G-mean: 0.9741349655040693
+2023-12-17 20:11:24,103 - distilbert-base-uncased 2023-12-17_19-45-02 with 20 epochs: Evaluation Results (completely new data):
+2023-12-17 20:11:24,103 - Training time: 1567.0006759166718 seconds
+2023-12-17 20:11:24,103 - Inference time: 6.491622447967529 seconds
+2023-12-17 20:11:24,103 - Precision: 0.9728800868374317
+2023-12-17 20:11:24,103 - Recall: 0.9736653478187666
+2023-12-17 20:11:24,103 - F-score: 0.9731900396594574
+2023-12-17 20:11:24,103 - Accuracy: 0.9729411764705882
+2023-12-17 20:11:24,103 - G-mean: 0.9733031947936035
+2023-12-17 20:11:24,570 - ====================================================
+2023-12-17 20:11:25,394 - Model: distilbert-base-uncased 2023-12-17_20-11-25 with 20 epochs
+2023-12-17 20:12:43,659 - Epoch 1 average train loss: 0.589277
+2023-12-17 20:14:02,214 - Epoch 2 average train loss: 0.107076
+2023-12-17 20:15:20,467 - Epoch 3 average train loss: 0.053441
+2023-12-17 20:16:38,781 - Epoch 4 average train loss: 0.031598
+2023-12-17 20:17:57,066 - Epoch 5 average train loss: 0.024095
+2023-12-17 20:19:15,287 - Epoch 6 average train loss: 0.012024
+2023-12-17 20:20:33,685 - Epoch 7 average train loss: 0.006986
+2023-12-17 20:21:52,087 - Epoch 8 average train loss: 0.006386
+2023-12-17 20:23:10,345 - Epoch 9 average train loss: 0.002592
+2023-12-17 20:24:28,594 - Epoch 10 average train loss: 0.008985
+2023-12-17 20:25:46,957 - Epoch 11 average train loss: 0.002123
+2023-12-17 20:27:05,358 - Epoch 12 average train loss: 0.008475
+2023-12-17 20:28:23,646 - Epoch 13 average train loss: 0.003647
+2023-12-17 20:29:41,972 - Epoch 14 average train loss: 0.012514
+2023-12-17 20:31:00,313 - Epoch 15 average train loss: 0.000319
+2023-12-17 20:32:19,923 - Epoch 16 average train loss: 0.002388
+2023-12-17 20:33:40,692 - Epoch 17 average train loss: 0.005944
+2023-12-17 20:35:01,877 - Epoch 18 average train loss: 0.000020
+2023-12-17 20:36:22,125 - Epoch 19 average train loss: 0.000005
+2023-12-17 20:37:43,099 - Epoch 20 average train loss: 0.008187
+2023-12-17 20:37:49,791 - 2023-12-17_20-11-25 with 20 epochs: Evaluation Results:
+2023-12-17 20:37:49,791 - Training time: 1577.671023607254 seconds
+2023-12-17 20:37:49,791 - Inference time: 6.68478798866272 seconds
+2023-12-17 20:37:49,791 - Precision: 0.9671996913409965
+2023-12-17 20:37:49,791 - Recall: 0.9668339256576408
+2023-12-17 20:37:49,791 - F-score: 0.9669151941694597
+2023-12-17 20:37:49,791 - Accuracy: 0.9670588235294117
+2023-12-17 20:37:49,791 - G-mean: 0.9669463680550234
+2023-12-17 20:37:58,780 - distilbert-base-uncased 2023-12-17_20-11-25 with 20 epochs: Evaluation Results (completely new data):
+2023-12-17 20:37:58,781 - Training time: 1577.671023607254 seconds
+2023-12-17 20:37:58,781 - Inference time: 6.739802122116089 seconds
+2023-12-17 20:37:58,781 - Precision: 0.9610687690020139
+2023-12-17 20:37:58,781 - Recall: 0.9618465802434372
+2023-12-17 20:37:58,781 - F-score: 0.9613297939413725
+2023-12-17 20:37:58,781 - Accuracy: 0.9611764705882353
+2023-12-17 20:37:58,781 - G-mean: 0.9615114670380955
+2023-12-17 20:37:58,816 - Model distilbert-base-uncased 2023-12-17_20-11-25 not saved
+2023-12-17 20:37:58,816 - Total program time: 22487.93495440483 seconds

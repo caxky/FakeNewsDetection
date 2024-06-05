@@ -1,0 +1,17 @@
+2023-12-01 01:01:47,393 - 
+Starting detection model - 19CRFeICBN
+2023-12-01 01:02:41,601 - Evaluation Results
+2023-12-01 01:02:41,601 - Training time: 47.28223371505737 seconds
+2023-12-01 01:02:41,602 - Inference time: 2.8074252605438232 seconds
+2023-12-01 01:02:41,602 - Precision: 0.9338842975206612
+2023-12-01 01:02:41,602 - Recall: 0.39649122807017545
+2023-12-01 01:02:41,602 - F-score: 0.5566502463054186
+2023-12-01 01:02:41,602 - Accuracy: 0.8599221789883269
+2023-12-01 01:02:41,602 - G-mean: 0.5839106102751199
+2023-12-01 01:02:41,602 - Additional Info
+2023-12-01 01:02:41,602 - Model name: bert-base-cased
+2023-12-01 01:02:41,602 - Datasets list: politics
+2023-12-01 01:02:41,602 - Layers frozen: 0
+2023-12-01 01:02:41,602 - Learning rate: 1e-05
+2023-12-01 01:02:41,602 - Class weights: [0.45, 0.55]
+2023-12-01 01:02:41,602 - Model saved to: ./models/bert_model_19CRFeICBN.pt

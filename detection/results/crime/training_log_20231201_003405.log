@@ -1,0 +1,17 @@
+2023-12-01 00:34:05,059 - 
+Starting detection model - XhJkd7sAFd
+2023-12-01 00:34:53,550 - Evaluation Results
+2023-12-01 00:34:53,550 - Training time: 39.91295099258423 seconds
+2023-12-01 00:34:53,550 - Inference time: 3.5324275493621826 seconds
+2023-12-01 00:34:53,550 - Precision: 0.5935483870967742
+2023-12-01 00:34:53,551 - Recall: 0.7479674796747967
+2023-12-01 00:34:53,551 - F-score: 0.6618705035971223
+2023-12-01 00:34:53,551 - Accuracy: 0.5803571428571429
+2023-12-01 00:34:53,551 - G-mean: 0.6588537542232897
+2023-12-01 00:34:53,551 - Additional Info
+2023-12-01 00:34:53,551 - Model name: bert-base-cased
+2023-12-01 00:34:53,551 - Datasets list: crime
+2023-12-01 00:34:53,551 - Layers frozen: 0
+2023-12-01 00:34:53,551 - Learning rate: 1e-05
+2023-12-01 00:34:53,551 - Class weights: [0.45, 0.55]
+2023-12-01 00:34:53,551 - Model not saved, didn't meet minimum accuracy threshold

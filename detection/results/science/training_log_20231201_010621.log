@@ -1,0 +1,17 @@
+2023-12-01 01:06:21,739 - 
+Starting detection model - 4xr5ckVweM
+2023-12-01 01:06:27,151 - Evaluation Results
+2023-12-01 01:06:27,151 - Training time: 3.8126184940338135 seconds
+2023-12-01 01:06:27,151 - Inference time: 0.21528077125549316 seconds
+2023-12-01 01:06:27,151 - Precision: 0.5652173913043478
+2023-12-01 01:06:27,151 - Recall: 0.29545454545454547
+2023-12-01 01:06:27,151 - F-score: 0.3880597014925373
+2023-12-01 01:06:27,151 - Accuracy: 0.7747252747252747
+2023-12-01 01:06:27,151 - G-mean: 0.4784308768214107
+2023-12-01 01:06:27,151 - Additional Info
+2023-12-01 01:06:27,152 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-01 01:06:27,152 - Datasets list: science
+2023-12-01 01:06:27,152 - Layers frozen: 0
+2023-12-01 01:06:27,152 - Learning rate: 1e-05
+2023-12-01 01:06:27,152 - Class weights: [0.45, 0.55]
+2023-12-01 01:06:27,152 - Model not saved, didn't meet minimum accuracy threshold

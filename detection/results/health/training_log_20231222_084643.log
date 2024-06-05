@@ -1,0 +1,19 @@
+2023-12-22 08:46:43,289 - 
+Starting detection model - kDhSFSSto1
+2023-12-22 08:48:31,370 - Epoch 1 average train loss: 0.0
+2023-12-22 08:48:36,935 - Evaluation Results
+2023-12-22 08:48:36,935 - Training time: 64.24936580657959 seconds
+2023-12-22 08:48:36,936 - Inference time: 5.00364875793457 seconds
+2023-12-22 08:48:36,936 - Precision: 0.9346049046321526
+2023-12-22 08:48:36,936 - Recall: 0.6792079207920793
+2023-12-22 08:48:36,936 - F-score: 0.786697247706422
+2023-12-22 08:48:36,936 - Accuracy: 0.8433024431339511
+2023-12-22 08:48:36,936 - G-mean: 0.756820783937579
+2023-12-22 08:48:36,936 - Additional Info
+2023-12-22 08:48:36,936 - Model name: bert-base-cased
+2023-12-22 08:48:36,937 - Datasets list: health
+2023-12-22 08:48:36,937 - Dataset size: 5932
+2023-12-22 08:48:36,937 - Layers frozen: 0
+2023-12-22 08:48:36,937 - Learning rate: 1e-05
+2023-12-22 08:48:36,937 - Class weights: Default weights - [0.5536075522589345, 0.4463924477410654]
+2023-12-22 08:48:36,937 - Model saved to: ./models/bert_model_kDhSFSSto1.pt

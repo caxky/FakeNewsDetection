@@ -1,0 +1,19 @@
+2023-12-22 08:42:52,528 - 
+Starting detection model - 7iNhEhuVb8
+2023-12-22 08:43:12,876 - Epoch 1 average train loss: 0.0
+2023-12-22 08:43:13,979 - Evaluation Results
+2023-12-22 08:43:13,979 - Training time: 14.796401500701904 seconds
+2023-12-22 08:43:13,980 - Inference time: 0.6746602058410645 seconds
+2023-12-22 08:43:13,980 - Precision: 0.9538461538461539
+2023-12-22 08:43:13,980 - Recall: 0.21754385964912282
+2023-12-22 08:43:13,980 - F-score: 0.3542857142857143
+2023-12-22 08:43:13,980 - Accuracy: 0.824124513618677
+2023-12-22 08:43:13,981 - G-mean: 0.42341850163173445
+2023-12-22 08:43:13,981 - Additional Info
+2023-12-22 08:43:13,982 - Model name: distilbert-base-uncased
+2023-12-22 08:43:13,982 - Datasets list: politics
+2023-12-22 08:43:13,982 - Dataset size: 6424
+2023-12-22 08:43:13,982 - Layers frozen: 0
+2023-12-22 08:43:13,983 - Learning rate: 1e-05
+2023-12-22 08:43:13,983 - Class weights: Default weights - [0.7921855541718555, 0.20781444582814446]
+2023-12-22 08:43:13,983 - Model saved to: ./models/bert_model_7iNhEhuVb8.pt

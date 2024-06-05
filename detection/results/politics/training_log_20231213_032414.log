@@ -1,0 +1,17 @@
+2023-12-13 03:24:14,510 - 
+Starting detection model - yS65uHklTp
+2023-12-13 03:25:11,917 - Evaluation Results
+2023-12-13 03:25:11,917 - Training time: 49.73386907577515 seconds
+2023-12-13 03:25:11,917 - Inference time: 2.854754686355591 seconds
+2023-12-13 03:25:11,917 - Precision: 0.9253731343283582
+2023-12-13 03:25:11,917 - Recall: 0.43508771929824563
+2023-12-13 03:25:11,917 - F-score: 0.5918854415274464
+2023-12-13 03:25:11,917 - Accuracy: 0.8669260700389105
+2023-12-13 03:25:11,918 - G-mean: 0.6141570537032207
+2023-12-13 03:25:11,918 - Additional Info
+2023-12-13 03:25:11,918 - Model name: bert-base-cased
+2023-12-13 03:25:11,918 - Datasets list: politics
+2023-12-13 03:25:11,918 - Layers frozen: 0
+2023-12-13 03:25:11,918 - Learning rate: 1e-05
+2023-12-13 03:25:11,918 - Class weights: [0.45, 0.55]
+2023-12-13 03:25:11,918 - Model saved to: ./models\bert_model_yS65uHklTp.pt

@@ -1,0 +1,19 @@
+2023-12-22 08:23:54,955 - 
+Starting detection model - Vuq0Ssepll
+2023-12-22 08:39:46,442 - Epoch 1 average train loss: 0.0
+2023-12-22 08:40:57,443 - Evaluation Results
+2023-12-22 08:40:57,443 - Training time: 776.8761730194092 seconds
+2023-12-22 08:40:57,443 - Inference time: 70.78584742546082 seconds
+2023-12-22 08:40:57,443 - Precision: 0.9690587138863
+2023-12-22 08:40:57,443 - Recall: 0.8997923156801662
+2023-12-22 08:40:57,443 - F-score: 0.9331418827963743
+2023-12-22 08:40:57,443 - Accuracy: 0.9444361575178998
+2023-12-22 08:40:57,443 - G-mean: 0.9218440199866295
+2023-12-22 08:40:57,443 - Additional Info
+2023-12-22 08:40:57,443 - Model name: albert-base-v2
+2023-12-22 08:40:57,444 - Datasets list: social_media
+2023-12-22 08:40:57,444 - Dataset size: 67038
+2023-12-22 08:40:57,444 - Layers frozen: 0
+2023-12-22 08:40:57,444 - Learning rate: 1e-05
+2023-12-22 08:40:57,444 - Class weights: Default weights - [0.5703332438318566, 0.4296667561681434]
+2023-12-22 08:40:57,444 - Model saved to: ./models/bert_model_Vuq0Ssepll.pt

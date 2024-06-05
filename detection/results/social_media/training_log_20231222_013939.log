@@ -1,0 +1,19 @@
+2023-12-22 01:39:39,946 - 
+Starting detection model - PufzxaHh7e
+2023-12-22 02:23:33,631 - Epoch 1 average train loss: 0.0
+2023-12-22 02:26:54,190 - Evaluation Results
+2023-12-22 02:26:54,191 - Training time: 2458.4147160053253 seconds
+2023-12-22 02:26:54,191 - Inference time: 200.06512999534607 seconds
+2023-12-22 02:26:54,191 - Precision: 0.962486602357985
+2023-12-22 02:26:54,191 - Recall: 0.9325025960539979
+2023-12-22 02:26:54,191 - F-score: 0.9472573839662447
+2023-12-22 02:26:54,191 - Accuracy: 0.9552505966587113
+2023-12-22 02:26:54,191 - G-mean: 0.9438080637854175
+2023-12-22 02:26:54,191 - Additional Info
+2023-12-22 02:26:54,191 - Model name: bert-base-cased
+2023-12-22 02:26:54,191 - Datasets list: social_media
+2023-12-22 02:26:54,191 - Dataset size: 67038
+2023-12-22 02:26:54,191 - Layers frozen: 0
+2023-12-22 02:26:54,191 - Learning rate: 1e-05
+2023-12-22 02:26:54,192 - Class weights: Auto weights - [0.4296667561681434, 0.5703332438318566]
+2023-12-22 02:26:54,192 - Model saved to: ./models/bert_model_PufzxaHh7e.pt

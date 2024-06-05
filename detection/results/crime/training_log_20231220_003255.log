@@ -1,0 +1,18 @@
+2023-12-20 00:32:55,411 - 
+Starting detection model - JM8Zs7encQ
+2023-12-20 00:33:44,917 - Evaluation Results
+2023-12-20 00:33:44,918 - Training time: 45.632421255111694 seconds
+2023-12-20 00:33:44,918 - Inference time: 0.6951568126678467 seconds
+2023-12-20 00:33:44,919 - Precision: 0.6935483870967742
+2023-12-20 00:33:44,919 - Recall: 0.441025641025641
+2023-12-20 00:33:44,919 - F-score: 0.5391849529780565
+2023-12-20 00:33:44,919 - Accuracy: 0.5333333333333333
+2023-12-20 00:33:44,919 - G-mean: 0.4849883248220262
+2023-12-20 00:33:44,919 - Additional Info
+2023-12-20 00:33:44,919 - Model name: albert-base-v2
+2023-12-20 00:33:44,920 - Datasets list: crime Train: ['fa-kes'], Test: ['snope']
+2023-12-20 00:33:44,920 - Dataset size: Train: 804, Test: 315
+2023-12-20 00:33:44,920 - Layers frozen: 0
+2023-12-20 00:33:44,920 - Learning rate: 1e-05
+2023-12-20 00:33:44,920 - Class weights: [0.4701492537313433, 0.5298507462686567]
+2023-12-20 00:33:44,920 - Model not saved, didn't meet minimum accuracy threshold

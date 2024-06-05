@@ -1,0 +1,18 @@
+2023-12-20 20:17:27,206 - 
+Starting detection model - edDraSropX
+2023-12-20 20:20:02,014 - Evaluation Results
+2023-12-20 20:20:02,015 - Training time: 115.11111330986023 seconds
+2023-12-20 20:20:02,015 - Inference time: 9.11998200416565 seconds
+2023-12-20 20:20:02,015 - Precision: 0.9114470842332614
+2023-12-20 20:20:02,015 - Recall: 0.7917448405253283
+2023-12-20 20:20:02,016 - F-score: 0.8473895582329318
+2023-12-20 20:20:02,016 - Accuracy: 0.8719460825610783
+2023-12-20 20:20:02,016 - G-mean: 0.8308783377149784
+2023-12-20 20:20:02,016 - Additional Info
+2023-12-20 20:20:02,016 - Model name: distilbert-base-uncased
+2023-12-20 20:20:02,016 - Datasets list: health
+2023-12-20 20:20:02,016 - Dataset size: 5932
+2023-12-20 20:20:02,016 - Layers frozen: 0
+2023-12-20 20:20:02,016 - Learning rate: 1e-05
+2023-12-20 20:20:02,016 - Class weights: Default weights - [0.5536075522589345, 0.4463924477410654]
+2023-12-20 20:20:02,016 - Model saved to: ./models/bert_model_edDraSropX.pt

@@ -1,0 +1,17 @@
+2023-12-06 14:22:16,525 - 
+Starting detection model - mLXTbOJuAN
+2023-12-06 14:47:49,095 - Evaluation Results
+2023-12-06 14:47:49,095 - Training time: 1220.4213590621948 seconds
+2023-12-06 14:47:49,095 - Inference time: 98.06922602653503 seconds
+2023-12-06 14:47:49,095 - Precision: 0.9687330562082053
+2023-12-06 14:47:49,096 - Recall: 0.927656628591208
+2023-12-06 14:47:49,096 - F-score: 0.9477499778976217
+2023-12-06 14:47:49,096 - Accuracy: 0.9559218377088305
+2023-12-06 14:47:49,096 - G-mean: 0.9416831893825469
+2023-12-06 14:47:49,096 - Additional Info
+2023-12-06 14:47:49,096 - Model name: distilbert-base-uncased
+2023-12-06 14:47:49,096 - Datasets list: social_media
+2023-12-06 14:47:49,096 - Layers frozen: 0
+2023-12-06 14:47:49,096 - Learning rate: 1e-05
+2023-12-06 14:47:49,096 - Class weights: [0.45, 0.55]
+2023-12-06 14:47:49,096 - Model saved to: ./models/bert_model_mLXTbOJuAN.pt

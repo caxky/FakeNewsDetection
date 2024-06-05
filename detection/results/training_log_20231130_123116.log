@@ -1,0 +1,110 @@
+2023-11-30 12:31:16,416 - 
+Starting detection model - 4frR388fgS
+2023-11-30 12:33:02,843 - Evaluation Results
+2023-11-30 12:33:02,843 - Training time: 87.27921295166016 seconds
+2023-11-30 12:33:02,844 - Inference time: 6.982880353927612 seconds
+2023-11-30 12:33:02,844 - Precision: 0.6206896551724138
+2023-11-30 12:33:02,844 - Recall: 0.5853658536585366
+2023-11-30 12:33:02,844 - F-score: 0.602510460251046
+2023-11-30 12:33:02,844 - Accuracy: 0.5758928571428571
+2023-11-30 12:33:02,844 - G-mean: 0.5806100360287292
+2023-11-30 12:33:02,844 - Additional Info
+2023-11-30 12:33:02,844 - Model name: bert-base-uncased
+2023-11-30 12:33:02,844 - Datasets list: ['crime']
+2023-11-30 12:33:02,844 - Layers frozen: 0
+2023-11-30 12:33:02,845 - Learning rate: 1e-05
+2023-11-30 12:33:02,845 - Class weights: [0.47, 0.53]
+2023-11-30 12:33:02,845 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 12:33:39,915 - 
+Starting detection model - FvhIFB4vBz
+2023-11-30 12:37:51,915 - Evaluation Results
+2023-11-30 12:37:51,916 - Training time: 232.78176641464233 seconds
+2023-11-30 12:37:51,916 - Inference time: 14.16220736503601 seconds
+2023-11-30 12:37:51,916 - Precision: 0.7875
+2023-11-30 12:37:51,917 - Recall: 0.5121951219512195
+2023-11-30 12:37:51,917 - F-score: 0.6206896551724137
+2023-11-30 12:37:51,917 - Accuracy: 0.65625
+2023-11-30 12:37:51,917 - G-mean: 0.5797655118929443
+2023-11-30 12:37:51,917 - Additional Info
+2023-11-30 12:37:51,917 - Model name: bert-base-uncased
+2023-11-30 12:37:51,917 - Datasets list: ['crime']
+2023-11-30 12:37:51,917 - Layers frozen: 0
+2023-11-30 12:37:51,917 - Learning rate: 1e-05
+2023-11-30 12:37:51,917 - Class weights: [0.47, 0.53]
+2023-11-30 12:37:51,918 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 12:38:04,269 - 
+Starting detection model - cV0wCRjSS8
+2023-11-30 12:41:41,754 - Evaluation Results
+2023-11-30 12:41:41,754 - Training time: 194.6206123828888 seconds
+2023-11-30 12:41:41,755 - Inference time: 17.670583724975586 seconds
+2023-11-30 12:41:41,755 - Precision: 0.6804123711340206
+2023-11-30 12:41:41,755 - Recall: 0.5365853658536586
+2023-11-30 12:41:41,755 - F-score: 0.6
+2023-11-30 12:41:41,755 - Accuracy: 0.6071428571428571
+2023-11-30 12:41:41,755 - G-mean: 0.5707748874341227
+2023-11-30 12:41:41,755 - Additional Info
+2023-11-30 12:41:41,755 - Model name: bert-base-cased
+2023-11-30 12:41:41,755 - Datasets list: ['crime']
+2023-11-30 12:41:41,756 - Layers frozen: 0
+2023-11-30 12:41:41,756 - Learning rate: 1e-05
+2023-11-30 12:41:41,756 - Class weights: [0.47, 0.53]
+2023-11-30 12:41:41,756 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 12:42:55,905 - 
+Starting detection model - aB8IlGKUuu
+2023-11-30 12:45:37,054 - Evaluation Results
+2023-11-30 12:45:37,054 - Training time: 145.21400666236877 seconds
+2023-11-30 12:45:37,054 - Inference time: 10.561079263687134 seconds
+2023-11-30 12:45:37,054 - Precision: 0.7974683544303798
+2023-11-30 12:45:37,055 - Recall: 0.5121951219512195
+2023-11-30 12:45:37,055 - F-score: 0.6237623762376238
+2023-11-30 12:45:37,055 - Accuracy: 0.6607142857142857
+2023-11-30 12:45:37,055 - G-mean: 0.581734161061856
+2023-11-30 12:45:37,055 - Additional Info
+2023-11-30 12:45:37,055 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-11-30 12:45:37,055 - Datasets list: ['crime']
+2023-11-30 12:45:37,055 - Layers frozen: 0
+2023-11-30 12:45:37,055 - Learning rate: 1e-05
+2023-11-30 12:45:37,055 - Class weights: [0.47, 0.53]
+2023-11-30 12:45:37,055 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 12:45:59,443 - 
+Starting detection model - HhIrIDyZrc
+2023-11-30 12:47:39,102 - Evaluation Results
+2023-11-30 12:47:39,103 - Training time: 88.01488018035889 seconds
+2023-11-30 12:47:39,103 - Inference time: 4.96879243850708 seconds
+2023-11-30 12:47:39,103 - Precision: 0.6356589147286822
+2023-11-30 12:47:39,103 - Recall: 0.6666666666666666
+2023-11-30 12:47:39,103 - F-score: 0.6507936507936508
+2023-11-30 12:47:39,103 - Accuracy: 0.6071428571428571
+2023-11-30 12:47:39,103 - G-mean: 0.6362090102803517
+2023-11-30 12:47:39,103 - Additional Info
+2023-11-30 12:47:39,103 - Model name: distilbert-base-uncased
+2023-11-30 12:47:39,104 - Datasets list: ['crime']
+2023-11-30 12:47:39,104 - Layers frozen: 0
+2023-11-30 12:47:39,104 - Learning rate: 1e-05
+2023-11-30 12:47:39,104 - Class weights: [0.47, 0.53]
+2023-11-30 12:47:39,104 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 12:47:51,539 - 
+Starting detection model - E6CEpSQKNS
+2023-11-30 12:58:36,178 - 
+Starting detection model - O9CF1G9nwu
+2023-11-30 13:12:48,407 - Evaluation Results
+2023-11-30 13:12:48,407 - Training time: 840.6582443714142 seconds
+2023-11-30 13:12:48,408 - Inference time: 6.886893033981323 seconds
+2023-11-30 13:12:48,408 - Precision: 0.7123287671232876
+2023-11-30 13:12:48,408 - Recall: 0.42276422764227645
+2023-11-30 13:12:48,408 - F-score: 0.5306122448979592
+2023-11-30 13:12:48,408 - Accuracy: 0.5892857142857143
+2023-11-30 13:12:48,408 - G-mean: 0.49912815975521474
+2023-11-30 13:12:48,408 - Additional Info
+2023-11-30 13:12:48,409 - Model name: roberta-base
+2023-11-30 13:12:48,409 - Datasets list: ['crime']
+2023-11-30 13:12:48,409 - Layers frozen: 0
+2023-11-30 13:12:48,409 - Learning rate: 1e-05
+2023-11-30 13:12:48,409 - Class weights: [0.47, 0.53]
+2023-11-30 13:12:48,409 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 13:13:04,478 - 
+Starting detection model - 5id6Ze8okh
+2023-11-30 13:13:52,078 - 
+Starting detection model - 91krTCGJQc
+2023-11-30 13:14:15,321 - 
+Starting detection model - OxXkS4seXz

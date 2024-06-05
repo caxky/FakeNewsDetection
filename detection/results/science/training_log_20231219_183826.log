@@ -1,0 +1,17 @@
+2023-12-19 18:38:26,608 - 
+Starting detection model - mNRGath8ab
+2023-12-19 18:38:41,826 - Evaluation Results
+2023-12-19 18:38:41,826 - Training time: 8.902099132537842 seconds
+2023-12-19 18:38:41,826 - Inference time: 0.5491065979003906 seconds
+2023-12-19 18:38:41,827 - Precision: 0.375
+2023-12-19 18:38:41,827 - Recall: 0.4772727272727273
+2023-12-19 18:38:41,827 - F-score: 0.42
+2023-12-19 18:38:41,827 - Accuracy: 0.6813186813186813
+2023-12-19 18:38:41,828 - G-mean: 0.5702410237564685
+2023-12-19 18:38:41,828 - Additional Info
+2023-12-19 18:38:41,828 - Model name: bert-base-uncased
+2023-12-19 18:38:41,828 - Datasets list: science
+2023-12-19 18:38:41,828 - Layers frozen: 0
+2023-12-19 18:38:41,828 - Learning rate: 1e-05
+2023-12-19 18:38:41,830 - Class weights: tensor([0.2789, 0.7211])
+2023-12-19 18:38:41,830 - Model not saved, didn't meet minimum accuracy threshold

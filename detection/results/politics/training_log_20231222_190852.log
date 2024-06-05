@@ -1,0 +1,19 @@
+2023-12-22 19:08:52,576 - 
+Starting detection model - DbCuVvMX5s
+2023-12-22 19:09:20,115 - Epoch 1 average train loss: 0.0
+2023-12-22 19:09:21,280 - Evaluation Results
+2023-12-22 19:09:21,280 - Training time: 17.754531621932983 seconds
+2023-12-22 19:09:21,280 - Inference time: 0.6010684967041016 seconds
+2023-12-22 19:09:21,282 - Precision: 0.5067264573991032
+2023-12-22 19:09:21,282 - Recall: 0.7929824561403509
+2023-12-22 19:09:21,283 - F-score: 0.6183310533515731
+2023-12-22 19:09:21,283 - Accuracy: 0.7828793774319066
+2023-12-22 19:09:21,283 - G-mean: 0.7879147235441042
+2023-12-22 19:09:21,283 - Additional Info
+2023-12-22 19:09:21,283 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-22 19:09:21,283 - Datasets list: politics
+2023-12-22 19:09:21,283 - Dataset size: 6424
+2023-12-22 19:09:21,283 - Layers frozen: 0
+2023-12-22 19:09:21,283 - Learning rate: 1e-05
+2023-12-22 19:09:21,283 - Class weights: Auto weights - [0.20781444582814446, 0.7921855541718555]
+2023-12-22 19:09:21,283 - Model saved to: ./models/bert_model_DbCuVvMX5s.pt

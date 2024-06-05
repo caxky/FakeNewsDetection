@@ -1,0 +1,19 @@
+2023-12-22 16:18:12,261 - 
+Starting detection model - YmGXyGBrdp
+2023-12-22 16:19:39,827 - Epoch 1 average train loss: 0.0
+2023-12-22 16:19:42,507 - Evaluation Results
+2023-12-22 16:19:42,507 - Training time: 34.061156034469604 seconds
+2023-12-22 16:19:42,507 - Inference time: 2.5393311977386475 seconds
+2023-12-22 16:19:42,507 - Precision: 0.8701923076923077
+2023-12-22 16:19:42,507 - Recall: 0.7168316831683168
+2023-12-22 16:19:42,507 - F-score: 0.7861020629750272
+2023-12-22 16:19:42,507 - Accuracy: 0.8340353833192923
+2023-12-22 16:19:42,507 - G-mean: 0.7732160032272357
+2023-12-22 16:19:42,507 - Additional Info
+2023-12-22 16:19:42,507 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-22 16:19:42,507 - Datasets list: health
+2023-12-22 16:19:42,508 - Dataset size: 5932
+2023-12-22 16:19:42,508 - Layers frozen: 0
+2023-12-22 16:19:42,508 - Learning rate: 1e-05
+2023-12-22 16:19:42,508 - Class weights: Auto weights - [0.4463924477410654, 0.5536075522589345]
+2023-12-22 16:19:42,508 - Model not saved, didn't meet minimum accuracy threshold

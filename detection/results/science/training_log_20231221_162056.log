@@ -1,0 +1,21 @@
+2023-12-21 16:20:56,077 - 
+Starting detection model - 3o9J5cDUJr
+2023-12-21 16:21:03,280 - Epoch 1 average train loss: 0.0
+2023-12-21 16:21:07,713 - Epoch 2 average train loss: 0.0
+2023-12-21 16:21:12,200 - Epoch 3 average train loss: 0.0
+2023-12-21 16:21:14,586 - Evaluation Results
+2023-12-21 16:21:14,587 - Training time: 13.812400341033936 seconds
+2023-12-21 16:21:14,587 - Inference time: 0.36303067207336426 seconds
+2023-12-21 16:21:14,587 - Precision: 0.37735849056603776
+2023-12-21 16:21:14,588 - Recall: 0.45454545454545453
+2023-12-21 16:21:14,588 - F-score: 0.41237113402061865
+2023-12-21 16:21:14,588 - Accuracy: 0.6868131868131868
+2023-12-21 16:21:14,588 - G-mean: 0.5587376953345927
+2023-12-21 16:21:14,588 - Additional Info
+2023-12-21 16:21:14,588 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-21 16:21:14,588 - Datasets list: science
+2023-12-21 16:21:14,588 - Dataset size: 907
+2023-12-21 16:21:14,588 - Layers frozen: 0
+2023-12-21 16:21:14,588 - Learning rate: 1e-05
+2023-12-21 16:21:14,588 - Class weights: Auto weights - [0.278941565600882, 0.721058434399118]
+2023-12-21 16:21:14,588 - Model saved to: ./models/bert_model_3o9J5cDUJr.pt

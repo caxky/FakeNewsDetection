@@ -1,0 +1,51 @@
+2023-12-21 13:43:25,828 - Training data: (99229, 2)
+2023-12-21 13:43:25,845 -                text
+category           
+crime           804
+health        10707
+politics      41913
+science         907
+social_media  44898
+2023-12-21 13:43:25,862 - Testing data: (45436, 2)
+2023-12-21 13:43:25,869 -                text
+category           
+crime           315
+health         2814
+politics      19260
+science         907
+social_media  22140
+2023-12-21 13:43:25,982 - ====================================================
+2023-12-21 13:43:52,826 - Training data: (99229, 2)
+2023-12-21 13:43:52,841 -                text
+category           
+crime           804
+health        10707
+politics      41913
+science         907
+social_media  44898
+2023-12-21 13:43:52,859 - Testing data: (45436, 2)
+2023-12-21 13:43:52,864 -                text
+category           
+crime           315
+health         2814
+politics      19260
+science         907
+social_media  22140
+2023-12-21 13:43:52,959 - ====================================================
+2023-12-21 13:46:24,562 - Training data: (99229, 2)
+2023-12-21 13:46:24,578 -                text
+category           
+crime           804
+health        10707
+politics      41913
+science         907
+social_media  44898
+2023-12-21 13:46:24,599 - Testing data: (45436, 2)
+2023-12-21 13:46:24,604 -                text
+category           
+crime           315
+health         2814
+politics      19260
+science         907
+social_media  22140
+2023-12-21 13:46:24,703 - ====================================================

@@ -1,0 +1,18 @@
+2023-12-20 20:30:31,440 - 
+Starting detection model - HiiGVyb1bR
+2023-12-20 20:30:39,481 - Evaluation Results
+2023-12-20 20:30:39,482 - Training time: 6.2887372970581055 seconds
+2023-12-20 20:30:39,482 - Inference time: 0.5306885242462158 seconds
+2023-12-20 20:30:39,482 - Precision: 0.0
+2023-12-20 20:30:39,482 - Recall: 0.0
+2023-12-20 20:30:39,482 - F-score: 0.0
+2023-12-20 20:30:39,482 - Accuracy: 0.7582417582417582
+2023-12-20 20:30:39,482 - G-mean: 0.0
+2023-12-20 20:30:39,483 - Additional Info
+2023-12-20 20:30:39,483 - Model name: albert-base-v2
+2023-12-20 20:30:39,483 - Datasets list: science
+2023-12-20 20:30:39,483 - Dataset size: 907
+2023-12-20 20:30:39,483 - Layers frozen: 0
+2023-12-20 20:30:39,483 - Learning rate: 1e-05
+2023-12-20 20:30:39,483 - Class weights: Default weights - [0.721058434399118, 0.278941565600882]
+2023-12-20 20:30:39,483 - Model not saved, didn't meet minimum accuracy threshold

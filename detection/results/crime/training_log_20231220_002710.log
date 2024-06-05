@@ -1,0 +1,18 @@
+2023-12-20 00:27:10,695 - 
+Starting detection model - dvDVWU5hIF
+2023-12-20 00:29:07,761 - Evaluation Results
+2023-12-20 00:29:07,761 - Training time: 108.76931047439575 seconds
+2023-12-20 00:29:07,761 - Inference time: 0.6765580177307129 seconds
+2023-12-20 00:29:07,762 - Precision: 0.6190476190476191
+2023-12-20 00:29:07,762 - Recall: 1.0
+2023-12-20 00:29:07,762 - F-score: 0.7647058823529412
+2023-12-20 00:29:07,762 - Accuracy: 0.6190476190476191
+2023-12-20 00:29:07,762 - G-mean: 0.7867957924694432
+2023-12-20 00:29:07,762 - Additional Info
+2023-12-20 00:29:07,762 - Model name: bert-base-uncased
+2023-12-20 00:29:07,762 - Datasets list: crime Train: ['fa-kes'], Test: ['snope']
+2023-12-20 00:29:07,762 - Dataset size: Train: 804, Test: 315
+2023-12-20 00:29:07,762 - Layers frozen: 0
+2023-12-20 00:29:07,762 - Learning rate: 1e-05
+2023-12-20 00:29:07,762 - Class weights: [0.4701492537313433, 0.5298507462686567]
+2023-12-20 00:29:07,762 - Model saved to: ./models/bert_model_dvDVWU5hIF.pt

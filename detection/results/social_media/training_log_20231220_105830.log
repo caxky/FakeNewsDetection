@@ -1,0 +1,18 @@
+2023-12-20 10:58:30,188 - 
+Starting detection model - qHAC7ZRCE7
+2023-12-20 11:08:56,896 - Evaluation Results
+2023-12-20 11:08:56,897 - Training time: 89.21788096427917 seconds
+2023-12-20 11:08:56,897 - Inference time: 328.6555247306824 seconds
+2023-12-20 11:08:56,897 - Precision: 0.5229854336496058
+2023-12-20 11:08:56,897 - Recall: 1.0
+2023-12-20 11:08:56,897 - F-score: 0.6867898038871584
+2023-12-20 11:08:56,897 - Accuracy: 0.5229854336496058
+2023-12-20 11:08:56,897 - G-mean: 0.7231773182626829
+2023-12-20 11:08:56,897 - Additional Info
+2023-12-20 11:08:56,898 - Model name: distilbert-base-uncased
+2023-12-20 11:08:56,898 - Datasets list: social_media Train: ['gossipcop'], Test: ['isot_social']
+2023-12-20 11:08:56,898 - Dataset size: Train: 22140, Test: 44898
+2023-12-20 11:08:56,898 - Layers frozen: 0
+2023-12-20 11:08:56,898 - Learning rate: 1e-05
+2023-12-20 11:08:56,898 - Class weights: [0.2404245709123758, 0.7595754290876242]
+2023-12-20 11:08:56,898 - Model not saved, didn't meet minimum accuracy threshold

@@ -1,0 +1,17 @@
+2023-12-01 01:05:08,689 - 
+Starting detection model - 6GWfICPbQl
+2023-12-01 01:05:48,291 - Evaluation Results
+2023-12-01 01:05:48,292 - Training time: 33.808907985687256 seconds
+2023-12-01 01:05:48,292 - Inference time: 3.040245294570923 seconds
+2023-12-01 01:05:48,292 - Precision: 0.6282722513089005
+2023-12-01 01:05:48,292 - Recall: 0.42105263157894735
+2023-12-01 01:05:48,292 - F-score: 0.5042016806722689
+2023-12-01 01:05:48,292 - Accuracy: 0.8163424124513619
+2023-12-01 01:05:48,292 - G-mean: 0.586279047069015
+2023-12-01 01:05:48,292 - Additional Info
+2023-12-01 01:05:48,292 - Model name: albert-base-v2
+2023-12-01 01:05:48,292 - Datasets list: politics
+2023-12-01 01:05:48,292 - Layers frozen: 0
+2023-12-01 01:05:48,292 - Learning rate: 1e-05
+2023-12-01 01:05:48,292 - Class weights: [0.45, 0.55]
+2023-12-01 01:05:48,292 - Model saved to: ./models/bert_model_6GWfICPbQl.pt

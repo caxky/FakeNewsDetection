@@ -1,0 +1,18 @@
+2023-12-20 11:09:02,198 - 
+Starting detection model - z5uwj7oknf
+2023-12-20 11:24:07,608 - Evaluation Results
+2023-12-20 11:24:07,608 - Training time: 185.09725880622864 seconds
+2023-12-20 11:24:07,608 - Inference time: 647.3143866062164 seconds
+2023-12-20 11:24:07,608 - Precision: 0.5229854336496058
+2023-12-20 11:24:07,608 - Recall: 1.0
+2023-12-20 11:24:07,608 - F-score: 0.6867898038871584
+2023-12-20 11:24:07,608 - Accuracy: 0.5229854336496058
+2023-12-20 11:24:07,608 - G-mean: 0.7231773182626829
+2023-12-20 11:24:07,609 - Additional Info
+2023-12-20 11:24:07,609 - Model name: roberta-base
+2023-12-20 11:24:07,609 - Datasets list: social_media Train: ['gossipcop'], Test: ['isot_social']
+2023-12-20 11:24:07,609 - Dataset size: Train: 22140, Test: 44898
+2023-12-20 11:24:07,609 - Layers frozen: 0
+2023-12-20 11:24:07,609 - Learning rate: 1e-05
+2023-12-20 11:24:07,609 - Class weights: [0.2404245709123758, 0.7595754290876242]
+2023-12-20 11:24:07,609 - Model not saved, didn't meet minimum accuracy threshold

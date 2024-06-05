@@ -1,0 +1,19 @@
+2023-12-22 07:23:16,558 - 
+Starting detection model - tQACBrPh72
+2023-12-22 07:40:29,837 - Epoch 1 average train loss: 0.0
+2023-12-22 07:41:27,076 - Evaluation Results
+2023-12-22 07:41:27,076 - Training time: 721.2868316173553 seconds
+2023-12-22 07:41:27,076 - Inference time: 56.631463050842285 seconds
+2023-12-22 07:41:27,077 - Precision: 0.9755781683626272
+2023-12-22 07:41:27,077 - Recall: 0.9125995154032537
+2023-12-22 07:41:27,077 - F-score: 0.9430385406420458
+2023-12-22 07:41:27,077 - Accuracy: 0.9524910501193318
+2023-12-22 07:41:27,078 - G-mean: 0.9323319530965558
+2023-12-22 07:41:27,078 - Additional Info
+2023-12-22 07:41:27,078 - Model name: bert-base-cased
+2023-12-22 07:41:27,078 - Datasets list: social_media
+2023-12-22 07:41:27,078 - Dataset size: 67038
+2023-12-22 07:41:27,078 - Layers frozen: 0
+2023-12-22 07:41:27,078 - Learning rate: 1e-05
+2023-12-22 07:41:27,078 - Class weights: Default weights - [0.5703332438318566, 0.4296667561681434]
+2023-12-22 07:41:27,078 - Model saved to: ./models/bert_model_tQACBrPh72.pt

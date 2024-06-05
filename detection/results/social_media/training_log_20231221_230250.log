@@ -1,0 +1,25 @@
+2023-12-21 23:02:50,994 - 
+Starting detection model - F0oP5h75vI
+2023-12-21 23:21:18,070 - Epoch 1 average train loss: 0.0
+2023-12-21 23:33:18,824 - Epoch 2 average train loss: 0.0
+2023-12-21 23:45:19,393 - Epoch 3 average train loss: 0.0
+2023-12-21 23:57:19,840 - Epoch 4 average train loss: 0.0
+2023-12-22 00:09:20,650 - Epoch 5 average train loss: 0.0
+2023-12-22 00:21:20,950 - Epoch 6 average train loss: 0.0
+2023-12-22 00:33:21,383 - Epoch 7 average train loss: 0.0
+2023-12-22 00:34:18,583 - Evaluation Results
+2023-12-22 00:34:18,583 - Training time: 5044.695319890976 seconds
+2023-12-22 00:34:18,583 - Inference time: 56.654709339141846 seconds
+2023-12-22 00:34:18,583 - Precision: 0.9650953580424613
+2023-12-22 00:34:18,583 - Recall: 0.9283489096573209
+2023-12-22 00:34:18,583 - F-score: 0.9463655610444601
+2023-12-22 00:34:18,583 - Accuracy: 0.954653937947494
+2023-12-22 00:34:18,583 - G-mean: 0.9414095508298308
+2023-12-22 00:34:18,583 - Additional Info
+2023-12-22 00:34:18,584 - Model name: bert-base-uncased
+2023-12-22 00:34:18,584 - Datasets list: social_media
+2023-12-22 00:34:18,584 - Dataset size: 67038
+2023-12-22 00:34:18,584 - Layers frozen: 0
+2023-12-22 00:34:18,584 - Learning rate: 1e-05
+2023-12-22 00:34:18,584 - Class weights: Auto weights - [0.4296667561681434, 0.5703332438318566]
+2023-12-22 00:34:18,584 - Model saved to: ./models/bert_model_F0oP5h75vI.pt

@@ -1,0 +1,17 @@
+2023-12-19 18:43:15,433 - 
+Starting detection model - nRu9XJs7FQ
+2023-12-19 18:43:25,844 - Evaluation Results
+2023-12-19 18:43:25,844 - Training time: 8.20760726928711 seconds
+2023-12-19 18:43:25,845 - Inference time: 0.8072633743286133 seconds
+2023-12-19 18:43:25,845 - Precision: 0.5833333333333334
+2023-12-19 18:43:25,845 - Recall: 0.1590909090909091
+2023-12-19 18:43:25,845 - F-score: 0.25
+2023-12-19 18:43:25,845 - Accuracy: 0.7692307692307693
+2023-12-19 18:43:25,845 - G-mean: 0.3498251311407206
+2023-12-19 18:43:25,845 - Additional Info
+2023-12-19 18:43:25,845 - Model name: albert-base-v2
+2023-12-19 18:43:25,845 - Datasets list: science
+2023-12-19 18:43:25,845 - Layers frozen: 0
+2023-12-19 18:43:25,846 - Learning rate: 1e-05
+2023-12-19 18:43:25,847 - Class weights: tensor([0.2789, 0.7211])
+2023-12-19 18:43:25,847 - Model saved to: ./models/bert_model_nRu9XJs7FQ.pt

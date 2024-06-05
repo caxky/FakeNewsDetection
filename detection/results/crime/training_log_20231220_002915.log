@@ -1,0 +1,18 @@
+2023-12-20 00:29:15,068 - 
+Starting detection model - sr46immU1k
+2023-12-20 00:30:12,561 - Evaluation Results
+2023-12-20 00:30:12,562 - Training time: 50.30288505554199 seconds
+2023-12-20 00:30:12,562 - Inference time: 0.708594799041748 seconds
+2023-12-20 00:30:12,562 - Precision: 0.6190476190476191
+2023-12-20 00:30:12,563 - Recall: 1.0
+2023-12-20 00:30:12,563 - F-score: 0.7647058823529412
+2023-12-20 00:30:12,563 - Accuracy: 0.6190476190476191
+2023-12-20 00:30:12,563 - G-mean: 0.7867957924694432
+2023-12-20 00:30:12,563 - Additional Info
+2023-12-20 00:30:12,563 - Model name: bert-base-cased
+2023-12-20 00:30:12,563 - Datasets list: crime Train: ['fa-kes'], Test: ['snope']
+2023-12-20 00:30:12,563 - Dataset size: Train: 804, Test: 315
+2023-12-20 00:30:12,564 - Layers frozen: 0
+2023-12-20 00:30:12,564 - Learning rate: 1e-05
+2023-12-20 00:30:12,564 - Class weights: [0.4701492537313433, 0.5298507462686567]
+2023-12-20 00:30:12,564 - Model saved to: ./models/bert_model_sr46immU1k.pt

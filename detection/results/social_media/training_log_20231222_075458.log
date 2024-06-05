@@ -1,0 +1,19 @@
+2023-12-22 07:54:58,943 - 
+Starting detection model - J778PmG49R
+2023-12-22 08:07:45,589 - Epoch 1 average train loss: 0.0
+2023-12-22 08:08:14,707 - Evaluation Results
+2023-12-22 08:08:14,708 - Training time: 379.77221846580505 seconds
+2023-12-22 08:08:14,708 - Inference time: 28.6428062915802 seconds
+2023-12-22 08:08:14,708 - Precision: 0.9760545220114202
+2023-12-22 08:08:14,708 - Recall: 0.9170993423329872
+2023-12-22 08:08:14,708 - F-score: 0.9456589631480324
+2023-12-22 08:08:14,709 - Accuracy: 0.9545793556085919
+2023-12-22 08:08:14,709 - G-mean: 0.9356516976061585
+2023-12-22 08:08:14,709 - Additional Info
+2023-12-22 08:08:14,709 - Model name: distilbert-base-uncased
+2023-12-22 08:08:14,709 - Datasets list: social_media
+2023-12-22 08:08:14,709 - Dataset size: 67038
+2023-12-22 08:08:14,709 - Layers frozen: 0
+2023-12-22 08:08:14,709 - Learning rate: 1e-05
+2023-12-22 08:08:14,709 - Class weights: Default weights - [0.5703332438318566, 0.4296667561681434]
+2023-12-22 08:08:14,710 - Model saved to: ./models/bert_model_J778PmG49R.pt

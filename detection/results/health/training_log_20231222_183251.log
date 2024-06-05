@@ -1,0 +1,22 @@
+2023-12-22 18:32:51,859 - 
+Starting detection model - Z6kvycO4J4
+2023-12-22 18:39:05,413 - Epoch 1 average train loss: 0.0
+2023-12-22 18:44:00,556 - Epoch 2 average train loss: 0.0
+2023-12-22 18:48:55,745 - Epoch 3 average train loss: 0.0
+2023-12-22 18:53:50,016 - Epoch 4 average train loss: 0.0
+2023-12-22 18:54:15,155 - Evaluation Results
+2023-12-22 18:54:15,155 - Training time: 1180.4363632202148 seconds
+2023-12-22 18:54:15,155 - Inference time: 24.63524103164673 seconds
+2023-12-22 18:54:15,155 - Precision: 0.8601694915254238
+2023-12-22 18:54:15,155 - Recall: 0.803960396039604
+2023-12-22 18:54:15,155 - F-score: 0.8311156601842375
+2023-12-22 18:54:15,155 - Accuracy: 0.8609941027801179
+2023-12-22 18:54:15,155 - G-mean: 0.8319886777227603
+2023-12-22 18:54:15,156 - Additional Info
+2023-12-22 18:54:15,156 - Model name: distilbert-base-uncased
+2023-12-22 18:54:15,156 - Datasets list: health
+2023-12-22 18:54:15,156 - Dataset size: 5932
+2023-12-22 18:54:15,156 - Layers frozen: 0
+2023-12-22 18:54:15,156 - Learning rate: 1e-05
+2023-12-22 18:54:15,156 - Class weights: Manual weights - [0.45, 0.55]
+2023-12-22 18:54:15,156 - Model saved to: ./models/bert_model_Z6kvycO4J4.pt

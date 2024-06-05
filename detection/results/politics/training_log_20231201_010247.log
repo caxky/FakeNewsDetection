@@ -1,0 +1,17 @@
+2023-12-01 01:02:47,115 - 
+Starting detection model - 3Ei5YYKYvP
+2023-12-01 01:03:17,306 - Evaluation Results
+2023-12-01 01:03:17,307 - Training time: 24.511799573898315 seconds
+2023-12-01 01:03:17,307 - Inference time: 1.2572035789489746 seconds
+2023-12-01 01:03:17,307 - Precision: 0.9137931034482759
+2023-12-01 01:03:17,307 - Recall: 0.3719298245614035
+2023-12-01 01:03:17,307 - F-score: 0.5286783042394015
+2023-12-01 01:03:17,307 - Accuracy: 0.8529182879377432
+2023-12-01 01:03:17,307 - G-mean: 0.563227972669946
+2023-12-01 01:03:17,308 - Additional Info
+2023-12-01 01:03:17,308 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-01 01:03:17,308 - Datasets list: politics
+2023-12-01 01:03:17,308 - Layers frozen: 0
+2023-12-01 01:03:17,308 - Learning rate: 1e-05
+2023-12-01 01:03:17,308 - Class weights: [0.45, 0.55]
+2023-12-01 01:03:17,308 - Model saved to: ./models/bert_model_3Ei5YYKYvP.pt

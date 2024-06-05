@@ -1,0 +1,19 @@
+2023-12-22 16:21:27,784 - 
+Starting detection model - DpMF2s9kFb
+2023-12-22 16:22:53,732 - Epoch 1 average train loss: 0.0
+2023-12-22 16:22:58,938 - Evaluation Results
+2023-12-22 16:22:58,938 - Training time: 65.44312381744385 seconds
+2023-12-22 16:22:58,938 - Inference time: 5.067828416824341 seconds
+2023-12-22 16:22:58,938 - Precision: 0.925
+2023-12-22 16:22:58,938 - Recall: 0.7326732673267327
+2023-12-22 16:22:58,938 - F-score: 0.8176795580110497
+2023-12-22 16:22:58,939 - Accuracy: 0.8609941027801179
+2023-12-22 16:22:58,939 - G-mean: 0.7942464116588489
+2023-12-22 16:22:58,939 - Additional Info
+2023-12-22 16:22:58,939 - Model name: roberta-base
+2023-12-22 16:22:58,939 - Datasets list: health
+2023-12-22 16:22:58,939 - Dataset size: 5932
+2023-12-22 16:22:58,939 - Layers frozen: 0
+2023-12-22 16:22:58,939 - Learning rate: 1e-05
+2023-12-22 16:22:58,939 - Class weights: Auto weights - [0.4463924477410654, 0.5536075522589345]
+2023-12-22 16:22:58,939 - Model not saved, didn't meet minimum accuracy threshold

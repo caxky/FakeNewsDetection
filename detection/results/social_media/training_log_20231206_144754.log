@@ -1,0 +1,17 @@
+2023-12-06 14:47:54,561 - 
+Starting detection model - B7tcWFYVkt
+2023-12-06 15:33:34,754 - Evaluation Results
+2023-12-06 15:33:34,754 - Training time: 2454.8211538791656 seconds
+2023-12-06 15:33:34,754 - Inference time: 197.43858909606934 seconds
+2023-12-06 15:33:34,754 - Precision: 0.9650890768400215
+2023-12-06 15:33:34,754 - Recall: 0.9281758393907926
+2023-12-06 15:33:34,755 - F-score: 0.9462726069695633
+2023-12-06 15:33:34,755 - Accuracy: 0.9545793556085919
+2023-12-06 15:33:34,755 - G-mean: 0.9412850230706566
+2023-12-06 15:33:34,755 - Additional Info
+2023-12-06 15:33:34,755 - Model name: roberta-base
+2023-12-06 15:33:34,755 - Datasets list: social_media
+2023-12-06 15:33:34,755 - Layers frozen: 0
+2023-12-06 15:33:34,755 - Learning rate: 1e-05
+2023-12-06 15:33:34,755 - Class weights: [0.45, 0.55]
+2023-12-06 15:33:34,755 - Model saved to: ./models/bert_model_B7tcWFYVkt.pt

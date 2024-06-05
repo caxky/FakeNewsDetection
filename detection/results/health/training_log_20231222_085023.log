@@ -1,0 +1,19 @@
+2023-12-22 08:50:23,072 - 
+Starting detection model - lZJDAdYtDC
+2023-12-22 08:51:50,464 - Epoch 1 average train loss: 0.0
+2023-12-22 08:51:53,408 - Evaluation Results
+2023-12-22 08:51:53,408 - Training time: 34.17623805999756 seconds
+2023-12-22 08:51:53,408 - Inference time: 2.537647247314453 seconds
+2023-12-22 08:51:53,409 - Precision: 0.8902147971360382
+2023-12-22 08:51:53,409 - Recall: 0.7386138613861386
+2023-12-22 08:51:53,409 - F-score: 0.8073593073593075
+2023-12-22 08:51:53,409 - Accuracy: 0.8500421229991575
+2023-12-22 08:51:53,409 - G-mean: 0.7923716898080588
+2023-12-22 08:51:53,409 - Additional Info
+2023-12-22 08:51:53,409 - Model name: distilbert-base-uncased
+2023-12-22 08:51:53,409 - Datasets list: health
+2023-12-22 08:51:53,409 - Dataset size: 5932
+2023-12-22 08:51:53,409 - Layers frozen: 0
+2023-12-22 08:51:53,410 - Learning rate: 1e-05
+2023-12-22 08:51:53,410 - Class weights: Default weights - [0.5536075522589345, 0.4463924477410654]
+2023-12-22 08:51:53,410 - Model saved to: ./models/bert_model_lZJDAdYtDC.pt

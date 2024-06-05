@@ -1,0 +1,24 @@
+2023-12-22 18:39:34,036 - 
+Starting detection model - ujR1HffAVh
+2023-12-22 18:40:02,045 - Epoch 1 average train loss: 0.0
+2023-12-22 18:40:25,334 - Epoch 2 average train loss: 0.0
+2023-12-22 18:40:49,174 - Epoch 3 average train loss: 0.0
+2023-12-22 18:41:13,193 - Epoch 4 average train loss: 0.0
+2023-12-22 18:41:36,742 - Epoch 5 average train loss: 0.0
+2023-12-22 18:42:00,292 - Epoch 6 average train loss: 0.0
+2023-12-22 18:42:02,077 - Evaluation Results
+2023-12-22 18:42:02,077 - Training time: 141.9342122077942 seconds
+2023-12-22 18:42:02,077 - Inference time: 1.0705392360687256 seconds
+2023-12-22 18:42:02,077 - Precision: 0.8701298701298701
+2023-12-22 18:42:02,077 - Recall: 0.7052631578947368
+2023-12-22 18:42:02,077 - F-score: 0.7790697674418604
+2023-12-22 18:42:02,077 - Accuracy: 0.911284046692607
+2023-12-22 18:42:02,077 - G-mean: 0.801682645757985
+2023-12-22 18:42:02,079 - Additional Info
+2023-12-22 18:42:02,079 - Model name: bert-base-uncased
+2023-12-22 18:42:02,079 - Datasets list: politics
+2023-12-22 18:42:02,079 - Dataset size: 6424
+2023-12-22 18:42:02,079 - Layers frozen: 0
+2023-12-22 18:42:02,079 - Learning rate: 1e-05
+2023-12-22 18:42:02,079 - Class weights: Manual weights - [0.45, 0.55]
+2023-12-22 18:42:02,079 - Model saved to: ./models/bert_model_ujR1HffAVh.pt

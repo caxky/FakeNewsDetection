@@ -1,0 +1,18 @@
+2023-12-20 00:30:57,454 - 
+Starting detection model - KunRg7dpTA
+2023-12-20 00:31:25,528 - Evaluation Results
+2023-12-20 00:31:25,529 - Training time: 21.50354504585266 seconds
+2023-12-20 00:31:25,529 - Inference time: 0.3590121269226074 seconds
+2023-12-20 00:31:25,529 - Precision: 0.6190476190476191
+2023-12-20 00:31:25,529 - Recall: 0.4666666666666667
+2023-12-20 00:31:25,530 - F-score: 0.5321637426900585
+2023-12-20 00:31:25,530 - Accuracy: 0.49206349206349204
+2023-12-20 00:31:25,530 - G-mean: 0.4791968589521739
+2023-12-20 00:31:25,530 - Additional Info
+2023-12-20 00:31:25,530 - Model name: distilbert-base-uncased
+2023-12-20 00:31:25,530 - Datasets list: crime Train: ['fa-kes'], Test: ['snope']
+2023-12-20 00:31:25,530 - Dataset size: Train: 804, Test: 315
+2023-12-20 00:31:25,530 - Layers frozen: 0
+2023-12-20 00:31:25,530 - Learning rate: 1e-05
+2023-12-20 00:31:25,530 - Class weights: [0.4701492537313433, 0.5298507462686567]
+2023-12-20 00:31:25,530 - Model not saved, didn't meet minimum accuracy threshold

@@ -1,0 +1,19 @@
+2023-12-22 19:09:27,663 - 
+Starting detection model - MaNUKqXlLi
+2023-12-22 19:09:55,682 - Epoch 1 average train loss: 0.0
+2023-12-22 19:09:56,826 - Evaluation Results
+2023-12-22 19:09:56,827 - Training time: 17.936192750930786 seconds
+2023-12-22 19:09:56,827 - Inference time: 0.604665994644165 seconds
+2023-12-22 19:09:56,827 - Precision: 0.5600961538461539
+2023-12-22 19:09:56,827 - Recall: 0.8175438596491228
+2023-12-22 19:09:56,827 - F-score: 0.6647646219686163
+2023-12-22 19:09:56,827 - Accuracy: 0.8171206225680934
+2023-12-22 19:09:56,827 - G-mean: 0.8173322137131346
+2023-12-22 19:09:56,827 - Additional Info
+2023-12-22 19:09:56,828 - Model name: distilbert-base-uncased
+2023-12-22 19:09:56,828 - Datasets list: politics
+2023-12-22 19:09:56,828 - Dataset size: 6424
+2023-12-22 19:09:56,828 - Layers frozen: 0
+2023-12-22 19:09:56,828 - Learning rate: 1e-05
+2023-12-22 19:09:56,828 - Class weights: Auto weights - [0.20781444582814446, 0.7921855541718555]
+2023-12-22 19:09:56,828 - Model saved to: ./models/bert_model_MaNUKqXlLi.pt

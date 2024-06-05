@@ -1,0 +1,23 @@
+2023-12-22 18:28:30,984 - 
+Starting detection model - HOMKrvbSY9
+2023-12-22 18:29:00,212 - Epoch 1 average train loss: 0.0
+2023-12-22 18:29:23,692 - Epoch 2 average train loss: 0.0
+2023-12-22 18:29:47,580 - Epoch 3 average train loss: 0.0
+2023-12-22 18:30:10,655 - Epoch 4 average train loss: 0.0
+2023-12-22 18:30:34,222 - Epoch 5 average train loss: 0.0
+2023-12-22 18:30:36,009 - Evaluation Results
+2023-12-22 18:30:36,009 - Training time: 118.2171950340271 seconds
+2023-12-22 18:30:36,009 - Inference time: 1.0657830238342285 seconds
+2023-12-22 18:30:36,009 - Precision: 0.6470588235294118
+2023-12-22 18:30:36,009 - Recall: 0.8491228070175438
+2023-12-22 18:30:36,009 - F-score: 0.7344461305007588
+2023-12-22 18:30:36,009 - Accuracy: 0.8638132295719845
+2023-12-22 18:30:36,009 - G-mean: 0.8564365208426445
+2023-12-22 18:30:36,010 - Additional Info
+2023-12-22 18:30:36,010 - Model name: bert-base-uncased
+2023-12-22 18:30:36,010 - Datasets list: politics
+2023-12-22 18:30:36,010 - Dataset size: 6424
+2023-12-22 18:30:36,010 - Layers frozen: 0
+2023-12-22 18:30:36,010 - Learning rate: 1e-05
+2023-12-22 18:30:36,010 - Class weights: Manual weights - [0.45, 0.55]
+2023-12-22 18:30:36,010 - Model saved to: ./models/bert_model_HOMKrvbSY9.pt

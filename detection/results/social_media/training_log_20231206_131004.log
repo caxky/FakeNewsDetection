@@ -1,0 +1,17 @@
+2023-12-06 13:10:04,610 - 
+Starting detection model - ev1MuLMf8B
+2023-12-06 13:56:35,936 - Evaluation Results
+2023-12-06 13:56:35,937 - Training time: 2414.736571073532 seconds
+2023-12-06 13:56:35,937 - Inference time: 198.7047414779663 seconds
+2023-12-06 13:56:35,937 - Precision: 0.9651750270660412
+2023-12-06 13:56:35,937 - Recall: 0.9257528556593977
+2023-12-06 13:56:35,937 - F-score: 0.9450530035335688
+2023-12-06 13:56:35,937 - Accuracy: 0.953609785202864
+2023-12-06 13:56:35,937 - G-mean: 0.9395780871414021
+2023-12-06 13:56:35,937 - Additional Info
+2023-12-06 13:56:35,937 - Model name: bert-base-cased
+2023-12-06 13:56:35,937 - Datasets list: social_media
+2023-12-06 13:56:35,937 - Layers frozen: 0
+2023-12-06 13:56:35,937 - Learning rate: 1e-05
+2023-12-06 13:56:35,938 - Class weights: [0.45, 0.55]
+2023-12-06 13:56:35,938 - Model saved to: ./models/bert_model_ev1MuLMf8B.pt

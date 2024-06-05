@@ -1,0 +1,25 @@
+2023-12-22 00:34:28,235 - 
+Starting detection model - Tektiv0Iil
+2023-12-22 00:51:40,361 - Epoch 1 average train loss: 0.0
+2023-12-22 01:03:40,293 - Epoch 2 average train loss: 0.0
+2023-12-22 01:15:40,347 - Epoch 3 average train loss: 0.0
+2023-12-22 01:27:40,274 - Epoch 4 average train loss: 0.0
+2023-12-22 01:39:40,273 - Epoch 5 average train loss: 0.0
+2023-12-22 01:51:39,976 - Epoch 6 average train loss: 0.0
+2023-12-22 02:03:39,886 - Epoch 7 average train loss: 0.0
+2023-12-22 02:04:36,878 - Evaluation Results
+2023-12-22 02:04:36,879 - Training time: 5040.401098251343 seconds
+2023-12-22 02:04:36,879 - Inference time: 56.40397930145264 seconds
+2023-12-22 02:04:36,879 - Precision: 0.9539088814040064
+2023-12-22 02:04:36,879 - Recall: 0.9312911041883004
+2023-12-22 02:04:36,879 - F-score: 0.94246431386286
+2023-12-22 02:04:36,879 - Accuracy: 0.9509994033412887
+2023-12-22 02:04:36,879 - G-mean: 0.9410936639995637
+2023-12-22 02:04:36,879 - Additional Info
+2023-12-22 02:04:36,879 - Model name: bert-base-cased
+2023-12-22 02:04:36,879 - Datasets list: social_media
+2023-12-22 02:04:36,879 - Dataset size: 67038
+2023-12-22 02:04:36,880 - Layers frozen: 0
+2023-12-22 02:04:36,880 - Learning rate: 1e-05
+2023-12-22 02:04:36,880 - Class weights: Auto weights - [0.4296667561681434, 0.5703332438318566]
+2023-12-22 02:04:36,880 - Model saved to: ./models/bert_model_Tektiv0Iil.pt

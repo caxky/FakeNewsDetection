@@ -1,0 +1,18 @@
+2023-12-20 22:51:03,288 - 
+Starting detection model - 3lqx9a4MSD
+2023-12-20 23:19:42,867 - Evaluation Results
+2023-12-20 23:19:42,868 - Training time: 1357.5884625911713 seconds
+2023-12-20 23:19:42,868 - Inference time: 111.90368175506592 seconds
+2023-12-20 23:19:42,868 - Precision: 0.9687899251688264
+2023-12-20 23:19:42,868 - Recall: 0.9186569747317411
+2023-12-20 23:19:42,869 - F-score: 0.9430576530159013
+2023-12-20 23:19:42,869 - Accuracy: 0.9521927207637232
+2023-12-20 23:19:42,869 - G-mean: 0.935274550182131
+2023-12-20 23:19:42,869 - Additional Info
+2023-12-20 23:19:42,869 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-20 23:19:42,869 - Datasets list: social_media
+2023-12-20 23:19:42,869 - Dataset size: 67038
+2023-12-20 23:19:42,869 - Layers frozen: 0
+2023-12-20 23:19:42,869 - Learning rate: 1e-05
+2023-12-20 23:19:42,870 - Class weights: Default weights - [0.5703332438318566, 0.4296667561681434]
+2023-12-20 23:19:42,870 - Model saved to: ./models/bert_model_3lqx9a4MSD.pt

@@ -1,0 +1,17 @@
+2023-12-13 03:18:28,548 - 
+Starting detection model - IX5WJisCxR
+2023-12-13 03:22:58,986 - Evaluation Results
+2023-12-13 03:22:58,986 - Training time: 234.17082047462463 seconds
+2023-12-13 03:22:58,986 - Inference time: 21.7473566532135 seconds
+2023-12-13 03:22:58,986 - Precision: 0.8982630272952854
+2023-12-13 03:22:58,986 - Recall: 0.7168316831683168
+2023-12-13 03:22:58,986 - F-score: 0.7973568281938326
+2023-12-13 03:22:58,986 - Accuracy: 0.8449873631002527
+2023-12-13 03:22:58,986 - G-mean: 0.7782761166495551
+2023-12-13 03:22:58,986 - Additional Info
+2023-12-13 03:22:58,987 - Model name: albert-base-v2
+2023-12-13 03:22:58,987 - Datasets list: health
+2023-12-13 03:22:58,987 - Layers frozen: 0
+2023-12-13 03:22:58,987 - Learning rate: 1e-05
+2023-12-13 03:22:58,987 - Class weights: [0.45, 0.55]
+2023-12-13 03:22:58,987 - Model saved to: ./models\bert_model_IX5WJisCxR.pt

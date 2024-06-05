@@ -1,0 +1,18 @@
+2023-12-20 20:30:06,747 - 
+Starting detection model - CLSZj1BEUb
+2023-12-20 20:30:12,147 - Evaluation Results
+2023-12-20 20:30:12,147 - Training time: 3.7712087631225586 seconds
+2023-12-20 20:30:12,147 - Inference time: 0.21467137336730957 seconds
+2023-12-20 20:30:12,148 - Precision: 0.0
+2023-12-20 20:30:12,148 - Recall: 0.0
+2023-12-20 20:30:12,148 - F-score: 0.0
+2023-12-20 20:30:12,148 - Accuracy: 0.7582417582417582
+2023-12-20 20:30:12,148 - G-mean: 0.0
+2023-12-20 20:30:12,148 - Additional Info
+2023-12-20 20:30:12,148 - Model name: distilbert-base-uncased
+2023-12-20 20:30:12,148 - Datasets list: science
+2023-12-20 20:30:12,148 - Dataset size: 907
+2023-12-20 20:30:12,148 - Layers frozen: 0
+2023-12-20 20:30:12,148 - Learning rate: 1e-05
+2023-12-20 20:30:12,148 - Class weights: Default weights - [0.721058434399118, 0.278941565600882]
+2023-12-20 20:30:12,148 - Model not saved, didn't meet minimum accuracy threshold

@@ -1,0 +1,19 @@
+2023-12-22 09:46:32,020 - 
+Starting detection model - D7nVt8eLnx
+2023-12-22 09:48:49,237 - Epoch 1 average train loss: 0.0
+2023-12-22 09:48:58,163 - Evaluation Results
+2023-12-22 09:48:58,163 - Training time: 107.74418783187866 seconds
+2023-12-22 09:48:58,164 - Inference time: 8.632362604141235 seconds
+2023-12-22 09:48:58,164 - Precision: 0.9098901098901099
+2023-12-22 09:48:58,164 - Recall: 0.776735459662289
+2023-12-22 09:48:58,164 - F-score: 0.8380566801619433
+2023-12-22 09:48:58,164 - Accuracy: 0.8652064026958719
+2023-12-22 09:48:58,164 - G-mean: 0.8197783193648961
+2023-12-22 09:48:58,164 - Additional Info
+2023-12-22 09:48:58,164 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-22 09:48:58,165 - Datasets list: health
+2023-12-22 09:48:58,165 - Dataset size: 5932
+2023-12-22 09:48:58,165 - Layers frozen: 0
+2023-12-22 09:48:58,165 - Learning rate: 1e-05
+2023-12-22 09:48:58,165 - Class weights: Auto weights - [0.4463924477410654, 0.5536075522589345]
+2023-12-22 09:48:58,165 - Model saved to: ./models/bert_model_D7nVt8eLnx.pt

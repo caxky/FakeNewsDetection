@@ -1,0 +1,17 @@
+2023-12-01 01:00:50,238 - 
+Starting detection model - DMaHx8fEE3
+2023-12-01 01:01:42,029 - Evaluation Results
+2023-12-01 01:01:42,030 - Training time: 44.51108121871948 seconds
+2023-12-01 01:01:42,030 - Inference time: 2.483720302581787 seconds
+2023-12-01 01:01:42,030 - Precision: 0.8232323232323232
+2023-12-01 01:01:42,030 - Recall: 0.5719298245614035
+2023-12-01 01:01:42,030 - F-score: 0.6749482401656315
+2023-12-01 01:01:42,030 - Accuracy: 0.8778210116731517
+2023-12-01 01:01:42,030 - G-mean: 0.7085562907790315
+2023-12-01 01:01:42,030 - Additional Info
+2023-12-01 01:01:42,030 - Model name: bert-base-uncased
+2023-12-01 01:01:42,031 - Datasets list: politics
+2023-12-01 01:01:42,031 - Layers frozen: 0
+2023-12-01 01:01:42,031 - Learning rate: 1e-05
+2023-12-01 01:01:42,031 - Class weights: [0.45, 0.55]
+2023-12-01 01:01:42,031 - Model saved to: ./models/bert_model_DMaHx8fEE3.pt

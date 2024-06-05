@@ -1,0 +1,17 @@
+2023-12-13 03:27:56,066 - 
+Starting detection model - DjGpiBWf9k
+2023-12-13 03:28:38,123 - Evaluation Results
+2023-12-13 03:28:38,123 - Training time: 35.501657485961914 seconds
+2023-12-13 03:28:38,123 - Inference time: 3.1587584018707275 seconds
+2023-12-13 03:28:38,123 - Precision: 0.0
+2023-12-13 03:28:38,123 - Recall: 0.0
+2023-12-13 03:28:38,123 - F-score: 0.0
+2023-12-13 03:28:38,123 - Accuracy: 0.7782101167315175
+2023-12-13 03:28:38,123 - G-mean: 0.0
+2023-12-13 03:28:38,123 - Additional Info
+2023-12-13 03:28:38,124 - Model name: albert-base-v2
+2023-12-13 03:28:38,124 - Datasets list: politics
+2023-12-13 03:28:38,124 - Layers frozen: 0
+2023-12-13 03:28:38,124 - Learning rate: 1e-05
+2023-12-13 03:28:38,124 - Class weights: [0.45, 0.55]
+2023-12-13 03:28:38,124 - Model not saved, didn't meet minimum accuracy threshold

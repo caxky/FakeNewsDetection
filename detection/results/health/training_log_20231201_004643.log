@@ -1,0 +1,17 @@
+2023-12-01 00:46:43,641 - 
+Starting detection model - pC2g6MAjET
+2023-12-01 00:49:13,578 - Evaluation Results
+2023-12-01 00:49:13,578 - Training time: 110.04264068603516 seconds
+2023-12-01 00:49:13,578 - Inference time: 8.842262983322144 seconds
+2023-12-01 00:49:13,579 - Precision: 0.9098901098901099
+2023-12-01 00:49:13,579 - Recall: 0.776735459662289
+2023-12-01 00:49:13,579 - F-score: 0.8380566801619433
+2023-12-01 00:49:13,579 - Accuracy: 0.8652064026958719
+2023-12-01 00:49:13,579 - G-mean: 0.8197783193648961
+2023-12-01 00:49:13,579 - Additional Info
+2023-12-01 00:49:13,579 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-01 00:49:13,579 - Datasets list: health
+2023-12-01 00:49:13,579 - Layers frozen: 0
+2023-12-01 00:49:13,579 - Learning rate: 1e-05
+2023-12-01 00:49:13,579 - Class weights: [0.45, 0.55]
+2023-12-01 00:49:13,579 - Model saved to: ./models/bert_model_pC2g6MAjET.pt

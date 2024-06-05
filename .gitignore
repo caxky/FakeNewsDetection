@@ -1,0 +1,10 @@
+datasets
+raw-data/
+detection/models/
+
+.vscode
+data.zip
+detection/graph copy.ipynb
+detection/detection copy.ipynb
+detection/detection copy.ipynb
+*.pt

@@ -1,0 +1,22 @@
+2023-12-22 18:24:52,985 - 
+Starting detection model - dG49hkm8Lg
+2023-12-22 18:25:22,285 - Epoch 1 average train loss: 0.0
+2023-12-22 18:25:45,813 - Epoch 2 average train loss: 0.0
+2023-12-22 18:26:09,708 - Epoch 3 average train loss: 0.0
+2023-12-22 18:26:33,666 - Epoch 4 average train loss: 0.0
+2023-12-22 18:26:35,490 - Evaluation Results
+2023-12-22 18:26:35,490 - Training time: 94.95114493370056 seconds
+2023-12-22 18:26:35,490 - Inference time: 1.0672667026519775 seconds
+2023-12-22 18:26:35,490 - Precision: 0.762589928057554
+2023-12-22 18:26:35,490 - Recall: 0.743859649122807
+2023-12-22 18:26:35,490 - F-score: 0.7531083481349911
+2023-12-22 18:26:35,490 - Accuracy: 0.8918287937743191
+2023-12-22 18:26:35,491 - G-mean: 0.8144909168398266
+2023-12-22 18:26:35,491 - Additional Info
+2023-12-22 18:26:35,491 - Model name: bert-base-uncased
+2023-12-22 18:26:35,491 - Datasets list: politics
+2023-12-22 18:26:35,491 - Dataset size: 6424
+2023-12-22 18:26:35,491 - Layers frozen: 0
+2023-12-22 18:26:35,491 - Learning rate: 1e-05
+2023-12-22 18:26:35,491 - Class weights: Manual weights - [0.45, 0.55]
+2023-12-22 18:26:35,492 - Model saved to: ./models/bert_model_dG49hkm8Lg.pt

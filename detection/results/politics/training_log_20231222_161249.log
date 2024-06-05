@@ -1,0 +1,19 @@
+2023-12-22 16:12:49,161 - 
+Starting detection model - LsyGZhKchW
+2023-12-22 16:13:18,206 - Epoch 1 average train loss: 0.0
+2023-12-22 16:13:19,538 - Evaluation Results
+2023-12-22 16:13:19,538 - Training time: 24.5537588596344 seconds
+2023-12-22 16:13:19,538 - Inference time: 1.2164092063903809 seconds
+2023-12-22 16:13:19,538 - Precision: 0.7362637362637363
+2023-12-22 16:13:19,539 - Recall: 0.7052631578947368
+2023-12-22 16:13:19,539 - F-score: 0.7204301075268817
+2023-12-22 16:13:19,539 - Accuracy: 0.8785992217898833
+2023-12-22 16:13:19,539 - G-mean: 0.7871744798222255
+2023-12-22 16:13:19,539 - Additional Info
+2023-12-22 16:13:19,539 - Model name: roberta-base
+2023-12-22 16:13:19,539 - Datasets list: politics
+2023-12-22 16:13:19,539 - Dataset size: 6424
+2023-12-22 16:13:19,539 - Layers frozen: 0
+2023-12-22 16:13:19,539 - Learning rate: 1e-05
+2023-12-22 16:13:19,539 - Class weights: Auto weights - [0.20781444582814446, 0.7921855541718555]
+2023-12-22 16:13:19,539 - Model not saved, didn't meet minimum accuracy threshold

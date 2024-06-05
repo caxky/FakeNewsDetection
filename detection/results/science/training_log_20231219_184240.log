@@ -1,0 +1,17 @@
+2023-12-19 18:42:40,540 - 
+Starting detection model - Wutn2O5VIc
+2023-12-19 18:42:48,207 - Evaluation Results
+2023-12-19 18:42:48,207 - Training time: 5.347685098648071 seconds
+2023-12-19 18:42:48,208 - Inference time: 0.3021831512451172 seconds
+2023-12-19 18:42:48,208 - Precision: 0.75
+2023-12-19 18:42:48,208 - Recall: 0.13636363636363635
+2023-12-19 18:42:48,208 - F-score: 0.23076923076923075
+2023-12-19 18:42:48,209 - Accuracy: 0.7802197802197802
+2023-12-19 18:42:48,209 - G-mean: 0.326180328029767
+2023-12-19 18:42:48,209 - Additional Info
+2023-12-19 18:42:48,209 - Model name: distilbert-base-uncased
+2023-12-19 18:42:48,209 - Datasets list: science
+2023-12-19 18:42:48,209 - Layers frozen: 0
+2023-12-19 18:42:48,209 - Learning rate: 1e-05
+2023-12-19 18:42:48,210 - Class weights: tensor([0.2789, 0.7211])
+2023-12-19 18:42:48,210 - Model saved to: ./models/bert_model_Wutn2O5VIc.pt

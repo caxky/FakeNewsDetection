@@ -1,0 +1,22 @@
+2023-12-22 19:16:01,517 - 
+Starting detection model - 6lem5FMSCl
+2023-12-22 19:22:16,481 - Epoch 1 average train loss: 0.0
+2023-12-22 19:27:11,574 - Epoch 2 average train loss: 0.0
+2023-12-22 19:32:06,692 - Epoch 3 average train loss: 0.0
+2023-12-22 19:37:01,820 - Epoch 4 average train loss: 0.0
+2023-12-22 19:37:26,966 - Evaluation Results
+2023-12-22 19:37:26,966 - Training time: 1180.2309257984161 seconds
+2023-12-22 19:37:26,966 - Inference time: 24.63860511779785 seconds
+2023-12-22 19:37:26,967 - Precision: 0.8100558659217877
+2023-12-22 19:37:26,967 - Recall: 0.8613861386138614
+2023-12-22 19:37:26,967 - F-score: 0.8349328214971209
+2023-12-22 19:37:26,967 - Accuracy: 0.8550968828980623
+2023-12-22 19:37:26,967 - G-mean: 0.8582357497216665
+2023-12-22 19:37:26,967 - Additional Info
+2023-12-22 19:37:26,967 - Model name: distilbert-base-uncased
+2023-12-22 19:37:26,967 - Datasets list: health
+2023-12-22 19:37:26,968 - Dataset size: 5932
+2023-12-22 19:37:26,968 - Layers frozen: 0
+2023-12-22 19:37:26,968 - Learning rate: 1e-05
+2023-12-22 19:37:26,968 - Class weights: Manual weights - [0.45, 0.55]
+2023-12-22 19:37:26,968 - Model saved to: ./models/bert_model_6lem5FMSCl.pt

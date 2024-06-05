@@ -1,0 +1,22 @@
+2023-12-22 19:26:56,190 - 
+Starting detection model - ZerGrE7Ysw
+2023-12-22 19:27:53,601 - Epoch 1 average train loss: 0.0
+2023-12-22 19:28:26,326 - Epoch 2 average train loss: 0.0
+2023-12-22 19:28:59,043 - Epoch 3 average train loss: 0.0
+2023-12-22 19:29:31,752 - Epoch 4 average train loss: 0.0
+2023-12-22 19:29:34,676 - Evaluation Results
+2023-12-22 19:29:34,677 - Training time: 131.12434720993042 seconds
+2023-12-22 19:29:34,677 - Inference time: 2.528210401535034 seconds
+2023-12-22 19:29:34,677 - Precision: 0.8503118503118503
+2023-12-22 19:29:34,677 - Recall: 0.80990099009901
+2023-12-22 19:29:34,677 - F-score: 0.8296146044624746
+2023-12-22 19:29:34,677 - Accuracy: 0.8584667228306655
+2023-12-22 19:29:34,677 - G-mean: 0.8338303477252482
+2023-12-22 19:29:34,677 - Additional Info
+2023-12-22 19:29:34,677 - Model name: distilbert-base-uncased
+2023-12-22 19:29:34,678 - Datasets list: health
+2023-12-22 19:29:34,678 - Dataset size: 5932
+2023-12-22 19:29:34,678 - Layers frozen: 0
+2023-12-22 19:29:34,678 - Learning rate: 1e-05
+2023-12-22 19:29:34,678 - Class weights: Manual weights - [0.45, 0.55]
+2023-12-22 19:29:34,678 - Model saved to: ./models/bert_model_ZerGrE7Ysw.pt

@@ -1,0 +1,17 @@
+2023-12-13 02:56:04,950 - 
+Starting detection model - smhveUynja
+2023-12-13 03:18:17,007 - Evaluation Results
+2023-12-13 03:18:17,007 - Training time: 1196.041878938675 seconds
+2023-12-13 03:18:17,007 - Inference time: 121.56223702430725 seconds
+2023-12-13 03:18:17,008 - Precision: 0.9242819843342036
+2023-12-13 03:18:17,008 - Recall: 0.700990099009901
+2023-12-13 03:18:17,008 - F-score: 0.7972972972972973
+2023-12-13 03:18:17,008 - Accuracy: 0.8483572030328559
+2023-12-13 03:18:17,008 - G-mean: 0.7711614615304401
+2023-12-13 03:18:17,008 - Additional Info
+2023-12-13 03:18:17,008 - Model name: roberta-base
+2023-12-13 03:18:17,008 - Datasets list: health
+2023-12-13 03:18:17,008 - Layers frozen: 0
+2023-12-13 03:18:17,008 - Learning rate: 1e-05
+2023-12-13 03:18:17,008 - Class weights: [0.45, 0.55]
+2023-12-13 03:18:17,008 - Model saved to: ./models\bert_model_smhveUynja.pt

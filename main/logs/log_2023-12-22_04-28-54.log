@@ -1,0 +1,16 @@
+2023-12-22 04:28:56,024 - Number of samples: 190656
+2023-12-22 04:28:56,053 -                 text   label  dataset
+category                             
+crime           1119    1119     1119
+health         13521   13521    13521
+politics      106071  106071   106071
+science         2907    2907     2907
+social_media   67038   67038    67038
+2023-12-22 06:05:15,233 - Number of samples: 190656
+2023-12-22 06:05:15,287 -                 text   label  dataset
+category                             
+crime           1119    1119     1119
+health         13521   13521    13521
+politics      106071  106071   106071
+science         2907    2907     2907
+social_media   67038   67038    67038

@@ -1,0 +1,19 @@
+2023-12-22 16:11:47,257 - 
+Starting detection model - DnwKGDkEjy
+2023-12-22 16:12:10,110 - Epoch 1 average train loss: 0.0
+2023-12-22 16:12:10,904 - Evaluation Results
+2023-12-22 16:12:10,905 - Training time: 17.2147433757782 seconds
+2023-12-22 16:12:10,905 - Inference time: 0.6726706027984619 seconds
+2023-12-22 16:12:10,905 - Precision: 0.5010845986984815
+2023-12-22 16:12:10,905 - Recall: 0.8105263157894737
+2023-12-22 16:12:10,905 - F-score: 0.6193029490616623
+2023-12-22 16:12:10,905 - Accuracy: 0.778988326848249
+2023-12-22 16:12:10,905 - G-mean: 0.7946008674821075
+2023-12-22 16:12:10,905 - Additional Info
+2023-12-22 16:12:10,906 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-22 16:12:10,906 - Datasets list: politics
+2023-12-22 16:12:10,906 - Dataset size: 6424
+2023-12-22 16:12:10,906 - Layers frozen: 0
+2023-12-22 16:12:10,906 - Learning rate: 1e-05
+2023-12-22 16:12:10,906 - Class weights: Auto weights - [0.20781444582814446, 0.7921855541718555]
+2023-12-22 16:12:10,906 - Model not saved, didn't meet minimum accuracy threshold

@@ -1,0 +1,22 @@
+2023-12-22 18:11:14,268 - 
+Starting detection model - aEHwrTdQBY
+2023-12-22 18:17:30,700 - Epoch 1 average train loss: 0.0
+2023-12-22 18:22:25,739 - Epoch 2 average train loss: 0.0
+2023-12-22 18:27:20,910 - Epoch 3 average train loss: 0.0
+2023-12-22 18:32:16,075 - Epoch 4 average train loss: 0.0
+2023-12-22 18:32:41,339 - Evaluation Results
+2023-12-22 18:32:41,339 - Training time: 1181.0724518299103 seconds
+2023-12-22 18:32:41,339 - Inference time: 24.616901636123657 seconds
+2023-12-22 18:32:41,339 - Precision: 0.8262548262548263
+2023-12-22 18:32:41,339 - Recall: 0.8475247524752475
+2023-12-22 18:32:41,340 - F-score: 0.8367546432062561
+2023-12-22 18:32:41,340 - Accuracy: 0.8593091828138163
+2023-12-22 18:32:41,340 - G-mean: 0.8533966267006139
+2023-12-22 18:32:41,340 - Additional Info
+2023-12-22 18:32:41,340 - Model name: distilbert-base-uncased
+2023-12-22 18:32:41,340 - Datasets list: health
+2023-12-22 18:32:41,340 - Dataset size: 5932
+2023-12-22 18:32:41,340 - Layers frozen: 0
+2023-12-22 18:32:41,341 - Learning rate: 1e-05
+2023-12-22 18:32:41,341 - Class weights: Manual weights - [0.45, 0.55]
+2023-12-22 18:32:41,341 - Model saved to: ./models/bert_model_aEHwrTdQBY.pt

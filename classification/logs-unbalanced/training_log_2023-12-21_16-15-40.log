@@ -1,0 +1,17 @@
+2023-12-21 16:15:41,185 - Training data: (99229, 2)
+2023-12-21 16:15:41,200 -                text
+category           
+crime           804
+health        10707
+politics      41913
+science         907
+social_media  44898
+2023-12-21 16:15:41,220 - Testing data: (45436, 2)
+2023-12-21 16:15:41,224 -                text
+category           
+crime           315
+health         2814
+politics      19260
+science         907
+social_media  22140
+2023-12-21 16:15:41,278 - ====================================================

@@ -1,0 +1,18 @@
+2023-12-20 03:04:49,421 - 
+Starting detection model - j6NgCw6SP4
+2023-12-20 03:41:21,481 - Evaluation Results
+2023-12-20 03:41:21,481 - Training time: 1792.8643221855164 seconds
+2023-12-20 03:41:21,481 - Inference time: 7.7813920974731445 seconds
+2023-12-20 03:41:21,481 - Precision: 0.207981220657277
+2023-12-20 03:41:21,481 - Recall: 0.9955056179775281
+2023-12-20 03:41:21,481 - F-score: 0.3440776699029126
+2023-12-20 03:41:21,482 - Accuracy: 0.21123910336239105
+2023-12-20 03:41:21,482 - G-mean: 0.45857356458238635
+2023-12-20 03:41:21,482 - Additional Info
+2023-12-20 03:41:21,482 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-20 03:41:21,482 - Datasets list: politics Train: ['fake_news', 'isot_dataset', 'liar_dataset'], Test: ['pheme', 'politifact']
+2023-12-20 03:41:21,482 - Dataset size: Train: 78495, Test: 6424
+2023-12-20 03:41:21,482 - Layers frozen: 0
+2023-12-20 03:41:21,482 - Learning rate: 1e-05
+2023-12-20 03:41:21,482 - Class weights: [0.5035225173577935, 0.49647748264220654]
+2023-12-20 03:41:21,482 - Model not saved, didn't meet minimum accuracy threshold

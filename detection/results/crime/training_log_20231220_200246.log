@@ -1,0 +1,18 @@
+2023-12-20 20:02:46,618 - 
+Starting detection model - Mo9wKvII5f
+2023-12-20 20:03:14,004 - Evaluation Results
+2023-12-20 20:03:14,004 - Training time: 21.18081784248352 seconds
+2023-12-20 20:03:14,004 - Inference time: 1.8348207473754883 seconds
+2023-12-20 20:03:14,004 - Precision: 0.8333333333333334
+2023-12-20 20:03:14,004 - Recall: 0.44715447154471544
+2023-12-20 20:03:14,004 - F-score: 0.5820105820105821
+2023-12-20 20:03:14,005 - Accuracy: 0.6473214285714286
+2023-12-20 20:03:14,005 - G-mean: 0.5380080587801891
+2023-12-20 20:03:14,005 - Additional Info
+2023-12-20 20:03:14,005 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-20 20:03:14,005 - Datasets list: crime
+2023-12-20 20:03:14,005 - Dataset size: 1119
+2023-12-20 20:03:14,005 - Layers frozen: 0
+2023-12-20 20:03:14,005 - Learning rate: 1e-05
+2023-12-20 20:03:14,005 - Class weights: Default weights - [0.4879356568364611, 0.5120643431635389]
+2023-12-20 20:03:14,005 - Model not saved, didn't meet minimum accuracy threshold

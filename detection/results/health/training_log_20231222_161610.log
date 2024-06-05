@@ -1,0 +1,19 @@
+2023-12-22 16:16:10,998 - 
+Starting detection model - 6ksgRRiTKK
+2023-12-22 16:17:59,490 - Epoch 1 average train loss: 0.0
+2023-12-22 16:18:04,631 - Evaluation Results
+2023-12-22 16:18:04,631 - Training time: 64.33551406860352 seconds
+2023-12-22 16:18:04,632 - Inference time: 5.00920557975769 seconds
+2023-12-22 16:18:04,632 - Precision: 0.9090909090909091
+2023-12-22 16:18:04,632 - Recall: 0.7524752475247525
+2023-12-22 16:18:04,632 - F-score: 0.8234019501625136
+2023-12-22 16:18:04,632 - Accuracy: 0.8626790227464195
+2023-12-22 16:18:04,632 - G-mean: 0.8056951105570417
+2023-12-22 16:18:04,633 - Additional Info
+2023-12-22 16:18:04,633 - Model name: bert-base-cased
+2023-12-22 16:18:04,633 - Datasets list: health
+2023-12-22 16:18:04,633 - Dataset size: 5932
+2023-12-22 16:18:04,633 - Layers frozen: 0
+2023-12-22 16:18:04,633 - Learning rate: 1e-05
+2023-12-22 16:18:04,634 - Class weights: Auto weights - [0.4463924477410654, 0.5536075522589345]
+2023-12-22 16:18:04,634 - Model not saved, didn't meet minimum accuracy threshold

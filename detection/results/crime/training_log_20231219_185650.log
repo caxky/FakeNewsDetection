@@ -1,0 +1,17 @@
+2023-12-19 18:56:50,193 - 
+Starting detection model - NJ6im30OKv
+2023-12-19 19:57:28,572 - Evaluation Results
+2023-12-19 19:57:28,573 - Training time: 3607.235816001892 seconds
+2023-12-19 19:57:28,573 - Inference time: 27.25634217262268 seconds
+2023-12-19 19:57:28,573 - Precision: 0.7142857142857143
+2023-12-19 19:57:28,573 - Recall: 0.4065040650406504
+2023-12-19 19:57:28,573 - F-score: 0.5181347150259068
+2023-12-19 19:57:28,573 - Accuracy: 0.5848214285714286
+2023-12-19 19:57:28,573 - G-mean: 0.4875779814933875
+2023-12-19 19:57:28,573 - Additional Info
+2023-12-19 19:57:28,573 - Model name: roberta-base
+2023-12-19 19:57:28,574 - Datasets list: crime
+2023-12-19 19:57:28,574 - Layers frozen: 0
+2023-12-19 19:57:28,574 - Learning rate: 1e-05
+2023-12-19 19:57:28,577 - Class weights: tensor([0.5121, 0.4879])
+2023-12-19 19:57:28,577 - Model not saved, didn't meet minimum accuracy threshold

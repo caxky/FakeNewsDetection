@@ -1,0 +1,19 @@
+2023-12-22 09:34:54,849 - 
+Starting detection model - xdkd6R7wWL
+2023-12-22 09:35:22,889 - Epoch 1 average train loss: 0.0
+2023-12-22 09:35:24,488 - Evaluation Results
+2023-12-22 09:35:24,488 - Training time: 24.521446228027344 seconds
+2023-12-22 09:35:24,488 - Inference time: 1.2790541648864746 seconds
+2023-12-22 09:35:24,488 - Precision: 0.4934210526315789
+2023-12-22 09:35:24,488 - Recall: 0.7894736842105263
+2023-12-22 09:35:24,488 - F-score: 0.6072874493927125
+2023-12-22 09:35:24,488 - Accuracy: 0.7735408560311284
+2023-12-22 09:35:24,488 - G-mean: 0.7814666656347277
+2023-12-22 09:35:24,488 - Additional Info
+2023-12-22 09:35:24,488 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-22 09:35:24,488 - Datasets list: politics
+2023-12-22 09:35:24,488 - Dataset size: 6424
+2023-12-22 09:35:24,489 - Layers frozen: 0
+2023-12-22 09:35:24,489 - Learning rate: 1e-05
+2023-12-22 09:35:24,489 - Class weights: Auto weights - [0.20781444582814446, 0.7921855541718555]
+2023-12-22 09:35:24,489 - Model saved to: ./models/bert_model_xdkd6R7wWL.pt

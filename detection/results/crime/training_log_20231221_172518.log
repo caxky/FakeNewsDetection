@@ -1,0 +1,24 @@
+2023-12-21 17:25:18,482 - 
+Starting detection model - 1YWNlDqe55
+2023-12-21 17:26:09,533 - Epoch 1 average train loss: 0.0
+2023-12-21 17:26:56,539 - Epoch 2 average train loss: 0.0
+2023-12-21 17:27:44,172 - Epoch 3 average train loss: 0.0
+2023-12-21 17:28:31,599 - Epoch 4 average train loss: 0.0
+2023-12-21 17:29:18,938 - Epoch 5 average train loss: 0.0
+2023-12-21 17:30:07,426 - Epoch 6 average train loss: 0.0
+2023-12-21 17:30:12,065 - Evaluation Results
+2023-12-21 17:30:12,065 - Training time: 285.8498623371124 seconds
+2023-12-21 17:30:12,066 - Inference time: 4.483309030532837 seconds
+2023-12-21 17:30:12,066 - Precision: 0.9622641509433962
+2023-12-21 17:30:12,066 - Recall: 0.4146341463414634
+2023-12-21 17:30:12,066 - F-score: 0.5795454545454546
+2023-12-21 17:30:12,066 - Accuracy: 0.6696428571428571
+2023-12-21 17:30:12,066 - G-mean: 0.5269314893087023
+2023-12-21 17:30:12,066 - Additional Info
+2023-12-21 17:30:12,066 - Model name: albert-base-v2
+2023-12-21 17:30:12,066 - Datasets list: crime
+2023-12-21 17:30:12,066 - Dataset size: 1119
+2023-12-21 17:30:12,067 - Layers frozen: 0
+2023-12-21 17:30:12,067 - Learning rate: 1e-05
+2023-12-21 17:30:12,067 - Class weights: Auto weights - [0.5120643431635389, 0.4879356568364611]
+2023-12-21 17:30:12,067 - Model saved to: ./models/bert_model_1YWNlDqe55.pt

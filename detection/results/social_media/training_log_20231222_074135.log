@@ -1,0 +1,19 @@
+2023-12-22 07:41:35,524 - 
+Starting detection model - 2e29Yb4o8i
+2023-12-22 07:54:21,368 - Epoch 1 average train loss: 0.0
+2023-12-22 07:54:50,460 - Evaluation Results
+2023-12-22 07:54:50,460 - Training time: 379.9762153625488 seconds
+2023-12-22 07:54:50,460 - Inference time: 28.632558345794678 seconds
+2023-12-22 07:54:50,460 - Precision: 0.9680365296803652
+2023-12-22 07:54:50,461 - Recall: 0.9172724125995154
+2023-12-22 07:54:50,461 - F-score: 0.9419710299475696
+2023-12-22 07:54:50,461 - Accuracy: 0.9512977326968973
+2023-12-22 07:54:50,462 - G-mean: 0.9341301656468075
+2023-12-22 07:54:50,462 - Additional Info
+2023-12-22 07:54:50,462 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-22 07:54:50,462 - Datasets list: social_media
+2023-12-22 07:54:50,462 - Dataset size: 67038
+2023-12-22 07:54:50,462 - Layers frozen: 0
+2023-12-22 07:54:50,462 - Learning rate: 1e-05
+2023-12-22 07:54:50,462 - Class weights: Default weights - [0.5703332438318566, 0.4296667561681434]
+2023-12-22 07:54:50,462 - Model saved to: ./models/bert_model_2e29Yb4o8i.pt

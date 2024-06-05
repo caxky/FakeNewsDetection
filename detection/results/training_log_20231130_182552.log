@@ -1,0 +1,565 @@
+2023-11-30 18:25:52,059 - 
+Starting detection model - UpVVeIjC92
+2023-11-30 18:26:24,119 - Evaluation Results
+2023-11-30 18:26:24,119 - Training time: 24.77666711807251 seconds
+2023-11-30 18:26:24,119 - Inference time: 2.1630771160125732 seconds
+2023-11-30 18:26:24,119 - Precision: 0.7444444444444445
+2023-11-30 18:26:24,119 - Recall: 0.5447154471544715
+2023-11-30 18:26:24,119 - F-score: 0.6291079812206573
+2023-11-30 18:26:24,119 - Accuracy: 0.6473214285714286
+2023-11-30 18:26:24,120 - G-mean: 0.5938063500982093
+2023-11-30 18:26:24,120 - Additional Info
+2023-11-30 18:26:24,120 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-11-30 18:26:24,120 - Datasets list: ['crime']
+2023-11-30 18:26:24,120 - Layers frozen: 0
+2023-11-30 18:26:24,120 - Learning rate: 1e-05
+2023-11-30 18:26:24,120 - Class weights: [0.47, 0.53]
+2023-11-30 18:26:24,120 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 18:26:34,318 - 
+Starting detection model - muYkUxiFoL
+2023-11-30 18:27:04,655 - Evaluation Results
+2023-11-30 18:27:04,656 - Training time: 24.376142978668213 seconds
+2023-11-30 18:27:04,656 - Inference time: 2.157284736633301 seconds
+2023-11-30 18:27:04,656 - Precision: 0.7764705882352941
+2023-11-30 18:27:04,656 - Recall: 0.5365853658536586
+2023-11-30 18:27:04,656 - F-score: 0.6346153846153847
+2023-11-30 18:27:04,656 - Accuracy: 0.6607142857142857
+2023-11-30 18:27:04,656 - G-mean: 0.5954238966692038
+2023-11-30 18:27:04,656 - Additional Info
+2023-11-30 18:27:04,656 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-11-30 18:27:04,656 - Datasets list: ['crime']
+2023-11-30 18:27:04,656 - Layers frozen: 0
+2023-11-30 18:27:04,656 - Learning rate: 1e-05
+2023-11-30 18:27:04,656 - Class weights: [0.47, 0.53]
+2023-11-30 18:27:04,656 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 18:27:31,491 - 
+Starting detection model - 26ZFjbNVKy
+2023-11-30 18:28:01,800 - Evaluation Results
+2023-11-30 18:28:01,800 - Training time: 24.3561909198761 seconds
+2023-11-30 18:28:01,800 - Inference time: 2.1888480186462402 seconds
+2023-11-30 18:28:01,800 - Precision: 0.7391304347826086
+2023-11-30 18:28:01,800 - Recall: 0.5528455284552846
+2023-11-30 18:28:01,800 - F-score: 0.6325581395348837
+2023-11-30 18:28:01,800 - Accuracy: 0.6473214285714286
+2023-11-30 18:28:01,800 - G-mean: 0.598221327987394
+2023-11-30 18:28:01,801 - Additional Info
+2023-11-30 18:28:01,801 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-11-30 18:28:01,801 - Datasets list: ['crime']
+2023-11-30 18:28:01,801 - Layers frozen: 0
+2023-11-30 18:28:01,801 - Learning rate: 1e-05
+2023-11-30 18:28:01,801 - Class weights: [0.47, 0.53]
+2023-11-30 18:28:01,801 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 18:28:38,535 - 
+Starting detection model - GoYipTUbNp
+2023-11-30 18:29:09,732 - Evaluation Results
+2023-11-30 18:29:09,732 - Training time: 24.654425144195557 seconds
+2023-11-30 18:29:09,732 - Inference time: 2.2005114555358887 seconds
+2023-11-30 18:29:09,733 - Precision: 0.7395833333333334
+2023-11-30 18:29:09,733 - Recall: 0.5772357723577236
+2023-11-30 18:29:09,733 - F-score: 0.6484018264840183
+2023-11-30 18:29:09,733 - Accuracy: 0.65625
+2023-11-30 18:29:09,733 - G-mean: 0.6154762185574323
+2023-11-30 18:29:09,733 - Additional Info
+2023-11-30 18:29:09,734 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-11-30 18:29:09,734 - Datasets list: ['crime']
+2023-11-30 18:29:09,734 - Layers frozen: 0
+2023-11-30 18:29:09,734 - Learning rate: 1e-05
+2023-11-30 18:29:09,734 - Class weights: [0.47, 0.53]
+2023-11-30 18:29:09,734 - Model saved to: ./models/bert_model_GoYipTUbNp.pt
+2023-11-30 18:44:54,223 - 
+Starting detection model - wNoTgtD4q8
+2023-11-30 19:04:26,955 - 
+Starting detection model - eZyuJzBGEy
+2023-11-30 19:24:06,608 - Evaluation Results
+2023-11-30 19:24:06,608 - Training time: 1131.986886024475 seconds
+2023-11-30 19:24:06,608 - Inference time: 17.274465560913086 seconds
+2023-11-30 19:24:06,608 - Precision: 0.9249448123620309
+2023-11-30 19:24:06,609 - Recall: 0.7861163227016885
+2023-11-30 19:24:06,609 - F-score: 0.8498985801217038
+2023-11-30 19:24:06,609 - Accuracy: 0.8753159224936815
+2023-11-30 19:24:06,609 - G-mean: 0.8295180131817326
+2023-11-30 19:24:06,609 - Additional Info
+2023-11-30 19:24:06,609 - Model name: bert-base-uncased
+2023-11-30 19:24:06,609 - Datasets list: ['health']
+2023-11-30 19:24:06,609 - Layers frozen: 0
+2023-11-30 19:24:06,609 - Learning rate: 1e-05
+2023-11-30 19:24:06,609 - Class weights: [0.47, 0.53]
+2023-11-30 19:24:06,609 - Model saved to: ./models/bert_model_eZyuJzBGEy.pt
+2023-11-30 19:37:26,726 - 
+Starting detection model - uXvTqYPM1Z
+2023-11-30 19:50:47,644 - Evaluation Results
+2023-11-30 19:50:47,644 - Training time: 746.5152471065521 seconds
+2023-11-30 19:50:47,644 - Inference time: 29.427118062973022 seconds
+2023-11-30 19:50:47,645 - Precision: 0.9184549356223176
+2023-11-30 19:50:47,645 - Recall: 0.8030018761726079
+2023-11-30 19:50:47,645 - F-score: 0.8568568568568569
+2023-11-30 19:50:47,645 - Accuracy: 0.8795282224094355
+2023-11-30 19:50:47,645 - G-mean: 0.8403944387854643
+2023-11-30 19:50:47,645 - Additional Info
+2023-11-30 19:50:47,645 - Model name: bert-base-cased
+2023-11-30 19:50:47,645 - Datasets list: ['health']
+2023-11-30 19:50:47,645 - Layers frozen: 0
+2023-11-30 19:50:47,645 - Learning rate: 1e-05
+2023-11-30 19:50:47,646 - Class weights: [0.47, 0.53]
+2023-11-30 19:50:47,646 - Model saved to: ./models/bert_model_uXvTqYPM1Z.pt
+2023-11-30 19:54:43,044 - 
+Starting detection model - LljH8ALUS3
+2023-11-30 20:14:42,619 - Evaluation Results
+2023-11-30 20:14:42,620 - Training time: 1146.9474024772644 seconds
+2023-11-30 20:14:42,620 - Inference time: 22.040775060653687 seconds
+2023-11-30 20:14:42,621 - Precision: 0.9260089686098655
+2023-11-30 20:14:42,621 - Recall: 0.774859287054409
+2023-11-30 20:14:42,621 - F-score: 0.843718079673136
+2023-11-30 20:14:42,621 - Accuracy: 0.8711036225779275
+2023-11-30 20:14:42,621 - G-mean: 0.8215733271846439
+2023-11-30 20:14:42,621 - Additional Info
+2023-11-30 20:14:42,621 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-11-30 20:14:42,621 - Datasets list: ['health']
+2023-11-30 20:14:42,621 - Layers frozen: 0
+2023-11-30 20:14:42,622 - Learning rate: 1e-05
+2023-11-30 20:14:42,622 - Class weights: [0.47, 0.53]
+2023-11-30 20:14:42,622 - Model saved to: ./models/bert_model_LljH8ALUS3.pt
+2023-11-30 20:15:03,710 - 
+Starting detection model - hCpfpgZcE2
+2023-11-30 20:32:20,513 - Evaluation Results
+2023-11-30 20:32:20,513 - Training time: 980.1398568153381 seconds
+2023-11-30 20:32:20,514 - Inference time: 25.761305570602417 seconds
+2023-11-30 20:32:20,514 - Precision: 0.9076305220883534
+2023-11-30 20:32:20,514 - Recall: 0.8480300187617261
+2023-11-30 20:32:20,514 - F-score: 0.8768186226964112
+2023-11-30 20:32:20,514 - Accuracy: 0.8930075821398483
+2023-11-30 20:32:20,514 - G-mean: 0.8702282669716143
+2023-11-30 20:32:20,514 - Additional Info
+2023-11-30 20:32:20,514 - Model name: distilbert-base-uncased
+2023-11-30 20:32:20,514 - Datasets list: ['health']
+2023-11-30 20:32:20,515 - Layers frozen: 0
+2023-11-30 20:32:20,515 - Learning rate: 1e-05
+2023-11-30 20:32:20,515 - Class weights: [0.47, 0.53]
+2023-11-30 20:32:20,515 - Model saved to: ./models/bert_model_hCpfpgZcE2.pt
+2023-11-30 20:34:00,321 - 
+Starting detection model - Z1JDaWaNUc
+2023-11-30 21:02:22,808 - Evaluation Results
+2023-11-30 21:02:22,808 - Training time: 1626.3874518871307 seconds
+2023-11-30 21:02:22,809 - Inference time: 62.59789991378784 seconds
+2023-11-30 21:02:22,809 - Precision: 0.9427207637231504
+2023-11-30 21:02:22,809 - Recall: 0.7410881801125704
+2023-11-30 21:02:22,809 - F-score: 0.8298319327731093
+2023-11-30 21:02:22,809 - Accuracy: 0.8635214827295703
+2023-11-30 21:02:22,809 - G-mean: 0.7999659768541194
+2023-11-30 21:02:22,809 - Additional Info
+2023-11-30 21:02:22,809 - Model name: roberta-base
+2023-11-30 21:02:22,809 - Datasets list: ['health']
+2023-11-30 21:02:22,809 - Layers frozen: 0
+2023-11-30 21:02:22,809 - Learning rate: 1e-05
+2023-11-30 21:02:22,809 - Class weights: [0.47, 0.53]
+2023-11-30 21:02:22,809 - Model saved to: ./models/bert_model_Z1JDaWaNUc.pt
+2023-11-30 21:02:56,379 - 
+Starting detection model - XHmJFbvWG2
+2023-11-30 21:46:49,735 - Evaluation Results
+2023-11-30 21:46:49,735 - Training time: 2594.755520582199 seconds
+2023-11-30 21:46:49,735 - Inference time: 21.70564889907837 seconds
+2023-11-30 21:46:49,736 - Precision: 0.9101654846335697
+2023-11-30 21:46:49,736 - Recall: 0.7223264540337712
+2023-11-30 21:46:49,736 - F-score: 0.8054393305439331
+2023-11-30 21:46:49,736 - Accuracy: 0.8433024431339511
+2023-11-30 21:46:49,736 - G-mean: 0.7804739991998214
+2023-11-30 21:46:49,736 - Additional Info
+2023-11-30 21:46:49,736 - Model name: albert-base-v2
+2023-11-30 21:46:49,736 - Datasets list: ['health']
+2023-11-30 21:46:49,736 - Layers frozen: 0
+2023-11-30 21:46:49,736 - Learning rate: 1e-05
+2023-11-30 21:46:49,736 - Class weights: [0.47, 0.53]
+2023-11-30 21:46:49,736 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 21:47:55,124 - 
+Starting detection model - h6k9WrhJdZ
+2023-11-30 22:05:13,227 - Evaluation Results
+2023-11-30 22:05:13,227 - Training time: 970.9519023895264 seconds
+2023-11-30 22:05:13,227 - Inference time: 34.456722259521484 seconds
+2023-11-30 22:05:13,227 - Precision: 0.8638059701492538
+2023-11-30 22:05:13,227 - Recall: 0.8686679174484052
+2023-11-30 22:05:13,228 - F-score: 0.8662301216089803
+2023-11-30 22:05:13,228 - Accuracy: 0.8795282224094355
+2023-11-30 22:05:13,228 - G-mean: 0.8740812029196727
+2023-11-30 22:05:13,228 - Additional Info
+2023-11-30 22:05:13,228 - Model name: distilbert-base-uncased
+2023-11-30 22:05:13,228 - Datasets list: ['health']
+2023-11-30 22:05:13,228 - Layers frozen: 0
+2023-11-30 22:05:13,228 - Learning rate: 1e-05
+2023-11-30 22:05:13,228 - Class weights: [0.35, 0.65]
+2023-11-30 22:05:13,228 - Model saved to: ./models/bert_model_h6k9WrhJdZ.pt
+2023-11-30 22:06:14,406 - 
+Starting detection model - Fndwo2abF7
+2023-11-30 22:22:18,671 - Evaluation Results
+2023-11-30 22:22:18,671 - Training time: 922.1039502620697 seconds
+2023-11-30 22:22:18,672 - Inference time: 9.376703023910522 seconds
+2023-11-30 22:22:18,672 - Precision: 0.8828125
+2023-11-30 22:22:18,672 - Recall: 0.8480300187617261
+2023-11-30 22:22:18,672 - F-score: 0.8650717703349282
+2023-11-30 22:22:18,672 - Accuracy: 0.8812131423757371
+2023-11-30 22:22:18,672 - G-mean: 0.8644623749255811
+2023-11-30 22:22:18,673 - Additional Info
+2023-11-30 22:22:18,673 - Model name: distilbert-base-uncased
+2023-11-30 22:22:18,673 - Datasets list: ['health']
+2023-11-30 22:22:18,673 - Layers frozen: 0
+2023-11-30 22:22:18,673 - Learning rate: 1e-05
+2023-11-30 22:22:18,674 - Class weights: [0.4, 0.6]
+2023-11-30 22:22:18,674 - Model saved to: ./models/bert_model_Fndwo2abF7.pt
+2023-11-30 22:27:25,562 - 
+Starting detection model - S0ZS9sKBUp
+2023-11-30 22:44:38,141 - Evaluation Results
+2023-11-30 22:44:38,142 - Training time: 974.4451093673706 seconds
+2023-11-30 22:44:38,142 - Inference time: 21.201836109161377 seconds
+2023-11-30 22:44:38,142 - Precision: 0.8932806324110671
+2023-11-30 22:44:38,142 - Recall: 0.8480300187617261
+2023-11-30 22:44:38,143 - F-score: 0.8700673724735322
+2023-11-30 22:44:38,143 - Accuracy: 0.8862679022746419
+2023-11-30 22:44:38,143 - G-mean: 0.8669381672264062
+2023-11-30 22:44:38,143 - Additional Info
+2023-11-30 22:44:38,143 - Model name: distilbert-base-uncased
+2023-11-30 22:44:38,143 - Datasets list: ['health']
+2023-11-30 22:44:38,143 - Layers frozen: 0
+2023-11-30 22:44:38,143 - Learning rate: 1e-05
+2023-11-30 22:44:38,144 - Class weights: [0.44, 0.56]
+2023-11-30 22:44:38,144 - Model saved to: ./models/bert_model_S0ZS9sKBUp.pt
+2023-11-30 22:46:20,311 - 
+Starting detection model - 1lMBO5Jbt4
+2023-11-30 22:48:43,380 - 
+Starting detection model - 3YketB2Q56
+2023-11-30 22:49:17,446 - Evaluation Results
+2023-11-30 22:49:17,446 - Training time: 28.87625527381897 seconds
+2023-11-30 22:49:17,446 - Inference time: 2.351271390914917 seconds
+2023-11-30 22:49:17,447 - Precision: 0.0
+2023-11-30 22:49:17,447 - Recall: 0.0
+2023-11-30 22:49:17,447 - F-score: 0.0
+2023-11-30 22:49:17,447 - Accuracy: 0.7582417582417582
+2023-11-30 22:49:17,447 - G-mean: 0.0
+2023-11-30 22:49:17,447 - Additional Info
+2023-11-30 22:49:17,447 - Model name: bert-base-uncased
+2023-11-30 22:49:17,447 - Datasets list: ['science']
+2023-11-30 22:49:17,447 - Layers frozen: 0
+2023-11-30 22:49:17,447 - Learning rate: 1e-05
+2023-11-30 22:49:17,447 - Class weights: [0.44, 0.56]
+2023-11-30 22:49:17,447 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 22:49:37,980 - 
+Starting detection model - gBLnrcx2Fv
+2023-11-30 22:50:11,296 - Evaluation Results
+2023-11-30 22:50:11,297 - Training time: 28.599866151809692 seconds
+2023-11-30 22:50:11,297 - Inference time: 2.2675724029541016 seconds
+2023-11-30 22:50:11,297 - Precision: 0.8
+2023-11-30 22:50:11,297 - Recall: 0.18181818181818182
+2023-11-30 22:50:11,297 - F-score: 0.2962962962962963
+2023-11-30 22:50:11,297 - Accuracy: 0.7912087912087912
+2023-11-30 22:50:11,297 - G-mean: 0.37928372474460836
+2023-11-30 22:50:11,297 - Additional Info
+2023-11-30 22:50:11,297 - Model name: bert-base-uncased
+2023-11-30 22:50:11,297 - Datasets list: ['science']
+2023-11-30 22:50:11,297 - Layers frozen: 0
+2023-11-30 22:50:11,298 - Learning rate: 1e-05
+2023-11-30 22:50:11,298 - Class weights: [0.44, 0.56]
+2023-11-30 22:50:11,298 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 22:52:26,683 - 
+Starting detection model - ESTVg00VTo
+2023-11-30 22:52:59,120 - Evaluation Results
+2023-11-30 22:52:59,120 - Training time: 28.085054397583008 seconds
+2023-11-30 22:52:59,120 - Inference time: 2.2594432830810547 seconds
+2023-11-30 22:52:59,120 - Precision: 0.0
+2023-11-30 22:52:59,120 - Recall: 0.0
+2023-11-30 22:52:59,120 - F-score: 0.0
+2023-11-30 22:52:59,121 - Accuracy: 0.7582417582417582
+2023-11-30 22:52:59,121 - G-mean: 0.0
+2023-11-30 22:52:59,121 - Additional Info
+2023-11-30 22:52:59,121 - Model name: bert-base-uncased
+2023-11-30 22:52:59,121 - Datasets list: ['science']
+2023-11-30 22:52:59,121 - Layers frozen: 0
+2023-11-30 22:52:59,121 - Learning rate: 1e-05
+2023-11-30 22:52:59,121 - Class weights: [0.44, 0.56]
+2023-11-30 22:52:59,121 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 22:53:59,303 - 
+Starting detection model - sp2IsOBXKM
+2023-11-30 22:54:33,010 - Evaluation Results
+2023-11-30 22:54:33,010 - Training time: 29.08044934272766 seconds
+2023-11-30 22:54:33,010 - Inference time: 2.3299388885498047 seconds
+2023-11-30 22:54:33,010 - Precision: 0.0
+2023-11-30 22:54:33,011 - Recall: 0.0
+2023-11-30 22:54:33,011 - F-score: 0.0
+2023-11-30 22:54:33,011 - Accuracy: 0.7582417582417582
+2023-11-30 22:54:33,011 - G-mean: 0.0
+2023-11-30 22:54:33,011 - Additional Info
+2023-11-30 22:54:33,011 - Model name: bert-base-uncased
+2023-11-30 22:54:33,011 - Datasets list: ['science']
+2023-11-30 22:54:33,011 - Layers frozen: 0
+2023-11-30 22:54:33,011 - Learning rate: 1e-05
+2023-11-30 22:54:33,011 - Class weights: [0.44, 0.56]
+2023-11-30 22:54:33,011 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 22:54:56,247 - 
+Starting detection model - ytJMeZtCiB
+2023-11-30 22:55:35,416 - Evaluation Results
+2023-11-30 22:55:35,417 - Training time: 34.36893177032471 seconds
+2023-11-30 22:55:35,417 - Inference time: 2.377267360687256 seconds
+2023-11-30 22:55:35,417 - Precision: 0.0
+2023-11-30 22:55:35,417 - Recall: 0.0
+2023-11-30 22:55:35,417 - F-score: 0.0
+2023-11-30 22:55:35,417 - Accuracy: 0.7527472527472527
+2023-11-30 22:55:35,417 - G-mean: 0.0
+2023-11-30 22:55:35,417 - Additional Info
+2023-11-30 22:55:35,417 - Model name: bert-base-cased
+2023-11-30 22:55:35,417 - Datasets list: ['science']
+2023-11-30 22:55:35,417 - Layers frozen: 0
+2023-11-30 22:55:35,417 - Learning rate: 1e-05
+2023-11-30 22:55:35,417 - Class weights: [0.44, 0.56]
+2023-11-30 22:55:35,417 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 22:55:53,778 - 
+Starting detection model - hwpdCxF1dZ
+2023-11-30 22:56:13,167 - Evaluation Results
+2023-11-30 22:56:13,167 - Training time: 14.851185083389282 seconds
+2023-11-30 22:56:13,167 - Inference time: 1.8280813694000244 seconds
+2023-11-30 22:56:13,167 - Precision: 0.5
+2023-11-30 22:56:13,167 - Recall: 0.2727272727272727
+2023-11-30 22:56:13,168 - F-score: 0.3529411764705882
+2023-11-30 22:56:13,168 - Accuracy: 0.7582417582417582
+2023-11-30 22:56:13,168 - G-mean: 0.4547452108524143
+2023-11-30 22:56:13,168 - Additional Info
+2023-11-30 22:56:13,168 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-11-30 22:56:13,168 - Datasets list: ['science']
+2023-11-30 22:56:13,168 - Layers frozen: 0
+2023-11-30 22:56:13,168 - Learning rate: 1e-05
+2023-11-30 22:56:13,168 - Class weights: [0.44, 0.56]
+2023-11-30 22:56:13,168 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 22:56:56,561 - 
+Starting detection model - l0punCj7Wt
+2023-11-30 22:57:45,762 - Evaluation Results
+2023-11-30 22:57:45,763 - Training time: 47.03586006164551 seconds
+2023-11-30 22:57:45,763 - Inference time: 0.24216008186340332 seconds
+2023-11-30 22:57:45,763 - Precision: 0.0
+2023-11-30 22:57:45,763 - Recall: 0.0
+2023-11-30 22:57:45,763 - F-score: 0.0
+2023-11-30 22:57:45,763 - Accuracy: 0.7582417582417582
+2023-11-30 22:57:45,763 - G-mean: 0.0
+2023-11-30 22:57:45,763 - Additional Info
+2023-11-30 22:57:45,763 - Model name: distilbert-base-uncased
+2023-11-30 22:57:45,763 - Datasets list: ['science']
+2023-11-30 22:57:45,763 - Layers frozen: 0
+2023-11-30 22:57:45,764 - Learning rate: 1e-05
+2023-11-30 22:57:45,764 - Class weights: [0.44, 0.56]
+2023-11-30 22:57:45,764 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 22:58:07,945 - 
+Starting detection model - rU092tE1z6
+2023-11-30 22:58:47,512 - Evaluation Results
+2023-11-30 22:58:47,512 - Training time: 33.76622724533081 seconds
+2023-11-30 22:58:47,512 - Inference time: 2.230498790740967 seconds
+2023-11-30 22:58:47,512 - Precision: 0.0
+2023-11-30 22:58:47,512 - Recall: 0.0
+2023-11-30 22:58:47,512 - F-score: 0.0
+2023-11-30 22:58:47,512 - Accuracy: 0.7582417582417582
+2023-11-30 22:58:47,512 - G-mean: 0.0
+2023-11-30 22:58:47,512 - Additional Info
+2023-11-30 22:58:47,512 - Model name: roberta-base
+2023-11-30 22:58:47,513 - Datasets list: ['science']
+2023-11-30 22:58:47,513 - Layers frozen: 0
+2023-11-30 22:58:47,513 - Learning rate: 1e-05
+2023-11-30 22:58:47,513 - Class weights: [0.44, 0.56]
+2023-11-30 22:58:47,513 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 22:58:56,931 - 
+Starting detection model - ApCLptLis2
+2023-11-30 22:59:29,805 - Evaluation Results
+2023-11-30 22:59:29,805 - Training time: 28.818540334701538 seconds
+2023-11-30 22:59:29,806 - Inference time: 2.556509494781494 seconds
+2023-11-30 22:59:29,806 - Precision: 0.4
+2023-11-30 22:59:29,806 - Recall: 0.13636363636363635
+2023-11-30 22:59:29,806 - F-score: 0.20338983050847456
+2023-11-30 22:59:29,806 - Accuracy: 0.7417582417582418
+2023-11-30 22:59:29,806 - G-mean: 0.31803907173309875
+2023-11-30 22:59:29,806 - Additional Info
+2023-11-30 22:59:29,806 - Model name: albert-base-v2
+2023-11-30 22:59:29,806 - Datasets list: ['science']
+2023-11-30 22:59:29,806 - Layers frozen: 0
+2023-11-30 22:59:29,806 - Learning rate: 1e-05
+2023-11-30 22:59:29,806 - Class weights: [0.44, 0.56]
+2023-11-30 22:59:29,806 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 23:00:44,197 - 
+Starting detection model - F5sk2hqkhN
+2023-11-30 23:01:17,147 - Evaluation Results
+2023-11-30 23:01:17,147 - Training time: 27.414013147354126 seconds
+2023-11-30 23:01:17,147 - Inference time: 4.0723512172698975 seconds
+2023-11-30 23:01:17,148 - Precision: 0.0
+2023-11-30 23:01:17,148 - Recall: 0.0
+2023-11-30 23:01:17,148 - F-score: 0.0
+2023-11-30 23:01:17,148 - Accuracy: 0.7582417582417582
+2023-11-30 23:01:17,148 - G-mean: 0.0
+2023-11-30 23:01:17,149 - Additional Info
+2023-11-30 23:01:17,149 - Model name: albert-base-v2
+2023-11-30 23:01:17,149 - Datasets list: ['science']
+2023-11-30 23:01:17,149 - Layers frozen: 0
+2023-11-30 23:01:17,149 - Learning rate: 1e-05
+2023-11-30 23:01:17,149 - Class weights: [0.44, 0.56]
+2023-11-30 23:01:17,149 - Model saved to: ./models/bert_model_F5sk2hqkhN.pt
+2023-11-30 23:01:47,393 - 
+Starting detection model - l4Xdenm5K1
+2023-11-30 23:02:25,343 - Evaluation Results
+2023-11-30 23:02:25,344 - Training time: 31.63193130493164 seconds
+2023-11-30 23:02:25,344 - Inference time: 2.412090301513672 seconds
+2023-11-30 23:02:25,344 - Precision: 0.0
+2023-11-30 23:02:25,344 - Recall: 0.0
+2023-11-30 23:02:25,344 - F-score: 0.0
+2023-11-30 23:02:25,345 - Accuracy: 0.7582417582417582
+2023-11-30 23:02:25,345 - G-mean: 0.0
+2023-11-30 23:02:25,345 - Additional Info
+2023-11-30 23:02:25,345 - Model name: bert-base-uncased
+2023-11-30 23:02:25,345 - Datasets list: ['science']
+2023-11-30 23:02:25,345 - Layers frozen: 0
+2023-11-30 23:02:25,345 - Learning rate: 1e-05
+2023-11-30 23:02:25,345 - Class weights: [0.44, 0.56]
+2023-11-30 23:02:25,346 - Model saved to: ./models/bert_model_l4Xdenm5K1.pt
+2023-11-30 23:02:45,148 - 
+Starting detection model - kfb0Uf0e5t
+2023-11-30 23:03:46,077 - Evaluation Results
+2023-11-30 23:03:46,077 - Training time: 22.370728015899658 seconds
+2023-11-30 23:03:46,077 - Inference time: 1.6221845149993896 seconds
+2023-11-30 23:03:46,077 - Precision: 0.24175824175824176
+2023-11-30 23:03:46,077 - Recall: 1.0
+2023-11-30 23:03:46,077 - F-score: 0.3893805309734513
+2023-11-30 23:03:46,077 - Accuracy: 0.24175824175824176
+2023-11-30 23:03:46,077 - G-mean: 0.4916891718944416
+2023-11-30 23:03:46,077 - Additional Info
+2023-11-30 23:03:46,077 - Model name: bert-base-uncased
+2023-11-30 23:03:46,077 - Datasets list: ['science']
+2023-11-30 23:03:46,077 - Layers frozen: 3
+2023-11-30 23:03:46,078 - Learning rate: 1e-05
+2023-11-30 23:03:46,078 - Class weights: [0.44, 0.56]
+2023-11-30 23:03:46,078 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 23:05:45,964 - 
+Starting detection model - NCLG83HHXp
+2023-11-30 23:06:10,276 - Evaluation Results
+2023-11-30 23:06:10,277 - Training time: 17.542014122009277 seconds
+2023-11-30 23:06:10,278 - Inference time: 2.5765016078948975 seconds
+2023-11-30 23:06:10,278 - Precision: 0.0
+2023-11-30 23:06:10,278 - Recall: 0.0
+2023-11-30 23:06:10,278 - F-score: 0.0
+2023-11-30 23:06:10,278 - Accuracy: 0.7582417582417582
+2023-11-30 23:06:10,278 - G-mean: 0.0
+2023-11-30 23:06:10,278 - Additional Info
+2023-11-30 23:06:10,278 - Model name: bert-base-uncased
+2023-11-30 23:06:10,278 - Datasets list: ['science']
+2023-11-30 23:06:10,278 - Layers frozen: 8
+2023-11-30 23:06:10,278 - Learning rate: 1e-05
+2023-11-30 23:06:10,278 - Class weights: [0.44, 0.56]
+2023-11-30 23:06:10,278 - Model saved to: ./models/bert_model_NCLG83HHXp.pt
+2023-11-30 23:06:24,900 - 
+Starting detection model - VTnUt4CMbn
+2023-11-30 23:06:42,058 - Evaluation Results
+2023-11-30 23:06:42,058 - Training time: 12.879059076309204 seconds
+2023-11-30 23:06:42,058 - Inference time: 2.3040621280670166 seconds
+2023-11-30 23:06:42,059 - Precision: 0.2388888888888889
+2023-11-30 23:06:42,059 - Recall: 0.9772727272727273
+2023-11-30 23:06:42,059 - F-score: 0.38392857142857145
+2023-11-30 23:06:42,059 - Accuracy: 0.24175824175824176
+2023-11-30 23:06:42,059 - G-mean: 0.4860696825186038
+2023-11-30 23:06:42,059 - Additional Info
+2023-11-30 23:06:42,059 - Model name: bert-base-uncased
+2023-11-30 23:06:42,059 - Datasets list: ['science']
+2023-11-30 23:06:42,059 - Layers frozen: 8
+2023-11-30 23:06:42,059 - Learning rate: 1e-05
+2023-11-30 23:06:42,059 - Class weights: [0.44, 0.56]
+2023-11-30 23:06:42,059 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 23:07:22,661 - 
+Starting detection model - Kei41j2Wxo
+2023-11-30 23:08:12,960 - Evaluation Results
+2023-11-30 23:08:12,960 - Training time: 46.58964157104492 seconds
+2023-11-30 23:08:12,961 - Inference time: 0.43560218811035156 seconds
+2023-11-30 23:08:12,961 - Precision: 0.0
+2023-11-30 23:08:12,962 - Recall: 0.0
+2023-11-30 23:08:12,962 - F-score: 0.0
+2023-11-30 23:08:12,962 - Accuracy: 0.7582417582417582
+2023-11-30 23:08:12,962 - G-mean: 0.0
+2023-11-30 23:08:12,962 - Additional Info
+2023-11-30 23:08:12,962 - Model name: bert-base-uncased
+2023-11-30 23:08:12,962 - Datasets list: ['science']
+2023-11-30 23:08:12,962 - Layers frozen: 8
+2023-11-30 23:08:12,962 - Learning rate: 1e-05
+2023-11-30 23:08:12,962 - Class weights: [0.3, 0.7]
+2023-11-30 23:08:12,962 - Model saved to: ./models/bert_model_Kei41j2Wxo.pt
+2023-11-30 23:08:48,120 - 
+Starting detection model - FJs2lKjID5
+2023-11-30 23:09:07,423 - Evaluation Results
+2023-11-30 23:09:07,424 - Training time: 12.549923181533813 seconds
+2023-11-30 23:09:07,424 - Inference time: 2.4045963287353516 seconds
+2023-11-30 23:09:07,424 - Precision: 0.0
+2023-11-30 23:09:07,425 - Recall: 0.0
+2023-11-30 23:09:07,425 - F-score: 0.0
+2023-11-30 23:09:07,425 - Accuracy: 0.7582417582417582
+2023-11-30 23:09:07,425 - G-mean: 0.0
+2023-11-30 23:09:07,425 - Additional Info
+2023-11-30 23:09:07,425 - Model name: bert-base-uncased
+2023-11-30 23:09:07,425 - Datasets list: ['science']
+2023-11-30 23:09:07,425 - Layers frozen: 8
+2023-11-30 23:09:07,425 - Learning rate: 1e-05
+2023-11-30 23:09:07,425 - Class weights: [0.3, 0.7]
+2023-11-30 23:09:07,425 - Model saved to: ./models/bert_model_FJs2lKjID5.pt
+2023-11-30 23:09:25,040 - 
+Starting detection model - oXmnfVu2rL
+2023-11-30 23:09:47,052 - Evaluation Results
+2023-11-30 23:09:47,053 - Training time: 16.90496015548706 seconds
+2023-11-30 23:09:47,053 - Inference time: 2.3574330806732178 seconds
+2023-11-30 23:09:47,053 - Precision: 0.0
+2023-11-30 23:09:47,053 - Recall: 0.0
+2023-11-30 23:09:47,054 - F-score: 0.0
+2023-11-30 23:09:47,054 - Accuracy: 0.7582417582417582
+2023-11-30 23:09:47,054 - G-mean: 0.0
+2023-11-30 23:09:47,054 - Additional Info
+2023-11-30 23:09:47,054 - Model name: bert-base-uncased
+2023-11-30 23:09:47,054 - Datasets list: ['science']
+2023-11-30 23:09:47,054 - Layers frozen: 6
+2023-11-30 23:09:47,054 - Learning rate: 1e-05
+2023-11-30 23:09:47,054 - Class weights: [0.3, 0.7]
+2023-11-30 23:09:47,054 - Model saved to: ./models/bert_model_oXmnfVu2rL.pt
+2023-11-30 23:10:17,193 - 
+Starting detection model - fk8zFflvoR
+2023-11-30 23:10:41,448 - Evaluation Results
+2023-11-30 23:10:41,449 - Training time: 19.83539319038391 seconds
+2023-11-30 23:10:41,449 - Inference time: 2.3465538024902344 seconds
+2023-11-30 23:10:41,449 - Precision: 0.2191780821917808
+2023-11-30 23:10:41,449 - Recall: 0.36363636363636365
+2023-11-30 23:10:41,449 - F-score: 0.2735042735042735
+2023-11-30 23:10:41,449 - Accuracy: 0.532967032967033
+2023-11-30 23:10:41,449 - G-mean: 0.4402342487882943
+2023-11-30 23:10:41,449 - Additional Info
+2023-11-30 23:10:41,449 - Model name: bert-base-uncased
+2023-11-30 23:10:41,449 - Datasets list: ['science']
+2023-11-30 23:10:41,449 - Layers frozen: 6
+2023-11-30 23:10:41,450 - Learning rate: 1e-05
+2023-11-30 23:10:41,450 - Class weights: [0.3, 0.7]
+2023-11-30 23:10:41,450 - Model not saved, didn't meet minimum accuracy threshold
+2023-11-30 23:12:19,186 - 
+Starting detection model - 0fOMcryb7K
+2023-11-30 23:12:43,415 - Evaluation Results
+2023-11-30 23:12:43,416 - Training time: 17.88680601119995 seconds
+2023-11-30 23:12:43,416 - Inference time: 2.333266019821167 seconds
+2023-11-30 23:12:43,416 - Precision: 0.0
+2023-11-30 23:12:43,416 - Recall: 0.0
+2023-11-30 23:12:43,417 - F-score: 0.0
+2023-11-30 23:12:43,417 - Accuracy: 0.7582417582417582
+2023-11-30 23:12:43,417 - G-mean: 0.0
+2023-11-30 23:12:43,417 - Additional Info
+2023-11-30 23:12:43,417 - Model name: bert-base-uncased
+2023-11-30 23:12:43,417 - Datasets list: ['science']
+2023-11-30 23:12:43,417 - Layers frozen: 11
+2023-11-30 23:12:43,418 - Learning rate: 1e-05
+2023-11-30 23:12:43,418 - Class weights: [0.3, 0.7]
+2023-11-30 23:12:43,418 - Model saved to: ./models/bert_model_0fOMcryb7K.pt
+2023-11-30 23:13:05,088 - 
+Starting detection model - 5jfbPnGPnx
+2023-11-30 23:13:24,009 - Evaluation Results
+2023-11-30 23:13:24,010 - Training time: 15.063454151153564 seconds
+2023-11-30 23:13:24,010 - Inference time: 1.7959575653076172 seconds
+2023-11-30 23:13:24,010 - Precision: 0.21739130434782608
+2023-11-30 23:13:24,010 - Recall: 0.5681818181818182
+2023-11-30 23:13:24,010 - F-score: 0.3144654088050315
+2023-11-30 23:13:24,010 - Accuracy: 0.4010989010989011
+2023-11-30 23:13:24,010 - G-mean: 0.47738569615888465
+2023-11-30 23:13:24,010 - Additional Info
+2023-11-30 23:13:24,010 - Model name: bert-base-uncased
+2023-11-30 23:13:24,010 - Datasets list: ['science']
+2023-11-30 23:13:24,010 - Layers frozen: 11
+2023-11-30 23:13:24,010 - Learning rate: 1e-05
+2023-11-30 23:13:24,010 - Class weights: [0.3, 0.7]
+2023-11-30 23:13:24,010 - Model not saved, didn't meet minimum accuracy threshold

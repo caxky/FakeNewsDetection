@@ -1,0 +1,19 @@
+2023-12-22 15:37:49,430 - 
+Starting detection model - cuXzspplhM
+2023-12-22 15:52:17,169 - Epoch 1 average train loss: 0.0
+2023-12-22 15:53:15,045 - Evaluation Results
+2023-12-22 15:53:15,045 - Training time: 733.694167137146 seconds
+2023-12-22 15:53:15,046 - Inference time: 57.71946692466736 seconds
+2023-12-22 15:53:15,046 - Precision: 0.9587318455543747
+2023-12-22 15:53:15,046 - Recall: 0.9368293527172031
+2023-12-22 15:53:15,046 - F-score: 0.9476540616246498
+2023-12-22 15:53:15,046 - Accuracy: 0.9553997613365155
+2023-12-22 15:53:15,046 - G-mean: 0.9460689932552795
+2023-12-22 15:53:15,046 - Additional Info
+2023-12-22 15:53:15,046 - Model name: roberta-base
+2023-12-22 15:53:15,046 - Datasets list: social_media
+2023-12-22 15:53:15,046 - Dataset size: 67038
+2023-12-22 15:53:15,046 - Layers frozen: 0
+2023-12-22 15:53:15,046 - Learning rate: 1e-05
+2023-12-22 15:53:15,046 - Class weights: Auto weights - [0.4296667561681434, 0.5703332438318566]
+2023-12-22 15:53:15,046 - Model not saved, didn't meet minimum accuracy threshold

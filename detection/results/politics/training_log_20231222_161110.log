@@ -1,0 +1,19 @@
+2023-12-22 16:11:10,067 - 
+Starting detection model - oYcumiaEfq
+2023-12-22 16:11:38,277 - Epoch 1 average train loss: 0.0
+2023-12-22 16:11:39,627 - Evaluation Results
+2023-12-22 16:11:39,627 - Training time: 23.13544774055481 seconds
+2023-12-22 16:11:39,628 - Inference time: 1.2397239208221436 seconds
+2023-12-22 16:11:39,628 - Precision: 0.639344262295082
+2023-12-22 16:11:39,628 - Recall: 0.6842105263157895
+2023-12-22 16:11:39,628 - F-score: 0.6610169491525425
+2023-12-22 16:11:39,628 - Accuracy: 0.8443579766536965
+2023-12-22 16:11:39,628 - G-mean: 0.760078032576367
+2023-12-22 16:11:39,628 - Additional Info
+2023-12-22 16:11:39,629 - Model name: bert-base-cased
+2023-12-22 16:11:39,629 - Datasets list: politics
+2023-12-22 16:11:39,629 - Dataset size: 6424
+2023-12-22 16:11:39,629 - Layers frozen: 0
+2023-12-22 16:11:39,629 - Learning rate: 1e-05
+2023-12-22 16:11:39,629 - Class weights: Auto weights - [0.20781444582814446, 0.7921855541718555]
+2023-12-22 16:11:39,629 - Model not saved, didn't meet minimum accuracy threshold

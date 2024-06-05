@@ -1,0 +1,18 @@
+2023-12-20 04:18:01,084 - 
+Starting detection model - Olm51j8NDM
+2023-12-20 05:22:31,543 - Evaluation Results
+2023-12-20 05:22:31,543 - Training time: 3717.277514219284 seconds
+2023-12-20 05:22:31,543 - Inference time: 16.089505910873413 seconds
+2023-12-20 05:22:31,543 - Precision: 0.2065027755749405
+2023-12-20 05:22:31,543 - Recall: 0.9752808988764045
+2023-12-20 05:22:31,544 - F-score: 0.3408376963350785
+2023-12-20 05:22:31,544 - Accuracy: 0.21606475716064757
+2023-12-20 05:22:31,544 - G-mean: 0.45904665403327843
+2023-12-20 05:22:31,544 - Additional Info
+2023-12-20 05:22:31,544 - Model name: roberta-base
+2023-12-20 05:22:31,544 - Datasets list: politics Train: ['fake_news', 'isot_dataset', 'liar_dataset'], Test: ['pheme', 'politifact']
+2023-12-20 05:22:31,544 - Dataset size: Train: 78495, Test: 6424
+2023-12-20 05:22:31,544 - Layers frozen: 0
+2023-12-20 05:22:31,544 - Learning rate: 1e-05
+2023-12-20 05:22:31,544 - Class weights: [0.5035225173577935, 0.49647748264220654]
+2023-12-20 05:22:31,544 - Model not saved, didn't meet minimum accuracy threshold

@@ -1,0 +1,21 @@
+2023-12-21 15:58:44,424 - 
+Starting detection model - QKo09ZjZ2Q
+2023-12-21 16:00:32,460 - Epoch 1 average train loss: 0.0
+2023-12-21 16:02:19,504 - Epoch 2 average train loss: 0.0
+2023-12-21 16:04:06,507 - Epoch 3 average train loss: 0.0
+2023-12-21 16:04:14,377 - Evaluation Results
+2023-12-21 16:04:14,378 - Training time: 311.7999219894409 seconds
+2023-12-21 16:04:14,378 - Inference time: 7.753763437271118 seconds
+2023-12-21 16:04:14,378 - Precision: 0.94
+2023-12-21 16:04:14,379 - Recall: 0.3821138211382114
+2023-12-21 16:04:14,379 - F-score: 0.5433526011560694
+2023-12-21 16:04:14,379 - Accuracy: 0.6473214285714286
+2023-12-21 16:04:14,379 - G-mean: 0.4973434070901859
+2023-12-21 16:04:14,379 - Additional Info
+2023-12-21 16:04:14,379 - Model name: bert-base-uncased
+2023-12-21 16:04:14,379 - Datasets list: crime
+2023-12-21 16:04:14,379 - Dataset size: 1119
+2023-12-21 16:04:14,380 - Layers frozen: 0
+2023-12-21 16:04:14,380 - Learning rate: 1e-05
+2023-12-21 16:04:14,380 - Class weights: Auto weights - [0.5120643431635389, 0.4879356568364611]
+2023-12-21 16:04:14,380 - Model not saved, didn't meet minimum accuracy threshold

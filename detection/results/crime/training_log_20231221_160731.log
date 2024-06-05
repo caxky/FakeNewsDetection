@@ -1,0 +1,21 @@
+2023-12-21 16:07:31,376 - 
+Starting detection model - D0eQLntDWe
+2023-12-21 16:08:12,857 - Epoch 1 average train loss: 0.0
+2023-12-21 16:08:37,417 - Epoch 2 average train loss: 0.0
+2023-12-21 16:09:01,870 - Epoch 3 average train loss: 0.0
+2023-12-21 16:09:08,518 - Evaluation Results
+2023-12-21 16:09:08,519 - Training time: 75.0655357837677 seconds
+2023-12-21 16:09:08,519 - Inference time: 2.0766966342926025 seconds
+2023-12-21 16:09:08,519 - Precision: 0.8615384615384616
+2023-12-21 16:09:08,520 - Recall: 0.45528455284552843
+2023-12-21 16:09:08,520 - F-score: 0.5957446808510638
+2023-12-21 16:09:08,520 - Accuracy: 0.6607142857142857
+2023-12-21 16:09:08,520 - G-mean: 0.5484642268462742
+2023-12-21 16:09:08,520 - Additional Info
+2023-12-21 16:09:08,520 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-21 16:09:08,520 - Datasets list: crime
+2023-12-21 16:09:08,520 - Dataset size: 1119
+2023-12-21 16:09:08,520 - Layers frozen: 0
+2023-12-21 16:09:08,520 - Learning rate: 1e-05
+2023-12-21 16:09:08,520 - Class weights: Auto weights - [0.5120643431635389, 0.4879356568364611]
+2023-12-21 16:09:08,521 - Model saved to: ./models/bert_model_D0eQLntDWe.pt

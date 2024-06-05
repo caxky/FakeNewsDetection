@@ -1,0 +1,17 @@
+2023-12-01 00:35:31,145 - 
+Starting detection model - qxm1OPRROR
+2023-12-01 00:35:57,855 - Evaluation Results
+2023-12-01 00:35:57,855 - Training time: 20.726147890090942 seconds
+2023-12-01 00:35:57,855 - Inference time: 1.7918987274169922 seconds
+2023-12-01 00:35:57,855 - Precision: 0.5628140703517588
+2023-12-01 00:35:57,855 - Recall: 0.9105691056910569
+2023-12-01 00:35:57,856 - F-score: 0.6956521739130435
+2023-12-01 00:35:57,856 - Accuracy: 0.5625
+2023-12-01 00:35:57,856 - G-mean: 0.7156780854205468
+2023-12-01 00:35:57,856 - Additional Info
+2023-12-01 00:35:57,856 - Model name: distilbert-base-uncased
+2023-12-01 00:35:57,856 - Datasets list: crime
+2023-12-01 00:35:57,856 - Layers frozen: 0
+2023-12-01 00:35:57,856 - Learning rate: 1e-05
+2023-12-01 00:35:57,856 - Class weights: [0.45, 0.55]
+2023-12-01 00:35:57,856 - Model not saved, didn't meet minimum accuracy threshold

@@ -1,0 +1,19 @@
+2023-12-22 14:33:09,866 - 
+Starting detection model - IhMGqAqiqb
+2023-12-22 14:51:38,771 - Epoch 1 average train loss: 0.0
+2023-12-22 14:52:35,578 - Evaluation Results
+2023-12-22 14:52:35,578 - Training time: 721.86434674263 seconds
+2023-12-22 14:52:35,579 - Inference time: 56.639440059661865 seconds
+2023-12-22 14:52:35,579 - Precision: 0.9682425117286179
+2023-12-22 14:52:35,579 - Recall: 0.9286950501903773
+2023-12-22 14:52:35,579 - F-score: 0.9480565371024735
+2023-12-22 14:52:35,579 - Accuracy: 0.956145584725537
+2023-12-22 14:52:35,579 - G-mean: 0.9423203657971053
+2023-12-22 14:52:35,579 - Additional Info
+2023-12-22 14:52:35,579 - Model name: bert-base-uncased
+2023-12-22 14:52:35,579 - Datasets list: social_media
+2023-12-22 14:52:35,579 - Dataset size: 67038
+2023-12-22 14:52:35,579 - Layers frozen: 0
+2023-12-22 14:52:35,579 - Learning rate: 1e-05
+2023-12-22 14:52:35,579 - Class weights: Auto weights - [0.4296667561681434, 0.5703332438318566]
+2023-12-22 14:52:35,579 - Model not saved, didn't meet minimum accuracy threshold

@@ -1,0 +1,21 @@
+2023-12-20 15:20:15,931 - 
+Starting detection model - FItFdVfqiz
+2023-12-20 15:21:11,088 - Epoch 1 average train loss: 0.6322728991508484
+2023-12-20 15:22:02,775 - Epoch 2 average train loss: 0.5677820444107056
+2023-12-20 15:22:52,947 - Epoch 3 average train loss: 0.42153945565223694
+2023-12-20 15:23:43,319 - Epoch 4 average train loss: 0.25809356570243835
+2023-12-20 15:23:49,370 - Evaluation Results
+2023-12-20 15:23:49,371 - Training time: 204.42865681648254 seconds
+2023-12-20 15:23:49,371 - Inference time: 5.959849834442139 seconds
+2023-12-20 15:23:49,371 - Precision: 0.4230769230769231
+2023-12-20 15:23:49,371 - Recall: 0.75
+2023-12-20 15:23:49,371 - F-score: 0.540983606557377
+2023-12-20 15:23:49,371 - Accuracy: 0.6923076923076923
+2023-12-20 15:23:49,371 - G-mean: 0.7205766921228921
+2023-12-20 15:23:49,371 - Additional Info
+2023-12-20 15:23:49,371 - Model name: bert-base-uncased
+2023-12-20 15:23:49,371 - Datasets list: science
+2023-12-20 15:23:49,371 - Layers frozen: 0
+2023-12-20 15:23:49,371 - Learning rate: 1e-05
+2023-12-20 15:23:49,371 - Class weights: [0.45, 0.55]
+2023-12-20 15:23:49,371 - Model not saved, didn't meet minimum accuracy threshold

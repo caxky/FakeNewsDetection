@@ -1,0 +1,19 @@
+2023-12-22 08:41:06,262 - 
+Starting detection model - QtKcocToEN
+2023-12-22 08:41:35,908 - Epoch 1 average train loss: 0.0
+2023-12-22 08:41:37,582 - Evaluation Results
+2023-12-22 08:41:37,583 - Training time: 24.05236554145813 seconds
+2023-12-22 08:41:37,583 - Inference time: 1.1889326572418213 seconds
+2023-12-22 08:41:37,583 - Precision: 0.9777777777777777
+2023-12-22 08:41:37,583 - Recall: 0.3087719298245614
+2023-12-22 08:41:37,583 - F-score: 0.4693333333333333
+2023-12-22 08:41:37,583 - Accuracy: 0.845136186770428
+2023-12-22 08:41:37,583 - G-mean: 0.510836893101581
+2023-12-22 08:41:37,583 - Additional Info
+2023-12-22 08:41:37,583 - Model name: bert-base-uncased
+2023-12-22 08:41:37,583 - Datasets list: politics
+2023-12-22 08:41:37,583 - Dataset size: 6424
+2023-12-22 08:41:37,583 - Layers frozen: 0
+2023-12-22 08:41:37,583 - Learning rate: 1e-05
+2023-12-22 08:41:37,583 - Class weights: Default weights - [0.7921855541718555, 0.20781444582814446]
+2023-12-22 08:41:37,583 - Model saved to: ./models/bert_model_QtKcocToEN.pt

@@ -1,0 +1,17 @@
+2023-12-06 13:56:41,584 - 
+Starting detection model - 60Yjsbmn4F
+2023-12-06 14:22:11,126 - Evaluation Results
+2023-12-06 14:22:11,126 - Training time: 1217.8808183670044 seconds
+2023-12-06 14:22:11,127 - Inference time: 98.00264644622803 seconds
+2023-12-06 14:22:11,127 - Precision: 0.9577564785232516
+2023-12-06 14:22:11,127 - Recall: 0.9338871581862236
+2023-12-06 14:22:11,127 - F-score: 0.945671223273747
+2023-12-06 14:22:11,127 - Accuracy: 0.9537589498806682
+2023-12-06 14:22:11,127 - G-mean: 0.9437707535724627
+2023-12-06 14:22:11,127 - Additional Info
+2023-12-06 14:22:11,127 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-06 14:22:11,127 - Datasets list: social_media
+2023-12-06 14:22:11,127 - Layers frozen: 0
+2023-12-06 14:22:11,127 - Learning rate: 1e-05
+2023-12-06 14:22:11,127 - Class weights: [0.45, 0.55]
+2023-12-06 14:22:11,127 - Model saved to: ./models/bert_model_60Yjsbmn4F.pt

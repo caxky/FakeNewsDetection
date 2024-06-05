@@ -1,0 +1,19 @@
+2023-12-21 18:39:32,767 - 
+Starting detection model - 1LM24Larlt
+2023-12-21 18:40:24,661 - Epoch 1 average train loss: 0.0
+2023-12-21 18:40:28,902 - Evaluation Results
+2023-12-21 18:40:28,902 - Training time: 46.74867105484009 seconds
+2023-12-21 18:40:28,903 - Inference time: 4.1529481410980225 seconds
+2023-12-21 18:40:28,903 - Precision: 0.9523809523809523
+2023-12-21 18:40:28,903 - Recall: 0.3252032520325203
+2023-12-21 18:40:28,903 - F-score: 0.4848484848484848
+2023-12-21 18:40:28,904 - Accuracy: 0.6205357142857143
+2023-12-21 18:40:28,904 - G-mean: 0.4492218074493236
+2023-12-21 18:40:28,904 - Additional Info
+2023-12-21 18:40:28,904 - Model name: bert-base-cased
+2023-12-21 18:40:28,904 - Datasets list: crime
+2023-12-21 18:40:28,904 - Dataset size: 1119
+2023-12-21 18:40:28,904 - Layers frozen: 0
+2023-12-21 18:40:28,904 - Learning rate: 1e-05
+2023-12-21 18:40:28,904 - Class weights: Auto weights - [0.5120643431635389, 0.4879356568364611]
+2023-12-21 18:40:28,904 - Model not saved, didn't meet minimum accuracy threshold

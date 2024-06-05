@@ -1,0 +1,17 @@
+2023-12-13 01:39:24,128 - 
+Starting detection model - C4YnRvICKD
+2023-12-13 02:14:18,719 - Evaluation Results
+2023-12-13 02:14:18,720 - Training time: 1838.8305780887604 seconds
+2023-12-13 02:14:18,721 - Inference time: 223.10524129867554 seconds
+2023-12-13 02:14:18,721 - Precision: 0.9133663366336634
+2023-12-13 02:14:18,721 - Recall: 0.7306930693069307
+2023-12-13 02:14:18,721 - F-score: 0.811881188118812
+2023-12-13 02:14:18,721 - Accuracy: 0.8559393428812131
+2023-12-13 02:14:18,721 - G-mean: 0.7908406575223804
+2023-12-13 02:14:18,721 - Additional Info
+2023-12-13 02:14:18,721 - Model name: bert-base-uncased
+2023-12-13 02:14:18,721 - Datasets list: health
+2023-12-13 02:14:18,721 - Layers frozen: 0
+2023-12-13 02:14:18,722 - Learning rate: 1e-05
+2023-12-13 02:14:18,722 - Class weights: [0.45, 0.55]
+2023-12-13 02:14:18,722 - Model saved to: ./models\bert_model_C4YnRvICKD.pt

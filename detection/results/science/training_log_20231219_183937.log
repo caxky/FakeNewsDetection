@@ -1,0 +1,17 @@
+2023-12-19 18:39:37,287 - 
+Starting detection model - sbiaGxKs4E
+2023-12-19 18:39:49,442 - Evaluation Results
+2023-12-19 18:39:49,442 - Training time: 9.12435507774353 seconds
+2023-12-19 18:39:49,442 - Inference time: 0.5893163681030273 seconds
+2023-12-19 18:39:49,442 - Precision: 0.0
+2023-12-19 18:39:49,442 - Recall: 0.0
+2023-12-19 18:39:49,443 - F-score: 0.0
+2023-12-19 18:39:49,443 - Accuracy: 0.7582417582417582
+2023-12-19 18:39:49,443 - G-mean: 0.0
+2023-12-19 18:39:49,443 - Additional Info
+2023-12-19 18:39:49,443 - Model name: roberta-base
+2023-12-19 18:39:49,443 - Datasets list: science
+2023-12-19 18:39:49,443 - Layers frozen: 0
+2023-12-19 18:39:49,443 - Learning rate: 1e-05
+2023-12-19 18:39:49,444 - Class weights: tensor([0.2789, 0.7211])
+2023-12-19 18:39:49,444 - Model not saved, didn't meet minimum accuracy threshold

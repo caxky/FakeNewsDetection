@@ -1,0 +1,18 @@
+2023-12-20 20:00:53,986 - 
+Starting detection model - VqbbxnK6h5
+2023-12-20 20:01:45,055 - Evaluation Results
+2023-12-20 20:01:45,056 - Training time: 41.8538715839386 seconds
+2023-12-20 20:01:45,056 - Inference time: 3.9003264904022217 seconds
+2023-12-20 20:01:45,056 - Precision: 0.7538461538461538
+2023-12-20 20:01:45,056 - Recall: 0.3983739837398374
+2023-12-20 20:01:45,057 - F-score: 0.5212765957446809
+2023-12-20 20:01:45,057 - Accuracy: 0.5982142857142857
+2023-12-20 20:01:45,057 - G-mean: 0.4881731333554534
+2023-12-20 20:01:45,057 - Additional Info
+2023-12-20 20:01:45,057 - Model name: bert-base-uncased
+2023-12-20 20:01:45,057 - Datasets list: crime
+2023-12-20 20:01:45,057 - Dataset size: 1119
+2023-12-20 20:01:45,057 - Layers frozen: 0
+2023-12-20 20:01:45,057 - Learning rate: 1e-05
+2023-12-20 20:01:45,057 - Class weights: Default weights - [0.4879356568364611, 0.5120643431635389]
+2023-12-20 20:01:45,057 - Model not saved, didn't meet minimum accuracy threshold

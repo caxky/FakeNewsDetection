@@ -1,0 +1,18 @@
+2023-12-20 08:38:43,262 - 
+Starting detection model - Z9Q4GteaBS
+2023-12-20 08:44:27,946 - Evaluation Results
+2023-12-20 08:44:27,946 - Training time: 273.4514238834381 seconds
+2023-12-20 08:44:27,946 - Inference time: 30.316495180130005 seconds
+2023-12-20 08:44:27,947 - Precision: 0.0
+2023-12-20 08:44:27,947 - Recall: 0.0
+2023-12-20 08:44:27,947 - F-score: 0.0
+2023-12-20 08:44:27,947 - Accuracy: 0.594
+2023-12-20 08:44:27,947 - G-mean: 0.0
+2023-12-20 08:44:27,947 - Additional Info
+2023-12-20 08:44:27,947 - Model name: bert-base-uncased
+2023-12-20 08:44:27,947 - Datasets list: health Train: ['covid_claims', 'covid_fake_news', 'covid_FNIR'], Test: ['isot_multipurpose']
+2023-12-20 08:44:27,947 - Dataset size: Train: 5932, Test: 2000
+2023-12-20 08:44:27,947 - Layers frozen: 0
+2023-12-20 08:44:27,947 - Learning rate: 1e-05
+2023-12-20 08:44:27,947 - Class weights: [0.4463924477410654, 0.5536075522589345]
+2023-12-20 08:44:27,947 - Model not saved, didn't meet minimum accuracy threshold

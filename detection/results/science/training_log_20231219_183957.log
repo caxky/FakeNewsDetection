@@ -1,0 +1,17 @@
+2023-12-19 18:39:57,113 - 
+Starting detection model - 8JVNtRZDxr
+2023-12-19 18:40:06,900 - Evaluation Results
+2023-12-19 18:40:06,900 - Training time: 7.870029449462891 seconds
+2023-12-19 18:40:06,900 - Inference time: 0.6978778839111328 seconds
+2023-12-19 18:40:06,900 - Precision: 0.43478260869565216
+2023-12-19 18:40:06,900 - Recall: 0.45454545454545453
+2023-12-19 18:40:06,900 - F-score: 0.4444444444444445
+2023-12-19 18:40:06,900 - Accuracy: 0.7252747252747253
+2023-12-19 18:40:06,900 - G-mean: 0.5741692517632145
+2023-12-19 18:40:06,901 - Additional Info
+2023-12-19 18:40:06,901 - Model name: albert-base-v2
+2023-12-19 18:40:06,901 - Datasets list: science
+2023-12-19 18:40:06,901 - Layers frozen: 0
+2023-12-19 18:40:06,901 - Learning rate: 1e-05
+2023-12-19 18:40:06,902 - Class weights: tensor([0.2789, 0.7211])
+2023-12-19 18:40:06,902 - Model not saved, didn't meet minimum accuracy threshold

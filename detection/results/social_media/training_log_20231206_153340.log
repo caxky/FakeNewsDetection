@@ -1,0 +1,17 @@
+2023-12-06 15:33:40,687 - 
+Starting detection model - pFJBuQcMuN
+2023-12-06 16:21:22,835 - Evaluation Results
+2023-12-06 16:21:22,835 - Training time: 2524.772070646286 seconds
+2023-12-06 16:21:22,835 - Inference time: 230.58450531959534 seconds
+2023-12-06 16:21:22,835 - Precision: 0.9504616477272727
+2023-12-06 16:21:22,835 - Recall: 0.9264451367255105
+2023-12-06 16:21:22,835 - F-score: 0.9382997370727433
+2023-12-06 16:21:22,835 - Accuracy: 0.9474940334128878
+2023-12-06 16:21:22,836 - G-mean: 0.9369104756228358
+2023-12-06 16:21:22,836 - Additional Info
+2023-12-06 16:21:22,836 - Model name: albert-base-v2
+2023-12-06 16:21:22,836 - Datasets list: social_media
+2023-12-06 16:21:22,836 - Layers frozen: 0
+2023-12-06 16:21:22,836 - Learning rate: 1e-05
+2023-12-06 16:21:22,836 - Class weights: [0.45, 0.55]
+2023-12-06 16:21:22,836 - Model saved to: ./models/bert_model_pFJBuQcMuN.pt

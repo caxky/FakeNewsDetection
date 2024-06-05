@@ -1,0 +1,17 @@
+2023-12-19 18:51:07,147 - 
+Starting detection model - HxlFn8jfXR
+2023-12-19 18:55:16,415 - Evaluation Results
+2023-12-19 18:55:16,415 - Training time: 230.26567029953003 seconds
+2023-12-19 18:55:16,416 - Inference time: 13.171665906906128 seconds
+2023-12-19 18:55:16,416 - Precision: 0.8620689655172413
+2023-12-19 18:55:16,416 - Recall: 0.4065040650406504
+2023-12-19 18:55:16,416 - F-score: 0.5524861878453038
+2023-12-19 18:55:16,416 - Accuracy: 0.6383928571428571
+2023-12-19 18:55:16,416 - G-mean: 0.5094205448561008
+2023-12-19 18:55:16,416 - Additional Info
+2023-12-19 18:55:16,417 - Model name: bert-base-cased
+2023-12-19 18:55:16,417 - Datasets list: crime
+2023-12-19 18:55:16,417 - Layers frozen: 0
+2023-12-19 18:55:16,417 - Learning rate: 1e-05
+2023-12-19 18:55:16,418 - Class weights: tensor([0.5121, 0.4879])
+2023-12-19 18:55:16,418 - Model saved to: ./models/bert_model_HxlFn8jfXR.pt

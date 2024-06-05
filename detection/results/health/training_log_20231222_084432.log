@@ -1,0 +1,19 @@
+2023-12-22 08:44:32,023 - 
+Starting detection model - wSJIx2UdfL
+2023-12-22 08:46:30,073 - Epoch 1 average train loss: 0.0
+2023-12-22 08:46:35,692 - Evaluation Results
+2023-12-22 08:46:35,693 - Training time: 64.24252223968506 seconds
+2023-12-22 08:46:35,693 - Inference time: 5.002305746078491 seconds
+2023-12-22 08:46:35,693 - Precision: 0.9066985645933014
+2023-12-22 08:46:35,693 - Recall: 0.7504950495049505
+2023-12-22 08:46:35,693 - F-score: 0.8212351029252438
+2023-12-22 08:46:35,694 - Accuracy: 0.8609941027801179
+2023-12-22 08:46:35,694 - G-mean: 0.8038481273159969
+2023-12-22 08:46:35,694 - Additional Info
+2023-12-22 08:46:35,694 - Model name: bert-base-uncased
+2023-12-22 08:46:35,694 - Datasets list: health
+2023-12-22 08:46:35,694 - Dataset size: 5932
+2023-12-22 08:46:35,694 - Layers frozen: 0
+2023-12-22 08:46:35,694 - Learning rate: 1e-05
+2023-12-22 08:46:35,694 - Class weights: Default weights - [0.5536075522589345, 0.4463924477410654]
+2023-12-22 08:46:35,694 - Model saved to: ./models/bert_model_wSJIx2UdfL.pt

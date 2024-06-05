@@ -1,0 +1,17 @@
+2023-12-01 00:56:21,780 - 
+Starting detection model - fhJ3LjoUE5
+2023-12-01 01:00:44,947 - Evaluation Results
+2023-12-01 01:00:44,947 - Training time: 227.73819231987 seconds
+2023-12-01 01:00:44,947 - Inference time: 20.739132404327393 seconds
+2023-12-01 01:00:44,947 - Precision: 0.8719512195121951
+2023-12-01 01:00:44,948 - Recall: 0.8048780487804879
+2023-12-01 01:00:44,948 - F-score: 0.8370731707317074
+2023-12-01 01:00:44,948 - Accuracy: 0.8593091828138163
+2023-12-01 01:00:44,948 - G-mean: 0.8316484223290151
+2023-12-01 01:00:44,948 - Additional Info
+2023-12-01 01:00:44,948 - Model name: albert-base-v2
+2023-12-01 01:00:44,948 - Datasets list: health
+2023-12-01 01:00:44,948 - Layers frozen: 0
+2023-12-01 01:00:44,948 - Learning rate: 1e-05
+2023-12-01 01:00:44,948 - Class weights: [0.45, 0.55]
+2023-12-01 01:00:44,948 - Model saved to: ./models/bert_model_fhJ3LjoUE5.pt

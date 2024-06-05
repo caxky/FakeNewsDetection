@@ -1,0 +1,17 @@
+2023-12-01 01:06:07,639 - 
+Starting detection model - 4M5PLGti6b
+2023-12-01 01:06:16,645 - Evaluation Results
+2023-12-01 01:06:16,645 - Training time: 6.888996124267578 seconds
+2023-12-01 01:06:16,645 - Inference time: 0.4384911060333252 seconds
+2023-12-01 01:06:16,645 - Precision: 1.0
+2023-12-01 01:06:16,645 - Recall: 0.11363636363636363
+2023-12-01 01:06:16,645 - F-score: 0.20408163265306123
+2023-12-01 01:06:16,645 - Accuracy: 0.7857142857142857
+2023-12-01 01:06:16,645 - G-mean: 0.2988071523335984
+2023-12-01 01:06:16,645 - Additional Info
+2023-12-01 01:06:16,645 - Model name: bert-base-cased
+2023-12-01 01:06:16,645 - Datasets list: science
+2023-12-01 01:06:16,646 - Layers frozen: 0
+2023-12-01 01:06:16,646 - Learning rate: 1e-05
+2023-12-01 01:06:16,646 - Class weights: [0.45, 0.55]
+2023-12-01 01:06:16,646 - Model not saved, didn't meet minimum accuracy threshold

@@ -1,0 +1,19 @@
+2023-12-22 14:52:44,362 - 
+Starting detection model - cPnRvlSLTx
+2023-12-22 15:09:57,928 - Epoch 1 average train loss: 0.0
+2023-12-22 15:10:54,676 - Evaluation Results
+2023-12-22 15:10:54,677 - Training time: 721.3869864940643 seconds
+2023-12-22 15:10:54,677 - Inference time: 56.58785009384155 seconds
+2023-12-22 15:10:54,677 - Precision: 0.9570769776516496
+2023-12-22 15:10:54,678 - Recall: 0.9338871581862236
+2023-12-22 15:10:54,678 - F-score: 0.9453398738612473
+2023-12-22 15:10:54,678 - Accuracy: 0.9534606205250596
+2023-12-22 15:10:54,678 - G-mean: 0.943623139470743
+2023-12-22 15:10:54,678 - Additional Info
+2023-12-22 15:10:54,678 - Model name: bert-base-cased
+2023-12-22 15:10:54,678 - Datasets list: social_media
+2023-12-22 15:10:54,678 - Dataset size: 67038
+2023-12-22 15:10:54,678 - Layers frozen: 0
+2023-12-22 15:10:54,678 - Learning rate: 1e-05
+2023-12-22 15:10:54,678 - Class weights: Auto weights - [0.4296667561681434, 0.5703332438318566]
+2023-12-22 15:10:54,678 - Model not saved, didn't meet minimum accuracy threshold

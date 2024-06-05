@@ -1,0 +1,18 @@
+2023-12-20 08:53:35,214 - 
+Starting detection model - g2DLhs3uTk
+2023-12-20 08:56:58,272 - Evaluation Results
+2023-12-20 08:56:58,272 - Training time: 144.01921939849854 seconds
+2023-12-20 08:56:58,273 - Inference time: 15.822855472564697 seconds
+2023-12-20 08:56:58,273 - Precision: 0.0
+2023-12-20 08:56:58,273 - Recall: 0.0
+2023-12-20 08:56:58,273 - F-score: 0.0
+2023-12-20 08:56:58,273 - Accuracy: 1.0
+2023-12-20 08:56:58,273 - G-mean: 0.0
+2023-12-20 08:56:58,273 - Additional Info
+2023-12-20 08:56:58,273 - Model name: distilbert-base-uncased
+2023-12-20 08:56:58,273 - Datasets list: health Train: ['covid_claims', 'covid_fake_news', 'covid_FNIR'], Test: ['isot_multipurpose']
+2023-12-20 08:56:58,273 - Dataset size: Train: 5932, Test: 2000
+2023-12-20 08:56:58,273 - Layers frozen: 0
+2023-12-20 08:56:58,274 - Learning rate: 1e-05
+2023-12-20 08:56:58,274 - Class weights: [0.4463924477410654, 0.5536075522589345]
+2023-12-20 08:56:58,274 - Model saved to: ./models/bert_model_g2DLhs3uTk.pt

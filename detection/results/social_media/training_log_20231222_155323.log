@@ -1,0 +1,19 @@
+2023-12-22 15:53:23,038 - 
+Starting detection model - k1ddynHsvJ
+2023-12-22 16:09:11,823 - Epoch 1 average train loss: 0.0
+2023-12-22 16:10:22,465 - Evaluation Results
+2023-12-22 16:10:22,465 - Training time: 774.9271283149719 seconds
+2023-12-22 16:10:22,465 - Inference time: 70.48315000534058 seconds
+2023-12-22 16:10:22,465 - Precision: 0.9667397660818714
+2023-12-22 16:10:22,466 - Recall: 0.9155417099342333
+2023-12-22 16:10:22,466 - F-score: 0.9404444444444445
+2023-12-22 16:10:22,466 - Accuracy: 0.9500298329355609
+2023-12-22 16:10:22,466 - G-mean: 0.9326263655582323
+2023-12-22 16:10:22,466 - Additional Info
+2023-12-22 16:10:22,466 - Model name: albert-base-v2
+2023-12-22 16:10:22,466 - Datasets list: social_media
+2023-12-22 16:10:22,466 - Dataset size: 67038
+2023-12-22 16:10:22,466 - Layers frozen: 0
+2023-12-22 16:10:22,466 - Learning rate: 1e-05
+2023-12-22 16:10:22,466 - Class weights: Auto weights - [0.4296667561681434, 0.5703332438318566]
+2023-12-22 16:10:22,467 - Model not saved, didn't meet minimum accuracy threshold

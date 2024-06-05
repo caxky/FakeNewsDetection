@@ -1,0 +1,24 @@
+2023-12-15 19:30:55,211 - 
+Starting detection model - KIkGPvAlhf
+2023-12-15 19:36:12,443 - Epoch 1 average train loss: 0.0
+2023-12-15 19:41:28,950 - Epoch 2 average train loss: 0.0
+2023-12-15 19:46:45,424 - Epoch 3 average train loss: 0.0
+2023-12-15 19:52:01,854 - Epoch 4 average train loss: 0.0
+2023-12-15 19:57:18,563 - Epoch 5 average train loss: 0.0
+2023-12-15 20:02:35,304 - Epoch 6 average train loss: 0.0
+2023-12-15 20:07:52,041 - Epoch 7 average train loss: 0.0
+2023-12-15 20:07:56,363 - Evaluation Results
+2023-12-15 20:07:56,364 - Training time: 2212.0771305561066 seconds
+2023-12-15 20:07:56,364 - Inference time: 4.263457536697388 seconds
+2023-12-15 20:07:56,364 - Precision: 0.6206896551724138
+2023-12-15 20:07:56,364 - Recall: 0.4
+2023-12-15 20:07:56,365 - F-score: 0.4864864864864865
+2023-12-15 20:07:56,365 - Accuracy: 0.6607142857142857
+2023-12-15 20:07:56,365 - G-mean: 0.5140872632984738
+2023-12-15 20:07:56,365 - Additional Info
+2023-12-15 20:07:56,365 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-15 20:07:56,365 - Datasets list: crime
+2023-12-15 20:07:56,365 - Layers frozen: 0
+2023-12-15 20:07:56,365 - Learning rate: 1e-05
+2023-12-15 20:07:56,365 - Class weights: [0.45, 0.55]
+2023-12-15 20:07:56,365 - Model not saved, didn't meet minimum accuracy threshold

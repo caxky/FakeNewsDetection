@@ -1,0 +1,17 @@
+2023-12-19 19:57:38,208 - 
+Starting detection model - lZoG3dKPWL
+2023-12-19 19:58:37,540 - Evaluation Results
+2023-12-19 19:58:37,541 - Training time: 51.625319957733154 seconds
+2023-12-19 19:58:37,541 - Inference time: 4.905984878540039 seconds
+2023-12-19 19:58:37,541 - Precision: 0.9361702127659575
+2023-12-19 19:58:37,541 - Recall: 0.35772357723577236
+2023-12-19 19:58:37,542 - F-score: 0.5176470588235295
+2023-12-19 19:58:37,542 - Accuracy: 0.6339285714285714
+2023-12-19 19:58:37,542 - G-mean: 0.4762049939714948
+2023-12-19 19:58:37,542 - Additional Info
+2023-12-19 19:58:37,542 - Model name: albert-base-v2
+2023-12-19 19:58:37,542 - Datasets list: crime
+2023-12-19 19:58:37,542 - Layers frozen: 0
+2023-12-19 19:58:37,542 - Learning rate: 1e-05
+2023-12-19 19:58:37,543 - Class weights: tensor([0.5121, 0.4879])
+2023-12-19 19:58:37,543 - Model saved to: ./models/bert_model_lZoG3dKPWL.pt

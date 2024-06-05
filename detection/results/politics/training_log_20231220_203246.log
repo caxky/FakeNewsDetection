@@ -1,0 +1,18 @@
+2023-12-20 20:32:46,596 - 
+Starting detection model - k2QtUETamG
+2023-12-20 20:33:18,455 - Evaluation Results
+2023-12-20 20:33:18,456 - Training time: 26.438140392303467 seconds
+2023-12-20 20:33:18,456 - Inference time: 1.4748077392578125 seconds
+2023-12-20 20:33:18,456 - Precision: 0.0
+2023-12-20 20:33:18,456 - Recall: 0.0
+2023-12-20 20:33:18,456 - F-score: 0.0
+2023-12-20 20:33:18,456 - Accuracy: 0.7782101167315175
+2023-12-20 20:33:18,457 - G-mean: 0.0
+2023-12-20 20:33:18,457 - Additional Info
+2023-12-20 20:33:18,457 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-20 20:33:18,457 - Datasets list: politics
+2023-12-20 20:33:18,457 - Dataset size: 6424
+2023-12-20 20:33:18,457 - Layers frozen: 0
+2023-12-20 20:33:18,457 - Learning rate: 1e-05
+2023-12-20 20:33:18,457 - Class weights: Default weights - [0.7921855541718555, 0.20781444582814446]
+2023-12-20 20:33:18,457 - Model not saved, didn't meet minimum accuracy threshold

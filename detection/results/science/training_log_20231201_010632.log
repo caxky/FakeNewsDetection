@@ -1,0 +1,17 @@
+2023-12-01 01:06:32,396 - 
+Starting detection model - AmXSHOZnoc
+2023-12-01 01:06:37,743 - Evaluation Results
+2023-12-01 01:06:37,743 - Training time: 3.798553943634033 seconds
+2023-12-01 01:06:37,743 - Inference time: 0.21897625923156738 seconds
+2023-12-01 01:06:37,743 - Precision: 0.0
+2023-12-01 01:06:37,743 - Recall: 0.0
+2023-12-01 01:06:37,743 - F-score: 0.0
+2023-12-01 01:06:37,744 - Accuracy: 0.7582417582417582
+2023-12-01 01:06:37,744 - G-mean: 0.0
+2023-12-01 01:06:37,744 - Additional Info
+2023-12-01 01:06:37,744 - Model name: distilbert-base-uncased
+2023-12-01 01:06:37,744 - Datasets list: science
+2023-12-01 01:06:37,744 - Layers frozen: 0
+2023-12-01 01:06:37,744 - Learning rate: 1e-05
+2023-12-01 01:06:37,745 - Class weights: [0.45, 0.55]
+2023-12-01 01:06:37,745 - Model not saved, didn't meet minimum accuracy threshold

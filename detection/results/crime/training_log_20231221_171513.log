@@ -1,0 +1,24 @@
+2023-12-21 17:15:13,711 - 
+Starting detection model - YooxrXs98j
+2023-12-21 17:15:43,465 - Epoch 1 average train loss: 0.0
+2023-12-21 17:16:07,028 - Epoch 2 average train loss: 0.0
+2023-12-21 17:16:30,409 - Epoch 3 average train loss: 0.0
+2023-12-21 17:16:53,292 - Epoch 4 average train loss: 0.0
+2023-12-21 17:17:16,951 - Epoch 5 average train loss: 0.0
+2023-12-21 17:17:40,617 - Epoch 6 average train loss: 0.0
+2023-12-21 17:17:42,686 - Evaluation Results
+2023-12-21 17:17:42,686 - Training time: 140.36094164848328 seconds
+2023-12-21 17:17:42,686 - Inference time: 1.9769806861877441 seconds
+2023-12-21 17:17:42,687 - Precision: 0.75
+2023-12-21 17:17:42,687 - Recall: 0.5121951219512195
+2023-12-21 17:17:42,687 - F-score: 0.6086956521739131
+2023-12-21 17:17:42,687 - Accuracy: 0.6383928571428571
+2023-12-21 17:17:42,687 - G-mean: 0.5718231433905707
+2023-12-21 17:17:42,687 - Additional Info
+2023-12-21 17:17:42,687 - Model name: distilbert-base-uncased
+2023-12-21 17:17:42,687 - Datasets list: crime
+2023-12-21 17:17:42,687 - Dataset size: 1119
+2023-12-21 17:17:42,687 - Layers frozen: 0
+2023-12-21 17:17:42,687 - Learning rate: 1e-05
+2023-12-21 17:17:42,688 - Class weights: Auto weights - [0.5120643431635389, 0.4879356568364611]
+2023-12-21 17:17:42,688 - Model not saved, didn't meet minimum accuracy threshold

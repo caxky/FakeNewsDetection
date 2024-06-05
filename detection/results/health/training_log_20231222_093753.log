@@ -1,0 +1,19 @@
+2023-12-22 09:37:53,877 - 
+Starting detection model - Uqil90bZLX
+2023-12-22 09:41:53,994 - Epoch 1 average train loss: 0.0
+2023-12-22 09:42:11,525 - Evaluation Results
+2023-12-22 09:42:11,525 - Training time: 209.00782203674316 seconds
+2023-12-22 09:42:11,525 - Inference time: 17.08309054374695 seconds
+2023-12-22 09:42:11,525 - Precision: 0.8967611336032388
+2023-12-22 09:42:11,525 - Recall: 0.8311444652908068
+2023-12-22 09:42:11,525 - F-score: 0.8627069133398246
+2023-12-22 09:42:11,526 - Accuracy: 0.8812131423757371
+2023-12-22 09:42:11,526 - G-mean: 0.8558127283624108
+2023-12-22 09:42:11,526 - Additional Info
+2023-12-22 09:42:11,526 - Model name: bert-base-uncased
+2023-12-22 09:42:11,526 - Datasets list: health
+2023-12-22 09:42:11,526 - Dataset size: 5932
+2023-12-22 09:42:11,526 - Layers frozen: 0
+2023-12-22 09:42:11,526 - Learning rate: 1e-05
+2023-12-22 09:42:11,526 - Class weights: Auto weights - [0.4463924477410654, 0.5536075522589345]
+2023-12-22 09:42:11,526 - Model saved to: ./models/bert_model_Uqil90bZLX.pt

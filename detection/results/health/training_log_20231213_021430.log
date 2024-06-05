@@ -1,0 +1,17 @@
+2023-12-13 02:14:30,835 - 
+Starting detection model - gG4Q7dqob2
+2023-12-13 02:50:29,516 - Evaluation Results
+2023-12-13 02:50:29,517 - Training time: 1921.3746547698975 seconds
+2023-12-13 02:50:29,517 - Inference time: 209.481107711792 seconds
+2023-12-13 02:50:29,517 - Precision: 0.9230769230769231
+2023-12-13 02:50:29,517 - Recall: 0.7128712871287128
+2023-12-13 02:50:29,517 - F-score: 0.8044692737430168
+2023-12-13 02:50:29,517 - Accuracy: 0.8525695029486099
+2023-12-13 02:50:29,517 - G-mean: 0.7795975365107707
+2023-12-13 02:50:29,517 - Additional Info
+2023-12-13 02:50:29,517 - Model name: bert-base-cased
+2023-12-13 02:50:29,517 - Datasets list: health
+2023-12-13 02:50:29,517 - Layers frozen: 0
+2023-12-13 02:50:29,517 - Learning rate: 1e-05
+2023-12-13 02:50:29,517 - Class weights: [0.45, 0.55]
+2023-12-13 02:50:29,517 - Model saved to: ./models\bert_model_gG4Q7dqob2.pt

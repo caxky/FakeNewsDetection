@@ -1,0 +1,17 @@
+2023-12-13 02:50:40,504 - 
+Starting detection model - 0WeJlysES8
+2023-12-13 02:53:12,204 - Evaluation Results
+2023-12-13 02:53:12,204 - Training time: 113.25917387008667 seconds
+2023-12-13 02:53:12,204 - Inference time: 9.290822267532349 seconds
+2023-12-13 02:53:12,205 - Precision: 0.8624078624078624
+2023-12-13 02:53:12,205 - Recall: 0.695049504950495
+2023-12-13 02:53:12,205 - F-score: 0.769736842105263
+2023-12-13 02:53:12,205 - Accuracy: 0.823083403538332
+2023-12-13 02:53:12,205 - G-mean: 0.7563621567491899
+2023-12-13 02:53:12,205 - Additional Info
+2023-12-13 02:53:12,205 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-13 02:53:12,205 - Datasets list: health
+2023-12-13 02:53:12,205 - Layers frozen: 0
+2023-12-13 02:53:12,205 - Learning rate: 1e-05
+2023-12-13 02:53:12,205 - Class weights: [0.45, 0.55]
+2023-12-13 02:53:12,205 - Model saved to: ./models\bert_model_0WeJlysES8.pt

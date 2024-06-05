@@ -1,0 +1,21 @@
+2023-12-20 20:23:31,903 - 
+Starting detection model - ge2hOfD2W7
+2023-12-20 20:32:00,220 - Epoch 1 average train loss: 0.8465656638145447
+2023-12-20 20:39:49,375 - Epoch 2 average train loss: 0.5590375661849976
+2023-12-20 20:47:32,458 - Epoch 3 average train loss: 0.471030592918396
+2023-12-20 20:55:22,260 - Epoch 4 average train loss: 0.37037989497184753
+2023-12-20 20:55:44,212 - Evaluation Results
+2023-12-20 20:55:44,213 - Training time: 1897.3431930541992 seconds
+2023-12-20 20:55:44,213 - Inference time: 21.82168936729431 seconds
+2023-12-20 20:55:44,213 - Precision: 0.5242718446601942
+2023-12-20 20:55:44,213 - Recall: 0.6
+2023-12-20 20:55:44,213 - F-score: 0.5595854922279793
+2023-12-20 20:55:44,213 - Accuracy: 0.6205357142857143
+2023-12-20 20:55:44,214 - G-mean: 0.610181471835575
+2023-12-20 20:55:44,214 - Additional Info
+2023-12-20 20:55:44,214 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-20 20:55:44,214 - Datasets list: crime
+2023-12-20 20:55:44,214 - Layers frozen: 0
+2023-12-20 20:55:44,214 - Learning rate: 1e-05
+2023-12-20 20:55:44,214 - Class weights: [0.45, 0.55]
+2023-12-20 20:55:44,214 - Model not saved, didn't meet minimum accuracy threshold

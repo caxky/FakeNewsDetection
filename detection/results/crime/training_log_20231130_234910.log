@@ -1,0 +1,17 @@
+2023-11-30 23:49:10,741 - 
+Starting detection model - pyF83A0HiP
+2023-12-01 00:33:58,452 - Evaluation Results
+2023-12-01 00:33:58,453 - Training time: 2678.3652698993683 seconds
+2023-12-01 00:33:58,453 - Inference time: 3.7205562591552734 seconds
+2023-12-01 00:33:58,453 - Precision: 0.5801886792452831
+2023-12-01 00:33:58,453 - Recall: 1.0
+2023-12-01 00:33:58,453 - F-score: 0.7343283582089553
+2023-12-01 00:33:58,453 - Accuracy: 0.6026785714285714
+2023-12-01 00:33:58,453 - G-mean: 0.7763237542601484
+2023-12-01 00:33:58,454 - Additional Info
+2023-12-01 00:33:58,454 - Model name: bert-base-uncased
+2023-12-01 00:33:58,454 - Datasets list: crime
+2023-12-01 00:33:58,454 - Layers frozen: 0
+2023-12-01 00:33:58,454 - Learning rate: 1e-05
+2023-12-01 00:33:58,454 - Class weights: [0.45, 0.55]
+2023-12-01 00:33:58,454 - Model not saved, didn't meet minimum accuracy threshold

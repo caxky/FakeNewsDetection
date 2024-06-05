@@ -1,0 +1,18 @@
+2023-12-20 00:31:32,208 - 
+Starting detection model - 1vHBnLHptF
+2023-12-20 00:32:48,307 - Evaluation Results
+2023-12-20 00:32:48,307 - Training time: 71.11319708824158 seconds
+2023-12-20 00:32:48,307 - Inference time: 0.7508838176727295 seconds
+2023-12-20 00:32:48,307 - Precision: 0.0
+2023-12-20 00:32:48,308 - Recall: 0.0
+2023-12-20 00:32:48,308 - F-score: 0.0
+2023-12-20 00:32:48,308 - Accuracy: 0.38095238095238093
+2023-12-20 00:32:48,308 - G-mean: 0.0
+2023-12-20 00:32:48,308 - Additional Info
+2023-12-20 00:32:48,309 - Model name: roberta-base
+2023-12-20 00:32:48,309 - Datasets list: crime Train: ['fa-kes'], Test: ['snope']
+2023-12-20 00:32:48,309 - Dataset size: Train: 804, Test: 315
+2023-12-20 00:32:48,309 - Layers frozen: 0
+2023-12-20 00:32:48,309 - Learning rate: 1e-05
+2023-12-20 00:32:48,309 - Class weights: [0.4701492537313433, 0.5298507462686567]
+2023-12-20 00:32:48,309 - Model not saved, didn't meet minimum accuracy threshold

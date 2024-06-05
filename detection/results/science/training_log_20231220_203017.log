@@ -1,0 +1,18 @@
+2023-12-20 20:30:17,081 - 
+Starting detection model - kTm17OSF9s
+2023-12-20 20:30:26,222 - Evaluation Results
+2023-12-20 20:30:26,223 - Training time: 6.910611391067505 seconds
+2023-12-20 20:30:26,223 - Inference time: 0.4380497932434082 seconds
+2023-12-20 20:30:26,223 - Precision: 0.0
+2023-12-20 20:30:26,223 - Recall: 0.0
+2023-12-20 20:30:26,223 - F-score: 0.0
+2023-12-20 20:30:26,224 - Accuracy: 0.7582417582417582
+2023-12-20 20:30:26,224 - G-mean: 0.0
+2023-12-20 20:30:26,224 - Additional Info
+2023-12-20 20:30:26,224 - Model name: roberta-base
+2023-12-20 20:30:26,224 - Datasets list: science
+2023-12-20 20:30:26,224 - Dataset size: 907
+2023-12-20 20:30:26,224 - Layers frozen: 0
+2023-12-20 20:30:26,224 - Learning rate: 1e-05
+2023-12-20 20:30:26,224 - Class weights: Default weights - [0.721058434399118, 0.278941565600882]
+2023-12-20 20:30:26,224 - Model not saved, didn't meet minimum accuracy threshold

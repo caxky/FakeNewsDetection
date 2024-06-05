@@ -1,0 +1,17 @@
+2023-12-19 18:42:25,541 - 
+Starting detection model - UTdbSpTM2p
+2023-12-19 18:42:33,465 - Evaluation Results
+2023-12-19 18:42:33,466 - Training time: 5.159541130065918 seconds
+2023-12-19 18:42:33,466 - Inference time: 0.32378721237182617 seconds
+2023-12-19 18:42:33,466 - Precision: 0.3684210526315789
+2023-12-19 18:42:33,466 - Recall: 0.4772727272727273
+2023-12-19 18:42:33,466 - F-score: 0.4158415841584158
+2023-12-19 18:42:33,466 - Accuracy: 0.6758241758241759
+2023-12-19 18:42:33,467 - G-mean: 0.5679370101978278
+2023-12-19 18:42:33,467 - Additional Info
+2023-12-19 18:42:33,467 - Model name: distilbert-base-uncased-finetuned-sst-2-english
+2023-12-19 18:42:33,467 - Datasets list: science
+2023-12-19 18:42:33,467 - Layers frozen: 0
+2023-12-19 18:42:33,467 - Learning rate: 1e-05
+2023-12-19 18:42:33,468 - Class weights: tensor([0.2789, 0.7211])
+2023-12-19 18:42:33,468 - Model not saved, didn't meet minimum accuracy threshold

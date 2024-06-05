@@ -1,0 +1,24 @@
+2023-12-22 18:44:43,937 - 
+Starting detection model - zLdp7k1Pov
+2023-12-22 18:45:13,332 - Epoch 1 average train loss: 0.0
+2023-12-22 18:45:37,404 - Epoch 2 average train loss: 0.0
+2023-12-22 18:46:01,574 - Epoch 3 average train loss: 0.0
+2023-12-22 18:46:25,629 - Epoch 4 average train loss: 0.0
+2023-12-22 18:46:49,142 - Epoch 5 average train loss: 0.0
+2023-12-22 18:47:13,696 - Epoch 6 average train loss: 0.0
+2023-12-22 18:47:15,462 - Evaluation Results
+2023-12-22 18:47:15,462 - Training time: 144.4111189842224 seconds
+2023-12-22 18:47:15,462 - Inference time: 1.070267677307129 seconds
+2023-12-22 18:47:15,462 - Precision: 0.8188976377952756
+2023-12-22 18:47:15,462 - Recall: 0.7298245614035088
+2023-12-22 18:47:15,462 - F-score: 0.7717996289424861
+2023-12-22 18:47:15,462 - Accuracy: 0.9042801556420234
+2023-12-22 18:47:15,462 - G-mean: 0.8123828333841973
+2023-12-22 18:47:15,462 - Additional Info
+2023-12-22 18:47:15,462 - Model name: bert-base-uncased
+2023-12-22 18:47:15,462 - Datasets list: politics
+2023-12-22 18:47:15,463 - Dataset size: 6424
+2023-12-22 18:47:15,463 - Layers frozen: 0
+2023-12-22 18:47:15,463 - Learning rate: 1e-05
+2023-12-22 18:47:15,463 - Class weights: Manual weights - [0.45, 0.55]
+2023-12-22 18:47:15,464 - Model saved to: ./models/bert_model_zLdp7k1Pov.pt

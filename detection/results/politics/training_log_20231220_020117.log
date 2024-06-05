@@ -1,0 +1,18 @@
+2023-12-20 02:01:17,981 - 
+Starting detection model - Lk2ADoA74K
+2023-12-20 03:04:43,424 - Evaluation Results
+2023-12-20 03:04:43,424 - Training time: 3480.415495157242 seconds
+2023-12-20 03:04:43,424 - Inference time: 14.661173343658447 seconds
+2023-12-20 03:04:43,424 - Precision: 0.2083469188131725
+2023-12-20 03:04:43,424 - Recall: 0.9573033707865168
+2023-12-20 03:04:43,425 - F-score: 0.3422144865443834
+2023-12-20 03:04:43,425 - Accuracy: 0.23521170610211706
+2023-12-20 03:04:43,425 - G-mean: 0.474519714132094
+2023-12-20 03:04:43,425 - Additional Info
+2023-12-20 03:04:43,425 - Model name: bert-base-cased
+2023-12-20 03:04:43,425 - Datasets list: politics Train: ['fake_news', 'isot_dataset', 'liar_dataset'], Test: ['pheme', 'politifact']
+2023-12-20 03:04:43,425 - Dataset size: Train: 78495, Test: 6424
+2023-12-20 03:04:43,425 - Layers frozen: 0
+2023-12-20 03:04:43,425 - Learning rate: 1e-05
+2023-12-20 03:04:43,425 - Class weights: [0.5035225173577935, 0.49647748264220654]
+2023-12-20 03:04:43,425 - Model not saved, didn't meet minimum accuracy threshold

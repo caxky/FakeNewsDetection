@@ -1,0 +1,19 @@
+2023-12-22 09:49:03,217 - 
+Starting detection model - v65JaHtyR5
+2023-12-22 09:51:21,443 - Epoch 1 average train loss: 0.0
+2023-12-22 09:51:30,831 - Evaluation Results
+2023-12-22 09:51:30,831 - Training time: 108.91963386535645 seconds
+2023-12-22 09:51:30,832 - Inference time: 9.057437896728516 seconds
+2023-12-22 09:51:30,832 - Precision: 0.9206008583690987
+2023-12-22 09:51:30,832 - Recall: 0.8048780487804879
+2023-12-22 09:51:30,832 - F-score: 0.8588588588588588
+2023-12-22 09:51:30,832 - Accuracy: 0.8812131423757371
+2023-12-22 09:51:30,832 - G-mean: 0.8421811649491489
+2023-12-22 09:51:30,832 - Additional Info
+2023-12-22 09:51:30,832 - Model name: distilbert-base-uncased
+2023-12-22 09:51:30,832 - Datasets list: health
+2023-12-22 09:51:30,832 - Dataset size: 5932
+2023-12-22 09:51:30,832 - Layers frozen: 0
+2023-12-22 09:51:30,832 - Learning rate: 1e-05
+2023-12-22 09:51:30,832 - Class weights: Auto weights - [0.4463924477410654, 0.5536075522589345]
+2023-12-22 09:51:30,832 - Model saved to: ./models/bert_model_v65JaHtyR5.pt

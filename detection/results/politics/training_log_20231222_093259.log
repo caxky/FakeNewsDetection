@@ -1,0 +1,19 @@
+2023-12-22 09:32:59,595 - 
+Starting detection model - tFewVsZCBi
+2023-12-22 09:33:48,880 - Epoch 1 average train loss: 0.0
+2023-12-22 09:33:51,743 - Evaluation Results
+2023-12-22 09:33:51,743 - Training time: 44.356528759002686 seconds
+2023-12-22 09:33:51,743 - Inference time: 2.4576539993286133 seconds
+2023-12-22 09:33:51,743 - Precision: 0.6746575342465754
+2023-12-22 09:33:51,744 - Recall: 0.6912280701754386
+2023-12-22 09:33:51,744 - F-score: 0.682842287694974
+2023-12-22 09:33:51,744 - Accuracy: 0.8575875486381322
+2023-12-22 09:33:51,744 - G-mean: 0.7699276500111041
+2023-12-22 09:33:51,744 - Additional Info
+2023-12-22 09:33:51,744 - Model name: bert-base-uncased
+2023-12-22 09:33:51,744 - Datasets list: politics
+2023-12-22 09:33:51,744 - Dataset size: 6424
+2023-12-22 09:33:51,744 - Layers frozen: 0
+2023-12-22 09:33:51,744 - Learning rate: 1e-05
+2023-12-22 09:33:51,744 - Class weights: Auto weights - [0.20781444582814446, 0.7921855541718555]
+2023-12-22 09:33:51,744 - Model saved to: ./models/bert_model_tFewVsZCBi.pt

@@ -1,0 +1,18 @@
+2023-12-20 20:33:23,821 - 
+Starting detection model - kSdRIpQOIW
+2023-12-20 20:33:53,348 - Evaluation Results
+2023-12-20 20:33:53,349 - Training time: 24.504387855529785 seconds
+2023-12-20 20:33:53,349 - Inference time: 1.304962158203125 seconds
+2023-12-20 20:33:53,349 - Precision: 0.9294117647058824
+2023-12-20 20:33:53,349 - Recall: 0.2771929824561403
+2023-12-20 20:33:53,349 - F-score: 0.427027027027027
+2023-12-20 20:33:53,349 - Accuracy: 0.8350194552529183
+2023-12-20 20:33:53,349 - G-mean: 0.48110449302667924
+2023-12-20 20:33:53,349 - Additional Info
+2023-12-20 20:33:53,349 - Model name: distilbert-base-uncased
+2023-12-20 20:33:53,349 - Datasets list: politics
+2023-12-20 20:33:53,349 - Dataset size: 6424
+2023-12-20 20:33:53,349 - Layers frozen: 0
+2023-12-20 20:33:53,350 - Learning rate: 1e-05
+2023-12-20 20:33:53,350 - Class weights: Default weights - [0.7921855541718555, 0.20781444582814446]
+2023-12-20 20:33:53,350 - Model saved to: ./models/bert_model_kSdRIpQOIW.pt

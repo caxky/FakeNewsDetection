@@ -1,0 +1,23 @@
+2023-12-22 19:59:14,220 - 
+Starting detection model - vdxEI2dISk
+2023-12-22 20:05:28,959 - Epoch 1 average train loss: 0.0
+2023-12-22 20:10:24,048 - Epoch 2 average train loss: 0.0
+2023-12-22 20:15:18,306 - Epoch 3 average train loss: 0.0
+2023-12-22 20:20:13,422 - Epoch 4 average train loss: 0.0
+2023-12-22 20:25:08,559 - Epoch 5 average train loss: 0.0
+2023-12-22 20:25:33,690 - Evaluation Results
+2023-12-22 20:25:33,690 - Training time: 1475.4533443450928 seconds
+2023-12-22 20:25:33,690 - Inference time: 24.64264941215515 seconds
+2023-12-22 20:25:33,690 - Precision: 0.8264299802761341
+2023-12-22 20:25:33,691 - Recall: 0.8297029702970297
+2023-12-22 20:25:33,691 - F-score: 0.8280632411067194
+2023-12-22 20:25:33,691 - Accuracy: 0.8534119629317607
+2023-12-22 20:25:33,691 - G-mean: 0.8414739690159764
+2023-12-22 20:25:33,691 - Additional Info
+2023-12-22 20:25:33,691 - Model name: distilbert-base-uncased
+2023-12-22 20:25:33,691 - Datasets list: health
+2023-12-22 20:25:33,691 - Dataset size: 5932
+2023-12-22 20:25:33,691 - Layers frozen: 0
+2023-12-22 20:25:33,691 - Learning rate: 1e-05
+2023-12-22 20:25:33,691 - Class weights: Manual weights - [0.45, 0.55]
+2023-12-22 20:25:33,692 - Model saved to: ./models/bert_model_vdxEI2dISk.pt
